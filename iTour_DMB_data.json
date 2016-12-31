@@ -97,7 +97,7 @@
   {
     "showID": 6,
     "dateShow": "2017-03-20T19:30:00",
-    "dateDoors": "2017-03-20T8:30:00",
+    "dateDoors": "2017-03-20T18:30:00",
     "dateLots": "",
     "timeZone": "Europe/London",
     "venue": "Eventim Apollo",
@@ -116,7 +116,7 @@
   {
     "showID": 7,
     "dateShow": "2017-03-21T19:30:00",
-    "dateDoors": "2017-03-21T8:30:00",
+    "dateDoors": "2017-03-21T18:30:00",
     "dateLots": "",
     "timeZone": "Europe/London",
     "venue": "Eventim Apollo",
@@ -135,7 +135,7 @@
   {
     "showID": 8,
     "dateShow": "2017-03-23T19:30:00",
-    "dateDoors": "2017-03-23T8:30:00",
+    "dateDoors": "2017-03-23T18:30:00",
     "dateLots": "",
     "timeZone": "Europe/London",
     "venue": "Olympia Theatre",
@@ -150,5 +150,43 @@
     "venueURL": "http://olympia.ie/",
     "setlistURL": "http://www.antsmarching.org/tour/ViewShow.php?ShowID=4665",
     "seatingURL": "http://olympia.ie/fs/img/Olympia%20full%20chart%20with%20Stalls%20seating%20new%20layout%20-%20May%202016.jpg"
+  },
+  {
+    "showID": 9,
+    "dateShow": "2017-03-25T19:30:00",
+    "dateDoors": "2017-03-25T18:30:00",
+    "dateLots": "",
+    "timeZone": "Europe/Amsterdam",
+    "venue": "De Oosterpoort",
+    "altName": "Groningen",
+    "notes": "An Evening with Dave & Tim",
+    "address": "Trompsingel 27",
+    "city": 9724,
+    "state": "DA",
+    "postal": "Groningen",
+    "country": "Netherlands",
+    "phoneNbr": "+31 50 368 0368",
+    "venueURL": "http://de-oosterpoo.nl",
+    "setlistURL": "http://www.antsmarching.org/tour/ViewShow.php?ShowID=4666",
+    "seatingURL": "http://www.euro-ticket.com/tickets/stadium/bilety_na_kontserty_netherlands_concert_tickets/zakaz_biletov_groningen_sports_tickets/schema_de_oosterpoort_groningen_seating_plan_images/0/3435/"
+  },
+  {
+    "showID": 10,
+    "dateShow": "2017-03-27T20:30:00",
+    "dateDoors": "2017-03-27T19:00:00",
+    "dateLots": "",
+    "timeZone": "Europe/Berlin",
+    "venue": "Palladium",
+    "altName": "Köln",
+    "notes": "An Evening with Dave & Tim",
+    "address": "Schanzenstraße 40",
+    "city": 51063,
+    "state": "Köln",
+    "postal": "",
+    "country": "Germany",
+    "phoneNbr": "+49 221 96790",
+    "venueURL": "http://www.palladium-koeln.de/",
+    "setlistURL": "http://www.antsmarching.org/tour/ViewShow.php?ShowID=4667",
+    "seatingURL": "http://www.palladium-koeln.de/fileadmin/Inhalte/Downloads/Palladium_Reihenbestuhlung_1332pax.pdf"
   }
 ]
