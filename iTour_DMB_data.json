@@ -2,7 +2,7 @@
   {
     "showID": 1,
     "dateShow": "2017-01-25T20:00:00",
-    "dateDoors": "2016-12-28T18:30:00",
+    "dateDoors": "2017-01-25T18:30:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "Smart Financial Centre",
@@ -21,7 +21,7 @@
   {
     "showID": 2,
     "dateShow": "2017-01-26T20:30:00",
-    "dateDoors": "2016-12-28T18:30:00",
+    "dateDoors": "2016-01-26T18:30:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "Verizon Theatre",
