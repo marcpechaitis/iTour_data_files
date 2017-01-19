@@ -1,6 +1,7 @@
 const params = {
   APP_NAME: 'iTour.dmb FREE',
   BAND: 'DMB',
+  BAND_COLOR: 'C7A720',
   BAND_NAME: 'Dave Matthews Band',
   BAND_URL_DEFAULT: 'http://www.davematthewsband.com/tour',
   MUSIC_TITLE: 'JamBase Local Music',
@@ -11,10 +12,10 @@ const params = {
   SEATING_TITLE: 'Seating Chart',
   SETLIST_TITLE: 'Antsmarching Setlist',
   TICKETS_TITLE: 'CashorTrade Tickets',
-  TICKETS_URL: 'http://m.cashortrade.org/phish-tickets',
-  UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id391888525',
+  TICKETS_URL: 'http://m.cashortrade.org/dave-matthews-band-tickets',
+  UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id398937827',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=phish%20',
+  VIDEO_URL: 'https://m.youtube.com/#/results?q=dave%20matthews%20band%20',
   WEATHER_TITLE: 'Dark Sky Weather',
   WEATHER_URL: 'https://darksky.net/'
 };
