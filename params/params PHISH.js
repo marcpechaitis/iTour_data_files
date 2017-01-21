@@ -1,5 +1,5 @@
 const params = {
-  APP_NAME: 'iTour.phish',
+  APP_NAME: 'iTour.phish FREE',
   BAND: 'PHISH',
   BAND_COLOR: '228AE6',
   BAND_NAME: 'Phish',
