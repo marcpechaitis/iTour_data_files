@@ -1,7 +1,7 @@
 const params = {
   APP_NAME: 'iTour.dead',
   BAND: 'DEAD',
-  BAND_COLOR: 'FF0000',
+  BAND_COLOR: 'F64747',
   BAND_NAME: 'Dead & Co.',
   BAND_URL_DEFAULT: 'http://www.deadandcompany.com/',
   MUSIC_TITLE: 'JamBase Local Music',

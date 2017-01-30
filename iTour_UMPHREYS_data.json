@@ -73,7 +73,7 @@
     "phoneNbr": "804-612-1900",
     "venueURL": "http://www.thenatinoalva.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-20",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 5,
@@ -92,7 +92,7 @@
     "phoneNbr": "804-612-1900",
     "venueURL": "http://www.thenatinoalva.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-21",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 6,
@@ -130,7 +130,7 @@
     "phoneNbr": "203-867-2000",
     "venueURL": "http://collegestreetmusichall.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-26",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 8,
@@ -187,7 +187,7 @@
     "phoneNbr": "585-484-1964",
     "venueURL": "http://anthologylive.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-01-29",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 11,
@@ -301,7 +301,7 @@
     "phoneNbr": "828-398-1837",
     "venueURL": "http://theorangepeel.net",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-02-19",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 17,
@@ -320,7 +320,7 @@
     "phoneNbr": "",
     "venueURL": "http://livefromthehive.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-01",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 18,
@@ -339,7 +339,7 @@
     "phoneNbr": "",
     "venueURL": "http://livefromthehive.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-02",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 19,
@@ -358,7 +358,7 @@
     "phoneNbr": "406-728-2521",
     "venueURL": "http://thewilma.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-03",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 20,
@@ -377,7 +377,7 @@
     "phoneNbr": "406-728-2521",
     "venueURL": "http://thewilma.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-04",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 21,
@@ -396,7 +396,7 @@
     "phoneNbr": "801-355-5522",
     "venueURL": "http://depotslc.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-09",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 22,
@@ -472,7 +472,7 @@
     "phoneNbr": "480-829-0607",
     "venueURL": "http://luckymanonline.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-03-16",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 26,
@@ -605,7 +605,7 @@
     "phoneNbr": "918-584-2306",
     "venueURL": "http://cainsballroom.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-04-19",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 33,
@@ -624,7 +624,7 @@
     "phoneNbr": "512-480-8341",
     "venueURL": "http://www.stubbsaustin.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-04-20",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 34,
@@ -681,7 +681,7 @@
     "phoneNbr": "727-565-0050",
     "venueURL": "http://www.jannuslive.com",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-04-26",
-    "seatingURL": "http://theitourapp.com/GenAdm.jpg"
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg"
   },
   {
     "showID": 37,
