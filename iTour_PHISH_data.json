@@ -342,25 +342,6 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 21,
-    "dateShow": "2017-08-06T19:30:00",
-    "dateDoors": "2017-08-06T18:30:00",
-    "dateLots": "",
-    "timeZone": "America/New_York",
-    "venue": "Madison Square Garden",
-    "altName": "New York",
-    "notes": "Capacity: 20,000",
-    "address": "4 Pennsylvania Plaza",
-    "city": "New York",
-    "state": "NY",
-    "postal": "10001",
-    "country": "USA",
-    "phoneNbr": "212-465-6741",
-    "venueURL": "http://thegarden.com",
-    "setlistURL": "http://phish.net/setlists/?d=2017-08-06",
-    "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
-  },
-  {
     "showID": 22,
     "dateShow": "2017-09-01T19:30:00",
     "dateDoors": "2017-09-01T18:00:00",
