@@ -1,6 +1,101 @@
 [
   {
     "showID": 4,
+    "dateShow": "2017-07-14T19:00:00",
+    "dateDoors": "2017-07-14T17:30:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "Huntington Bank Pavilion at Northerly Island",
+    "altName": "Chicago",
+    "notes": "Capacity: 30,000",
+    "address": "1300 S Linn White Drive",
+    "city": "Chicago",
+    "state": "IL",
+    "postal": "60605",
+    "country": "USA",
+    "phoneNbr": "312-540-2668",
+    "venueURL": "http://www.livenation.com/venues/14638/huntington-bank-pavilion-at-northerly-island/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-07-14",
+    "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch1/70086s.gif"
+  },
+  {
+    "showID": 5,
+    "dateShow": "2017-07-15T19:00:00",
+    "dateDoors": "2017-07-15T17:30:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "Huntington Bank Pavilion at Northerly Island",
+    "altName": "Chicago",
+    "notes": "Capacity: 30,000",
+    "address": "1300 S Linn White Drive",
+    "city": "Chicago",
+    "state": "IL",
+    "postal": "60605",
+    "country": "USA",
+    "phoneNbr": "312-540-2668",
+    "venueURL": "http://www.livenation.com/venues/14638/huntington-bank-pavilion-at-northerly-island/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-07-15",
+    "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch1/70086s.gif"
+  },
+  {
+    "showID": 6,
+    "dateShow": "2017-07-16T19:00:00",
+    "dateDoors": "2017-07-16T17:30:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "Huntington Bank Pavilion at Northerly Island",
+    "altName": "Chicago",
+    "notes": "Capacity: 30,000",
+    "address": "1300 S Linn White Drive",
+    "city": "Chicago",
+    "state": "IL",
+    "postal": "60605",
+    "country": "USA",
+    "phoneNbr": "312-540-2668",
+    "venueURL": "http://www.livenation.com/venues/14638/huntington-bank-pavilion-at-northerly-island/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-07-16",
+    "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch1/70086s.gif"
+  },
+  {
+    "showID": 7,
+    "dateShow": "2017-07-18T19:00:00",
+    "dateDoors": "2017-07-18T17:30:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Nutter Center",
+    "altName": "Dayton",
+    "notes": "Capacity: 10,400",
+    "address": "3640 Colonel Glenn Hwy #430",
+    "city": "Fairborn",
+    "state": "OH",
+    "postal": "45324",
+    "country": "USA",
+    "phoneNbr": "937-775-3498",
+    "venueURL": "http://www.nuttercenter.com/default.aspx",
+    "setlistURL": "http://phish.net/setlists/?d=2017-07-18",
+    "seatingURL": "http://www.nuttercenter.com/images/seating_charts/Concert.png"
+  },
+  {
+    "showID": 8,
+    "dateShow": "2017-07-19T19:00:00",
+    "dateDoors": "2017-07-19T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Petersen Events Center",
+    "altName": "Pittsburgh",
+    "notes": "Capacity: 12,508",
+    "address": "3719 Terrace St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal": "15261",
+    "country": "USA",
+    "phoneNbr": "412-648-3054",
+    "venueURL": "http://www.peterseneventscenter.com/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-07-19",
+    "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch6/16267s.gif"
+  },
+  {
+    "showID": 9,
     "dateShow": "2017-07-21T19:30:00",
     "dateDoors": "2017-07-21T18:30:00",
     "dateLots": "",
@@ -19,7 +114,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 5,
+    "showID": 10,
     "dateShow": "2017-07-22T19:30:00",
     "dateDoors": "2017-07-22T18:30:00",
     "dateLots": "",
@@ -38,7 +133,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 6,
+    "showID": 11,
     "dateShow": "2017-07-23T19:30:00",
     "dateDoors": "2017-07-23T18:30:00",
     "dateLots": "",
@@ -57,7 +152,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 7,
+    "showID": 12,
     "dateShow": "2017-07-25T19:30:00",
     "dateDoors": "2017-07-25T18:30:00",
     "dateLots": "",
@@ -76,7 +171,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 8,
+    "showID": 13,
     "dateShow": "2017-07-26T19:30:00",
     "dateDoors": "2017-07-26T18:30:00",
     "dateLots": "",
@@ -95,7 +190,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 9,
+    "showID": 14,
     "dateShow": "2017-07-28T19:30:00",
     "dateDoors": "2017-07-28T18:30:00",
     "dateLots": "",
@@ -114,7 +209,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 10,
+    "showID": 15,
     "dateShow": "2017-07-29T19:30:00",
     "dateDoors": "2017-07-29T18:30:00",
     "dateLots": "",
@@ -133,7 +228,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 11,
+    "showID": 16,
     "dateShow": "2017-07-30T19:30:00",
     "dateDoors": "2017-07-30T18:30:00",
     "dateLots": "",
@@ -152,7 +247,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 12,
+    "showID": 17,
     "dateShow": "2017-08-01T19:30:00",
     "dateDoors": "2017-08-01T18:30:00",
     "dateLots": "",
@@ -171,7 +266,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 13,
+    "showID": 18,
     "dateShow": "2017-08-02T19:30:00",
     "dateDoors": "2017-08-02T18:30:00",
     "dateLots": "",
@@ -190,7 +285,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 14,
+    "showID": 19,
     "dateShow": "2017-08-04T19:30:00",
     "dateDoors": "2017-08-04T18:30:00",
     "dateLots": "",
@@ -209,7 +304,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 15,
+    "showID": 20,
     "dateShow": "2017-08-05T19:30:00",
     "dateDoors": "2017-08-05T18:30:00",
     "dateLots": "",
@@ -228,7 +323,7 @@
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
   },
   {
-    "showID": 16,
+    "showID": 21,
     "dateShow": "2017-08-06T19:30:00",
     "dateDoors": "2017-08-06T18:30:00",
     "dateLots": "",
@@ -245,5 +340,81 @@
     "venueURL": "http://thegarden.com",
     "setlistURL": "http://phish.net/setlists/?d=2017-08-06",
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
+  },
+  {
+    "showID": 21,
+    "dateShow": "2017-08-06T19:30:00",
+    "dateDoors": "2017-08-06T18:30:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Madison Square Garden",
+    "altName": "New York",
+    "notes": "Capacity: 20,000",
+    "address": "4 Pennsylvania Plaza",
+    "city": "New York",
+    "state": "NY",
+    "postal": "10001",
+    "country": "USA",
+    "phoneNbr": "212-465-6741",
+    "venueURL": "http://thegarden.com",
+    "setlistURL": "http://phish.net/setlists/?d=2017-08-06",
+    "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny7/73072s.gif"
+  },
+  {
+    "showID": 22,
+    "dateShow": "2017-09-01T19:30:00",
+    "dateDoors": "2017-09-01T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Dick's Sporting Good Park",
+    "altName": "Commerce City",
+    "notes": "Capacity: 26,000",
+    "address": "6000 Victory Way",
+    "city": "Commerce City",
+    "state": "CO",
+    "postal": "80022",
+    "country": "USA",
+    "phoneNbr": "303-727-3500",
+    "venueURL": "http://www.dickssportinggoodspark.com/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-09-01",
+    "seatingURL": "http://www.altitudetickets.com/media/1249/dsgp-general-use-map.png"
+  },
+  {
+    "showID": 23,
+    "dateShow": "2017-09-02T19:30:00",
+    "dateDoors": "2017-09-02T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Dick's Sporting Good Park",
+    "altName": "Commerce City",
+    "notes": "Capacity: 26,000",
+    "address": "6000 Victory Way",
+    "city": "Commerce City",
+    "state": "CO",
+    "postal": "80022",
+    "country": "USA",
+    "phoneNbr": "303-727-3500",
+    "venueURL": "http://www.dickssportinggoodspark.com/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-09-02",
+    "seatingURL": "http://www.altitudetickets.com/media/1249/dsgp-general-use-map.png"
+  },
+  {
+    "showID": 24,
+    "dateShow": "2017-09-03T19:30:00",
+    "dateDoors": "2017-09-03T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Dick's Sporting Good Park",
+    "altName": "Commerce City",
+    "notes": "Capacity: 26,000",
+    "address": "6000 Victory Way",
+    "city": "Commerce City",
+    "state": "CO",
+    "postal": "80022",
+    "country": "USA",
+    "phoneNbr": "303-727-3500",
+    "venueURL": "http://www.dickssportinggoodspark.com/",
+    "setlistURL": "http://phish.net/setlists/?d=2017-09-03",
+    "seatingURL": "http://www.altitudetickets.com/media/1249/dsgp-general-use-map.png"
   }
 ]
