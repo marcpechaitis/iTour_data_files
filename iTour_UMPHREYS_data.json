@@ -361,25 +361,6 @@
     "seatingURL": "https://foundersbrewing.com/taproom-events/founders-fest-2017"
   },
   {
-    "showID": 50,
-    "dateShow": "2017-06-17T20:00:00",
-    "dateDoors": "",
-    "dateLots": "",
-    "timeZone": "America/Chicago",
-    "venue": "Founders Fest",
-    "altName": "Grand Rapids",
-    "notes": "10th Annual Street Party",
-    "address": "235 Grandville Ave",
-    "city": "Grand Rapids",
-    "state": "MI",
-    "postal": "49503",
-    "country": "USA",
-    "phoneNbr": "",
-    "venueURL": "https://foundersbrewing.com/taproom-events/founders-fest-2017",
-    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-06-17",
-    "seatingURL": "https://foundersbrewing.com/taproom-events/founders-fest-2017"
-  },
-  {
     "showID": 51,
     "dateShow": "2017-06-30T19:00:00",
     "dateDoors": "2017-06-30T18:00:00",
@@ -549,25 +530,6 @@
     "venueURL": "http://www.redhatamphitheater.com/",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-08-11",
     "seatingURL": "http://s1.ticketm.net/tm/en-us/tmimages/venue/maps/atl/75384s.gif"
-  },
-  {
-    "showID": 60,
-    "dateShow": "2017-08-12T20:00:00",
-    "dateDoors": "",
-    "dateLots": "",
-    "timeZone": "America/New_York",
-    "venue": "Montage Mountain",
-    "altName": "The Peach",
-    "notes": "Music Festival",
-    "address": "1000 Montage Mountain Rd",
-    "city": "Scranton",
-    "state": "PA",
-    "postal": "18507",
-    "country": "USA",
-    "phoneNbr": "800-468-7669",
-    "venueURL": "http://thepeachmusicfestival.com",
-    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2017-08-12",
-    "seatingURL": "http://thepeachmusicfestival.com/wp-content/uploads/2015/03/ThePeach2017-Lineup-WebSite-1000x1522.jpg"
   },
   {
     "showID": 60,
