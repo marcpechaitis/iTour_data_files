@@ -321,7 +321,7 @@
   },
   {
     "showID": 39,
-    "dateShow": "2018-02-27T19:00:00",
+    "dateShow": "2018-02-15T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Cancun",
@@ -335,12 +335,12 @@
     "country": "Mexico",
     "phoneNbr": "+52 984 875 1500",
     "venueURL": "https://www.barcelo.com",
-    "setlistURL": "http://www.deadheadland.com/2018/02/27/",
+    "setlistURL": "http://www.deadheadland.com/2018/02/15/",
     "seatingURL": "http://playinginthesand.com/"
   },
   {
     "showID": 40,
-    "dateShow": "2018-02-28T19:00:00",
+    "dateShow": "2018-02-16T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Cancun",
@@ -354,12 +354,12 @@
     "country": "Mexico",
     "phoneNbr": "+52 984 875 1500",
     "venueURL": "https://www.barcelo.com",
-    "setlistURL": "http://www.deadheadland.com/2018/02/28/",
+    "setlistURL": "http://www.deadheadland.com/2018/02/16/",
     "seatingURL": "http://playinginthesand.com/"
   },
   {
     "showID": 41,
-    "dateShow": "2018-03-01T19:00:00",
+    "dateShow": "2018-02-17T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Cancun",
@@ -373,12 +373,12 @@
     "country": "Mexico",
     "phoneNbr": "+52 984 875 1500",
     "venueURL": "https://www.barcelo.com",
-    "setlistURL": "http://www.deadheadland.com/2018/03/01/",
+    "setlistURL": "http://www.deadheadland.com/2018/02/17/",
     "seatingURL": "http://playinginthesand.com/"
   },
   {
     "showID": 42,
-    "dateShow": "2018-03-02T19:00:00",
+    "dateShow": "2018-02-18T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Cancun",
@@ -392,7 +392,7 @@
     "country": "Mexico",
     "phoneNbr": "+52 984 875 1500",
     "venueURL": "https://www.barcelo.com",
-    "setlistURL": "http://www.deadheadland.com/2018/03/02/",
+    "setlistURL": "http://www.deadheadland.com/2018/02/18/",
     "seatingURL": "http://playinginthesand.com/"
   }
 ]
