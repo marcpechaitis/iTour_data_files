@@ -1,0 +1,93 @@
+<p:addresses>
+<c:address>
+<c:type>
+<r:code>HOME</r:code>
+<r:description>Home</r:description>
+</c:type>
+<c:address1>2299 Piedmont Ave.</c:address1>
+<c:address2>RM# 391</c:address2>
+<c:address3></c:address3>
+<c:address4></c:address4>
+<c:num1></c:num1>
+<c:num2></c:num2>
+<c:addrField1></c:addrField1>
+<c:addrField2></c:addrField2>
+<c:addrField3></c:addrField3>
+<c:houseType></c:houseType>
+<c:city>Berkeley</c:city>
+<c:county></c:county>
+<c:stateCode>CA</c:stateCode>
+<c:stateName>California</c:stateName>
+<c:postalCode>94720</c:postalCode>
+<c:countryCode>USA</c:countryCode>
+<c:countryName>United States</c:countryName>
+<c:formattedAddress>2299 Piedmont Ave.\nRM# 391\nBerkeley, California 94720</c:formattedAddress>
+<c:disclose>false</c:disclose>
+<c:uiControl>
+<r:code>U</r:code>
+<r:description>Edit - No Delete</r:description>
+</c:uiControl>
+<c:fromDate>2014-12-17</c:fromDate>
+</c:address>
+<c:address>
+<c:type>
+<r:code>LOCL</r:code>
+<r:description>Local</r:description>
+</c:type>
+<c:address1>2299 PIEDMONT AVE</c:address1>
+<c:address2>RM X30</c:address2>
+<c:address3></c:address3>
+<c:address4></c:address4>
+<c:num1></c:num1>
+<c:num2></c:num2>
+<c:addrField1></c:addrField1>
+<c:addrField2></c:addrField2>
+<c:addrField3></c:addrField3>
+<c:houseType></c:houseType>
+<c:city>BERKELEY</c:city>
+<c:county></c:county>
+<c:stateCode>CA</c:stateCode>
+<c:stateName>California</c:stateName>
+<c:postalCode>94720</c:postalCode>
+<c:countryCode>USA</c:countryCode>
+<c:countryName>United States</c:countryName>
+<c:formattedAddress>2299 PIEDMONT AVE\nRM X30\nBERKELEY, California 94720</c:formattedAddress>
+<c:disclose>false</c:disclose>
+<c:uiControl>
+<r:code>U</r:code>
+<r:description>Edit - No Delete</r:description>
+</c:uiControl>
+<c:fromDate>2015-01-12</c:fromDate>
+</c:address>
+<c:address>
+<c:type>
+<r:code>DORM</r:code>
+<r:description>Dormitory</r:description>
+</c:type>
+<c:address1>Jackson House</c:address1>
+<c:address2>JH-301B</c:address2>
+<c:address3>2333 College Ave Apt JH-301B</c:address3>
+<c:address4></c:address4>
+<c:num1></c:num1>
+<c:num2></c:num2>
+<c:addrField1></c:addrField1>
+<c:addrField2></c:addrField2>
+<c:addrField3></c:addrField3>
+<c:houseType></c:houseType>
+<c:city>Berkeley</c:city>
+<c:county></c:county>
+<c:stateCode>CA</c:stateCode>
+<c:stateName>California</c:stateName>
+<c:postalCode>94704</c:postalCode>
+<c:countryCode>USA</c:countryCode>
+<c:countryName>United States</c:countryName>
+<c:formattedAddress>Jackson House\nJH-301B\n2333 College Ave Apt JH-301B\nBerkeley, California 94704</c:formattedAddress>
+<c:disclose>false</c:disclose>
+<c:uiControl>
+<r:code>N</r:code>
+<r:description>Do Not Display</r:description>
+</c:uiControl>
+<c:fromDate>2017-02-23</c:fromDate>
+<c:toDate>2017-08-01</c:toDate>
+</c:address>
+</p:addresses>
