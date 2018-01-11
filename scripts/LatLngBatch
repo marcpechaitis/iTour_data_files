@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # to run, type './LatLngBatch' in terminal
-# don't forget to update the release description!
 echo
 echo
 echo
