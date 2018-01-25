@@ -335,7 +335,7 @@
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
-    "venue": "XFINITY Theatre",
+    "venue": "Xfinity Theatre",
     "altName": "Hartford",
     "notes": "Capacity: 30,000",
     "address": "61 Savitt Way",
@@ -457,8 +457,8 @@
     "venueURL": "https://www.livenation.com/venues/14585/alpine-valley-music-theatre",
     "setlistURL": "http://www.deadheadland.com/2018/06/22",
     "seatingURL": "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch5/32817s.gif",
-    "lat": "42.7380042",
-    "lng": "-88.43384999999999",
+    "lat": "42.7391171",
+    "lng": "-88.4321447",
     "confidence": "0.7"
   },
   {
