@@ -1,28 +1,5 @@
 [
   {
-    "showID": 25,
-    "dateShow": "2018-09-02T19:00:00",
-    "dateDoors": "2018-09-02T17:30:00",
-    "dateLots": "",
-    "timeZone": "America/Denver",
-    "venue": "Dick's Sporting Goods Park",
-    "altName": "Commerce City",
-    "notes": "Capacity: 27,000",
-    "address": "6000 Victory Way",
-    "city": "Commerce City",
-    "state": "CO",
-    "postal": "80022",
-    "country": "USA",
-    "phoneNbr": "303-727-3500",
-    "venueURL": "http://www.dickssportinggoodspark.com/",
-    "setlistURL": "http://phish.net/setlists/?d=2018-09-02",
-    "seatingURL":
-      "http://www.dickssportinggoodspark.com/media/3941/dsgp_complex_map_2015.pdf",
-    "lat": "39.8056776",
-    "lng": "-104.8918195",
-    "confidence": "1"
-  },
-  {
     "showID": 1,
     "dateShow": "2018-07-17T18:30:00",
     "dateDoors": "2018-07-17T17:30:00",
