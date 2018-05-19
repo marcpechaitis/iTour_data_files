@@ -15,9 +15,9 @@ const params = {
   TICKETS_URL: 'http://m.cashortrade.org/widespread-panic-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id423268358',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=widespread%20panic%20',
+  VIDEO_URL: 'https://m.youtube.com/results?search_query=widespread%20panic%20',
   WEATHER_TITLE: 'Dark Sky Weather',
-  WEATHER_URL: 'https://darksky.net/'
+  WEATHER_URL: 'https://darksky.net/',
 };
 
 module.exports = params;

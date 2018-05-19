@@ -15,9 +15,10 @@ const params = {
   TICKETS_URL: 'http://m.cashortrade.org/dead-and-company-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id397607743',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=dead%20and%20company%20',
+  VIDEO_URL:
+    'https://m.youtube.com/results?search_query=dead%20and%20company%20',
   WEATHER_TITLE: 'Dark Sky Weather',
-  WEATHER_URL: 'https://darksky.net/'
+  WEATHER_URL: 'https://darksky.net/',
 };
 
 module.exports = params;

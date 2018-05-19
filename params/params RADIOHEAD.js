@@ -15,9 +15,9 @@ const params = {
   TICKETS_URL: 'http://m.cashortrade.org/radiohead-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id482323212',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=radiohead%20',
+  VIDEO_URL: 'https://m.youtube.com/results?search_query=radiohead%20',
   WEATHER_TITLE: 'Dark Sky Weather',
-  WEATHER_URL: 'https://darksky.net/'
+  WEATHER_URL: 'https://darksky.net/',
 };
 
 module.exports = params;

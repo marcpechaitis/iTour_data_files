@@ -15,9 +15,9 @@ const params = {
   TICKETS_URL: 'http://m.cashortrade.org/pearl-jam-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id721130915',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=pearl%20jam%20',
+  VIDEO_URL: 'https://m.youtube.com/results?search_query=pearl%20jam%20',
   WEATHER_TITLE: 'Dark Sky Weather',
-  WEATHER_URL: 'https://darksky.net/'
+  WEATHER_URL: 'https://darksky.net/',
 };
 
 module.exports = params;

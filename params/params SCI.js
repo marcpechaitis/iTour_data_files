@@ -15,9 +15,10 @@ const params = {
   TICKETS_URL: 'http://m.cashortrade.org/the-string-cheese-incident-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id467289582',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=string%20cheese%20incident%20',
+  VIDEO_URL:
+    'https://m.youtube.com/results?search_query=string%20cheese%20incident%20',
   WEATHER_TITLE: 'Dark Sky Weather',
-  WEATHER_URL: 'https://darksky.net/'
+  WEATHER_URL: 'https://darksky.net/',
 };
 
 module.exports = params;

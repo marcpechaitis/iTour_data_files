@@ -15,9 +15,9 @@ const params = {
   TICKETS_URL: 'http://m.cashortrade.org/phish-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id391888525',
   VIDEO_TITLE: 'YouTube Videos',
-  VIDEO_URL: 'https://m.youtube.com/#/results?q=phish%20',
+  VIDEO_URL: 'https://m.youtube.com/results?search_query=phish%20',
   WEATHER_TITLE: 'Dark Sky Weather',
-  WEATHER_URL: 'https://darksky.net/'
+  WEATHER_URL: 'https://darksky.net/',
 };
 
 module.exports = params;
