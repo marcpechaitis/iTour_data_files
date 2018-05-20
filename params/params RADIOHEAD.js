@@ -10,7 +10,7 @@ const params = {
   MUSIC_URL2: '&address=',
   MUSIC_URL3: '&region=&country=&radius=60',
   SEATING_TITLE: 'Seating Chart',
-  SETLIST_TITLE: 'Green Plastic Setlist',
+  SETLIST_TITLE: 'setlist.fm',
   TICKETS_TITLE: 'CashorTrade Tickets',
   TICKETS_URL: 'http://m.cashortrade.org/radiohead-tickets',
   UPGRADE_URL: 'itms://itunes.apple.com/us/app/apple-store/id482323212',
