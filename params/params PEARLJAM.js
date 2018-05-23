@@ -1,7 +1,7 @@
 const params = {
   APP_NAME: 'iTour.pearljam',
   BAND: 'PEARLJAM',
-  BAND_COLOR: 'FFFFFF',
+  BAND_COLOR: '222222',
   BAND_NAME: 'Pearl Jam',
   BAND_URL_DEFAULT: 'https://pearljam.com/',
   MUSIC_TITLE: 'JamBase Local Music',
