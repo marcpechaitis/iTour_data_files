@@ -1,27 +1,5 @@
 [
   {
-    "showID": 27,
-    "dateShow": "2018-04-22T19:00:00",
-    "dateDoors": "",
-    "dateLots": "",
-    "timeZone": "America/New_York",
-    "venue": "Centennial Olympic Park",
-    "altName": "Sweetwater",
-    "notes": "420 Fest",
-    "address": "265 Park Ave W Northwest",
-    "city": "Atlanta",
-    "state": "GA",
-    "postal": "30313",
-    "country": "USA",
-    "phoneNbr": "",
-    "venueURL": "http://www.sweetwater420fest.com/",
-    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-04-22",
-    "seatingURL": "http://www.sweetwater420fest.com/festival-info/faq/",
-    "lat": "33.7603474",
-    "lng": "-84.3935072",
-    "confidence": "1"
-  },
-  {
     "showID": 28,
     "dateShow": "2018-05-17T19:00:00",
     "dateDoors": "2018-05-17T18:00:00",
@@ -429,7 +407,7 @@
     "confidence": "1"
   },
   {
-    "showID": 45,
+    "showID": 46,
     "dateShow": "2018-08-11T18:30:00",
     "dateDoors": "2018-08-11T17:30:00",
     "dateLots": "",
@@ -453,7 +431,7 @@
     "confidence": "1"
   },
   {
-    "showID": 46,
+    "showID": 47,
     "dateShow": "2018-08-16T19:00:00",
     "dateDoors": "2018-08-16T18:00:00",
     "dateLots": "",
@@ -476,7 +454,7 @@
     "confidence": "1"
   },
   {
-    "showID": 47,
+    "showID": 48,
     "dateShow": "2018-08-17T19:00:00",
     "dateDoors": "2018-08-17T18:00:00",
     "dateLots": "",
@@ -499,7 +477,7 @@
     "confidence": "1"
   },
   {
-    "showID": 48,
+    "showID": 49,
     "dateShow": "2018-08-18T18:00:00",
     "dateDoors": "2018-08-18T17:00:00",
     "dateLots": "",
@@ -522,7 +500,7 @@
     "confidence": "1"
   },
   {
-    "showID": 49,
+    "showID": 50,
     "dateShow": "2018-08-19T20:00:00",
     "dateDoors": "2018-08-19T19:00:00",
     "dateLots": "",
@@ -545,7 +523,7 @@
     "confidence": "1"
   },
   {
-    "showID": 50,
+    "showID": 51,
     "dateShow": "2018-08-23T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -568,7 +546,7 @@
     "confidence": "1"
   },
   {
-    "showID": 51,
+    "showID": 52,
     "dateShow": "2018-08-24T19:15:00",
     "dateDoors": "",
     "dateLots": "",
@@ -591,7 +569,7 @@
     "confidence": "1"
   },
   {
-    "showID": 52,
+    "showID": 53,
     "dateShow": "2018-08-25T20:00:00",
     "dateDoors": "2018-08-25T18:30:00",
     "dateLots": "",
@@ -613,7 +591,7 @@
     "confidence": "1"
   },
   {
-    "showID": 53,
+    "showID": 54,
     "dateShow": "2018-08-30T19:30:00",
     "dateDoors": "2018-08-30T18:30:00",
     "dateLots": "",
@@ -635,7 +613,7 @@
     "confidence": "1"
   },
   {
-    "showID": 54,
+    "showID": 55,
     "dateShow": "2018-08-31T19:30:00",
     "dateDoors": "2018-08-31T18:30:00",
     "dateLots": "",
@@ -657,7 +635,7 @@
     "confidence": "1"
   },
   {
-    "showID": 55,
+    "showID": 56,
     "dateShow": "2018-09-01T19:30:00",
     "dateDoors": "2018-08-31T18:30:00",
     "dateLots": "",
