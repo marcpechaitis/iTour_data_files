@@ -228,6 +228,28 @@
   },
   {
     "showID": 38,
+    "dateShow": "2018-06-28T17:30:00",
+    "dateDoors": "2018-06-28T17:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Canalside Buffalo",
+    "altName": "Buffalo",
+    "notes": "with Big Something",
+    "address": "44 Prime St",
+    "city": "Buffalo",
+    "state": "NY",
+    "postal": "14202",
+    "country": "USA",
+    "phoneNbr": "716-436-7100",
+    "venueURL": "https://www.canalsidebuffalo.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-06-28",
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "lat": "42.8769032",
+    "lng": "-78.8793511",
+    "confidence": "1"
+  },
+  {
+    "showID": 39,
     "dateShow": "2018-06-29T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -250,7 +272,7 @@
     "confidence": "1"
   },
   {
-    "showID": 39,
+    "showID": 40,
     "dateShow": "2018-06-30T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -267,19 +289,19 @@
     "venueURL": "http://www.stoneponyonline.com/",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-06-30",
     "seatingURL": "http://theitourapp.com/data/GenAdm.jpg",
-    "lat": "40.2200031",
-    "lng": "-74.0008579",
+    "lat": "40.219798",
+    "lng": "-74.001015",
     "confidence": "1"
   },
   {
-    "showID": 40,
+    "showID": 41,
     "dateShow": "2018-07-05T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Denver",
     "venue": "Red Rocks Amphitheatre",
     "altName": "Morrison",
-    "notes": "with TBA",
+    "notes": "with Lotus",
     "address": "18300 W Alameda Pkwy",
     "city": "Morrison",
     "state": "CO",
@@ -295,7 +317,7 @@
     "confidence": "1"
   },
   {
-    "showID": 41,
+    "showID": 42,
     "dateShow": "2018-07-06T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -318,7 +340,30 @@
     "confidence": "1"
   },
   {
-    "showID": 42,
+    "showID": 43,
+    "dateShow": "2018-07-07T19:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Red Rocks Amphitheatre",
+    "altName": "Morrison",
+    "notes": "with The Record Company",
+    "address": "18300 W Alameda Pkwy",
+    "city": "Morrison",
+    "state": "CO",
+    "postal": "80465",
+    "country": "USA",
+    "phoneNbr": "720-865-2494",
+    "venueURL": "http://redrocksonline.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-07-07",
+    "seatingURL":
+      "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
+    "lat": "39.6654245",
+    "lng": "-105.2057111",
+    "confidence": "1"
+  },
+  {
+    "showID": 43,
     "dateShow": "2018-07-14T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -341,7 +386,7 @@
     "confidence": "1"
   },
   {
-    "showID": 43,
+    "showID": 44,
     "dateShow": "2018-07-20T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -363,7 +408,7 @@
     "confidence": "1"
   },
   {
-    "showID": 44,
+    "showID": 45,
     "dateShow": "2018-08-04T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -385,7 +430,7 @@
     "confidence": "1"
   },
   {
-    "showID": 45,
+    "showID": 46,
     "dateShow": "2018-08-09T19:00:00",
     "dateDoors": "2018-08-09T18:00:00",
     "dateLots": "",
@@ -407,7 +452,29 @@
     "confidence": "1"
   },
   {
-    "showID": 46,
+    "showID": 47,
+    "dateShow": "2018-08-10T18:30:00",
+    "dateDoors": "2018-08-10T17:30:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "Major Rager",
+    "altName": "Chesterfield",
+    "notes": "The Major Rager",
+    "address": "631 Veterans Pl Dr",
+    "city": "Chesterfield",
+    "state": "MO",
+    "postal": "63017",
+    "country": "USA",
+    "phoneNbr": "636-812-9500",
+    "venueURL": "http://www.chesterfieldamphitheater.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-08-10",
+    "seatingURL": "https://www.fwbpro.com/major-rager",
+    "lat": "38.6536503",
+    "lng": "-90.5728495",
+    "confidence": "1"
+  },
+  {
+    "showID": 48,
     "dateShow": "2018-08-11T18:30:00",
     "dateDoors": "2018-08-11T17:30:00",
     "dateLots": "",
@@ -431,7 +498,29 @@
     "confidence": "1"
   },
   {
-    "showID": 47,
+    "showID": 49,
+    "dateShow": "2018-08-12T17:30:00",
+    "dateDoors": "2018-08-12T16:30:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "Avondale Brewing Company",
+    "altName": "Birmingham",
+    "notes": "with Spafford",
+    "address": "201 41st St S",
+    "city": "Birmingham",
+    "state": "AL",
+    "postal": "35222",
+    "country": "USA",
+    "phoneNbr": "205-777-5456",
+    "venueURL": "https://avondalebrewing.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-08-12",
+    "seatingURL": "http://theitourapp.com/data/GenAdm.jpg",
+    "lat": "33.5245451",
+    "lng": "-86.7741712",
+    "confidence": "1"
+  },
+  {
+    "showID": 50,
     "dateShow": "2018-08-16T19:00:00",
     "dateDoors": "2018-08-16T18:00:00",
     "dateLots": "",
@@ -454,7 +543,7 @@
     "confidence": "1"
   },
   {
-    "showID": 48,
+    "showID": 51,
     "dateShow": "2018-08-17T19:00:00",
     "dateDoors": "2018-08-17T18:00:00",
     "dateLots": "",
@@ -477,7 +566,7 @@
     "confidence": "1"
   },
   {
-    "showID": 49,
+    "showID": 52,
     "dateShow": "2018-08-18T18:00:00",
     "dateDoors": "2018-08-18T17:00:00",
     "dateLots": "",
@@ -500,7 +589,7 @@
     "confidence": "1"
   },
   {
-    "showID": 50,
+    "showID": 53,
     "dateShow": "2018-08-19T20:00:00",
     "dateDoors": "2018-08-19T19:00:00",
     "dateLots": "",
@@ -523,7 +612,7 @@
     "confidence": "1"
   },
   {
-    "showID": 51,
+    "showID": 54,
     "dateShow": "2018-08-23T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -546,7 +635,7 @@
     "confidence": "1"
   },
   {
-    "showID": 52,
+    "showID": 55,
     "dateShow": "2018-08-24T19:15:00",
     "dateDoors": "",
     "dateLots": "",
@@ -569,7 +658,7 @@
     "confidence": "1"
   },
   {
-    "showID": 53,
+    "showID": 56,
     "dateShow": "2018-08-25T20:00:00",
     "dateDoors": "2018-08-25T18:30:00",
     "dateLots": "",
@@ -591,7 +680,7 @@
     "confidence": "1"
   },
   {
-    "showID": 54,
+    "showID": 57,
     "dateShow": "2018-08-30T19:30:00",
     "dateDoors": "2018-08-30T18:30:00",
     "dateLots": "",
@@ -613,7 +702,7 @@
     "confidence": "1"
   },
   {
-    "showID": 55,
+    "showID": 58,
     "dateShow": "2018-08-31T19:30:00",
     "dateDoors": "2018-08-31T18:30:00",
     "dateLots": "",
@@ -630,12 +719,12 @@
     "venueURL": "http://acl-live.com/",
     "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-08-31",
     "seatingURL": "http://theitourapp.com/data/GenAdm.jpg",
-    "lat": "30.265565",
-    "lng": "-97.7473267",
+    "lat": "30.2655581",
+    "lng": "-97.7473373",
     "confidence": "1"
   },
   {
-    "showID": 56,
+    "showID": 59,
     "dateShow": "2018-09-01T19:30:00",
     "dateDoors": "2018-08-31T18:30:00",
     "dateLots": "",
@@ -655,6 +744,116 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/dal/41092s.gif",
     "lat": "32.7850366",
     "lng": "-96.80824989999999",
+    "confidence": "1"
+  },
+  {
+    "showID": 60,
+    "dateShow": "2018-12-14T19:30:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Cancun",
+    "venue": "Dreams Riviera",
+    "altName": "Holidaze",
+    "notes": "",
+    "address": "Carretera Federal Chetumal-Puerto Juárez Km. 307",
+    "city": "Puerto Morales",
+    "state": "77580 Benito Juárez",
+    "postal": "Q.R.",
+    "country": "Mexico",
+    "phoneNbr": "866-237-3267",
+    "venueURL": "http://holidazerocks.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-12-14",
+    "seatingURL": "http://holidazerocks.com/",
+    "lat": "20.871628",
+    "lng": "-86.8667339",
+    "confidence": "0.7"
+  },
+  {
+    "showID": 61,
+    "dateShow": "2018-12-15T19:30:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Cancun",
+    "venue": "Dreams Riviera",
+    "altName": "Holidaze",
+    "notes": "",
+    "address": "Carretera Federal Chetumal-Puerto Juárez Km. 307",
+    "city": "Puerto Morales",
+    "state": "77580 Benito Juárez",
+    "postal": "Q.R.",
+    "country": "Mexico",
+    "phoneNbr": "866-237-3267",
+    "venueURL": "http://holidazerocks.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-12-15",
+    "seatingURL": "http://holidazerocks.com/",
+    "lat": "20.871628",
+    "lng": "-86.8667339",
+    "confidence": "0.7"
+  },
+  {
+    "showID": 62,
+    "dateShow": "2018-12-16T19:30:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Cancun",
+    "venue": "Dreams Riviera",
+    "altName": "Holidaze",
+    "notes": "",
+    "address": "Carretera Federal Chetumal-Puerto Juárez Km. 307",
+    "city": "Puerto Morales",
+    "state": "77580 Benito Juárez",
+    "postal": "Q.R.",
+    "country": "Mexico",
+    "phoneNbr": "866-237-3267",
+    "venueURL": "http://holidazerocks.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2018-12-16",
+    "seatingURL": "http://holidazerocks.com/",
+    "lat": "20.871628",
+    "lng": "-86.8667339",
+    "confidence": "0.7"
+  },
+  {
+    "showID": 63,
+    "dateShow": "2019-01-17T19:30:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "PortMiami",
+    "altName": "Jamcruise",
+    "notes": "",
+    "address": "1015 North America Way",
+    "city": "Miami",
+    "state": "FL",
+    "postal": "33132",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.jamcruise.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2019-01-17",
+    "seatingURL": "https://www.jamcruise.com/",
+    "lat": "25.7787474",
+    "lng": "-80.17799529999999",
+    "confidence": "1"
+  },
+  {
+    "showID": 64,
+    "dateShow": "2019-01-18T19:30:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "PortMiami",
+    "altName": "Jamcruise",
+    "notes": "",
+    "address": "1015 North America Way",
+    "city": "Miami",
+    "state": "FL",
+    "postal": "33132",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.jamcruise.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2019-01-18",
+    "seatingURL": "https://www.jamcruise.com/",
+    "lat": "25.7787474",
+    "lng": "-80.17799529999999",
     "confidence": "1"
   }
 ]
