@@ -1,7 +1,7 @@
 [
   {
     "showID": 31,
-    "dateShow": "2017-05-28T19:00:00",
+    "dateShow": "2019-05-28T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -15,7 +15,7 @@
     "country": "USA",
     "phoneNbr": "508-339-2331",
     "venueURL": "https://www.livenation.com/venues/14479/xfinity-center",
-    "setlistURL": "http://www.deadheadland.com/2017/05/30",
+    "setlistURL": "http://www.deadheadland.com/2019/05/30",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny2/43777s.gif",
     "lat": "41.9924315",
@@ -24,7 +24,7 @@
   },
   {
     "showID": 32,
-    "dateShow": "2017-05-29T19:00:00",
+    "dateShow": "2019-05-29T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -38,7 +38,7 @@
     "country": "USA",
     "phoneNbr": "508-339-2331",
     "venueURL": "https://www.livenation.com/venues/14479/xfinity-center",
-    "setlistURL": "http://www.deadheadland.com/2017/05/30",
+    "setlistURL": "http://www.deadheadland.com/2019/05/30",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny2/43777s.gif",
     "lat": "41.9924315",
@@ -47,7 +47,7 @@
   },
   {
     "showID": 33,
-    "dateShow": "2017-05-30T19:00:00",
+    "dateShow": "2019-05-30T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -61,7 +61,7 @@
     "country": "USA",
     "phoneNbr": "508-339-2331",
     "venueURL": "https://www.livenation.com/venues/14479/xfinity-center",
-    "setlistURL": "http://www.deadheadland.com/2017/05/30",
+    "setlistURL": "http://www.deadheadland.com/2019/05/30",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny2/43777s.gif",
     "lat": "41.9924315",
@@ -70,7 +70,7 @@
   },
   {
     "showID": 34,
-    "dateShow": "2017-06-01T19:00:00",
+    "dateShow": "2019-06-01T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -84,7 +84,7 @@
     "country": "USA",
     "phoneNbr": "856-365-1300",
     "venueURL": "https://www.livenation.com/venues/14115/bb-t-pavilion",
-    "setlistURL": "http://www.deadheadland.com/2017/06/01",
+    "setlistURL": "http://www.deadheadland.com/2019/06/01",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/40785s.gif",
     "lat": "39.9405997",
@@ -93,7 +93,7 @@
   },
   {
     "showID": 35,
-    "dateShow": "2017-06-02T19:00:00",
+    "dateShow": "2019-06-02T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -107,7 +107,7 @@
     "country": "USA",
     "phoneNbr": "856-365-1300",
     "venueURL": "https://www.livenation.com/venues/14115/bb-t-pavilion",
-    "setlistURL": "http://www.deadheadland.com/2017/06/02",
+    "setlistURL": "http://www.deadheadland.com/2019/06/02",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/40785s.gif",
     "lat": "39.9405997",
@@ -116,7 +116,7 @@
   },
   {
     "showID": 36,
-    "dateShow": "2017-06-04T19:00:00",
+    "dateShow": "2019-06-04T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -130,7 +130,7 @@
     "country": "USA",
     "phoneNbr": "513-232-6220",
     "venueURL": "http://www.riverbend.org/",
-    "setlistURL": "http://www.deadheadland.com/2017/06/04",
+    "setlistURL": "http://www.deadheadland.com/2019/06/04",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch6/14490s.gif",
     "lat": "39.05205830000001",
@@ -139,7 +139,7 @@
   },
   {
     "showID": 37,
-    "dateShow": "2017-06-05T19:00:00",
+    "dateShow": "2019-06-05T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -154,7 +154,7 @@
     "phoneNbr": "",
     "venueURL":
       "https://www.livenation.com/venues/14412/ruoff-home-mortgage-music-center",
-    "setlistURL": "http://www.deadheadland.com/2017/06/06",
+    "setlistURL": "http://www.deadheadland.com/2019/06/06",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/47483s.gif",
     "lat": "40.0049695",
@@ -163,7 +163,7 @@
   },
   {
     "showID": 38,
-    "dateShow": "2017-06-06T19:00:00",
+    "dateShow": "2019-06-06T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -178,7 +178,7 @@
     "phoneNbr": "",
     "venueURL":
       "https://www.livenation.com/venues/14412/ruoff-home-mortgage-music-center",
-    "setlistURL": "http://www.deadheadland.com/2017/06/06",
+    "setlistURL": "http://www.deadheadland.com/2019/06/06",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/47483s.gif",
     "lat": "40.0049695",
@@ -187,7 +187,7 @@
   },
   {
     "showID": 39,
-    "dateShow": "2017-06-07T19:00:00",
+    "dateShow": "2019-06-07T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -202,7 +202,7 @@
     "phoneNbr": "",
     "venueURL":
       "https://www.livenation.com/venues/14412/ruoff-home-mortgage-music-center",
-    "setlistURL": "http://www.deadheadland.com/2017/06/06",
+    "setlistURL": "http://www.deadheadland.com/2019/06/06",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/47483s.gif",
     "lat": "40.0049695",
@@ -211,7 +211,7 @@
   },
   {
     "showID": 40,
-    "dateShow": "2017-06-08T19:00:00",
+    "dateShow": "2019-06-08T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -226,7 +226,7 @@
     "phoneNbr": "",
     "venueURL":
       "https://www.livenation.com/venues/14412/ruoff-home-mortgage-music-center",
-    "setlistURL": "http://www.deadheadland.com/2017/06/06",
+    "setlistURL": "http://www.deadheadland.com/2019/06/06",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/47483s.gif",
     "lat": "40.0049695",
@@ -235,7 +235,7 @@
   },
   {
     "showID": 41,
-    "dateShow": "2017-06-09T19:00:00",
+    "dateShow": "2019-06-09T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -250,7 +250,7 @@
     "phoneNbr": "",
     "venueURL":
       "https://www.livenation.com/venues/14412/ruoff-home-mortgage-music-center",
-    "setlistURL": "http://www.deadheadland.com/2017/06/06",
+    "setlistURL": "http://www.deadheadland.com/2019/06/06",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/47483s.gif",
     "lat": "40.0049695",
@@ -259,7 +259,7 @@
   },
   {
     "showID": 50,
-    "dateShow": "2017-06-11T19:00:00",
+    "dateShow": "2019-06-11T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -273,7 +273,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://spac.org/",
-    "setlistURL": "http://www.deadheadland.com/2017/06/11",
+    "setlistURL": "http://www.deadheadland.com/2019/06/11",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny1/76089s.gif",
     "lat": "43.055419",
@@ -282,7 +282,7 @@
   },
   {
     "showID": 51,
-    "dateShow": "2017-06-13T20:00:00",
+    "dateShow": "2019-06-13T20:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -296,7 +296,7 @@
     "country": "USA",
     "phoneNbr": "860-548-7370",
     "venueURL": "https://www.livenation.com/venues/14505/xfinity-theatre",
-    "setlistURL": "http://www.deadheadland.com/2017/06/13",
+    "setlistURL": "http://www.deadheadland.com/2019/06/13",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny5/61247s.gif",
     "lat": "41.7800478",
@@ -305,7 +305,7 @@
   },
   {
     "showID": 52,
-    "dateShow": "2017-06-15T19:00:00",
+    "dateShow": "2019-06-15T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -319,7 +319,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://newyork.mets.mlb.com/nym/ballpark/",
-    "setlistURL": "http://www.deadheadland.com/2017/06/15",
+    "setlistURL": "http://www.deadheadland.com/2019/06/15",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny5/68809s.gif",
     "lat": "40.7570877",
@@ -328,7 +328,7 @@
   },
   {
     "showID": 53,
-    "dateShow": "2017-06-16T19:00:00",
+    "dateShow": "2019-06-16T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -342,7 +342,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://newyork.mets.mlb.com/nym/ballpark/",
-    "setlistURL": "http://www.deadheadland.com/2017/06/16",
+    "setlistURL": "http://www.deadheadland.com/2019/06/16",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny5/68809s.gif",
     "lat": "40.7570877",
@@ -351,7 +351,7 @@
   },
   {
     "showID": 54,
-    "dateShow": "2017-06-19T19:00:00",
+    "dateShow": "2019-06-19T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -365,7 +365,7 @@
     "country": "USA",
     "phoneNbr": "585-599-5040",
     "venueURL": "https://www.darienlake.com/concerts",
-    "setlistURL": "http://www.deadheadland.com/2017/06/19",
+    "setlistURL": "http://www.deadheadland.com/2019/06/19",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny1/53747s.gif",
     "lat": "42.9268333",
@@ -374,7 +374,7 @@
   },
   {
     "showID": 55,
-    "dateShow": "2017-06-20T19:00:00",
+    "dateShow": "2019-06-20T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -388,7 +388,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "https://www.livenation.com/venues/14481/blossom-music-center",
-    "setlistURL": "http://www.deadheadland.com/2017/06/20",
+    "setlistURL": "http://www.deadheadland.com/2019/06/20",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/68553s.gif",
     "lat": "41.1912275",
@@ -397,7 +397,7 @@
   },
   {
     "showID": 56,
-    "dateShow": "2017-06-22T19:00:00",
+    "dateShow": "2019-06-22T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Chicago",
@@ -412,7 +412,7 @@
     "phoneNbr": "262-642-4400",
     "venueURL":
       "https://www.livenation.com/venues/14585/alpine-valley-music-theatre",
-    "setlistURL": "http://www.deadheadland.com/2017/06/22",
+    "setlistURL": "http://www.deadheadland.com/2019/06/22",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch5/32817s.gif",
     "lat": "42.7380042",
@@ -421,7 +421,7 @@
   },
   {
     "showID": 57,
-    "dateShow": "2017-06-23T19:00:00",
+    "dateShow": "2019-06-23T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Chicago",
@@ -436,7 +436,7 @@
     "phoneNbr": "262-642-4400",
     "venueURL":
       "https://www.livenation.com/venues/14585/alpine-valley-music-theatre",
-    "setlistURL": "http://www.deadheadland.com/2017/06/23",
+    "setlistURL": "http://www.deadheadland.com/2019/06/23",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch5/32817s.gif",
     "lat": "42.7380042",
@@ -445,7 +445,7 @@
   },
   {
     "showID": 58,
-    "dateShow": "2017-06-29T19:00:00",
+    "dateShow": "2019-06-29T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
@@ -459,7 +459,7 @@
     "country": "USA",
     "phoneNbr": "509-785-6262",
     "venueURL": "http://www.georgeamphitheatre.com/",
-    "setlistURL": "http://www.deadheadland.com/2017/06/29",
+    "setlistURL": "http://www.deadheadland.com/2019/06/29",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/sea/43594s.gif",
     "lat": "47.1013116",
@@ -468,7 +468,7 @@
   },
   {
     "showID": 59,
-    "dateShow": "2017-06-30T19:00:00",
+    "dateShow": "2019-06-30T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
@@ -482,7 +482,7 @@
     "country": "USA",
     "phoneNbr": "541-346-4461",
     "venueURL": "https://en.wikipedia.org/wiki/Autzen_Stadium",
-    "setlistURL": "http://www.deadheadland.com/2017/06/30",
+    "setlistURL": "http://www.deadheadland.com/2019/06/30",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/sea/83230s.gif",
     "lat": "44.0584587",
@@ -491,7 +491,7 @@
   },
   {
     "showID": 60,
-    "dateShow": "2017-07-02T19:00:00",
+    "dateShow": "2019-07-02T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
@@ -505,7 +505,7 @@
     "country": "USA",
     "phoneNbr": "650-967-4040",
     "venueURL": "http://www.mountainviewamphitheater.com/",
-    "setlistURL": "http://www.deadheadland.com/2017/07/02",
+    "setlistURL": "http://www.deadheadland.com/2019/07/02",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nca/77265s.gif",
     "lat": "37.4265994",
@@ -514,7 +514,7 @@
   },
   {
     "showID": 61,
-    "dateShow": "2017-07-03T19:00:00",
+    "dateShow": "2019-07-03T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
@@ -528,7 +528,7 @@
     "country": "USA",
     "phoneNbr": "650-967-4040",
     "venueURL": "http://www.mountainviewamphitheater.com/",
-    "setlistURL": "http://www.deadheadland.com/2017/07/03",
+    "setlistURL": "http://www.deadheadland.com/2019/07/03",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nca/77265s.gif",
     "lat": "37.4265994",
@@ -537,7 +537,7 @@
   },
   {
     "showID": 62,
-    "dateShow": "2017-07-06T19:30:00",
+    "dateShow": "2019-07-06T19:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
@@ -552,7 +552,7 @@
     "phoneNbr": "619-671-3500",
     "venueURL":
       "https://www.livenation.com/venues/14468/mattress-firm-amphitheatre",
-    "setlistURL": "http://www.deadheadland.com/2017/07/06",
+    "setlistURL": "http://www.deadheadland.com/2019/07/06",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/wes/32420s.gif",
     "lat": "32.5877434",
@@ -561,7 +561,7 @@
   },
   {
     "showID": 64,
-    "dateShow": "2017-07-07T19:00:00",
+    "dateShow": "2019-07-07T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
@@ -575,7 +575,7 @@
     "country": "USA",
     "phoneNbr": "866-363-4377",
     "venueURL": "https://en.wikipedia.org/wiki/Dodger_Stadium",
-    "setlistURL": "http://www.deadheadland.com/2017/07/07",
+    "setlistURL": "http://www.deadheadland.com/2019/07/07",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/la2/83227s.gif",
     "lat": "34.073851",
@@ -584,7 +584,7 @@
   },
   {
     "showID": 65,
-    "dateShow": "2017-07-11T19:00:00",
+    "dateShow": "2019-07-11T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Denver",
@@ -598,7 +598,7 @@
     "country": "USA",
     "phoneNbr": "505-452-5100",
     "venueURL": "https://www.livenation.com/venues/14579/isleta-amphitheater",
-    "setlistURL": "http://www.deadheadland.com/2017/07/11",
+    "setlistURL": "http://www.deadheadland.com/2019/07/11",
     "seatingURL":
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/18471s.gif",
     "lat": "34.9983553",
@@ -607,7 +607,7 @@
   },
   {
     "showID": 66,
-    "dateShow": "2017-07-13T18:30:00",
+    "dateShow": "2019-07-13T18:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Denver",
@@ -621,7 +621,7 @@
     "country": "USA",
     "phoneNbr": "303-492-5317",
     "venueURL": "http://www.cubuffs.com/news/2005/4/21/117805.aspx",
-    "setlistURL": "http://www.deadheadland.com/2017/07/13",
+    "setlistURL": "http://www.deadheadland.com/2019/07/13",
     "seatingURL": "http://www.cubuffs.com/images/2014/5/19/2014map.gif",
     "lat": "40.0094746",
     "lng": "-105.266905",
@@ -629,7 +629,7 @@
   },
   {
     "showID": 67,
-    "dateShow": "2017-07-14T18:30:00",
+    "dateShow": "2019-07-14T18:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Denver",
@@ -643,7 +643,7 @@
     "country": "USA",
     "phoneNbr": "303-492-5317",
     "venueURL": "http://www.cubuffs.com/news/2005/4/21/117805.aspx",
-    "setlistURL": "http://www.deadheadland.com/2017/07/14",
+    "setlistURL": "http://www.deadheadland.com/2019/07/14",
     "seatingURL": "http://www.cubuffs.com/images/2014/5/19/2014map.gif",
     "lat": "40.0094746",
     "lng": "-105.266905",
@@ -651,7 +651,7 @@
   },
   {
     "showID": 68,
-    "dateShow": "2017-08-25T21:15:00",
+    "dateShow": "2019-08-25T21:15:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -665,16 +665,16 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://www.locknfestival.com/",
-    "setlistURL": "http://www.deadheadland.com/2017/08/25",
+    "setlistURL": "http://www.deadheadland.com/2019/08/25",
     "seatingURL":
-      "http://www.locknfestival.com/wp-content/uploads/lockn2017_map.pdf",
+      "http://www.locknfestival.com/wp-content/uploads/lockn2019_map.pdf",
     "lat": "37.71290339999999",
     "lng": "-78.9017269",
     "confidence": "1"
   },
   {
     "showID": 69,
-    "dateShow": "2017-08-26T20:45:00",
+    "dateShow": "2019-08-26T20:45:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -688,9 +688,9 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://www.locknfestival.com/",
-    "setlistURL": "http://www.deadheadland.com/2017/08/26",
+    "setlistURL": "http://www.deadheadland.com/2019/08/26",
     "seatingURL":
-      "http://www.locknfestival.com/wp-content/uploads/lockn2017_map.pdf",
+      "http://www.locknfestival.com/wp-content/uploads/lockn2019_map.pdf",
     "lat": "37.71290339999999",
     "lng": "-78.9017269",
     "confidence": "1"
