@@ -1,6 +1,28 @@
 [
   {
     "showID": 52,
+    "dateShow": "2018-06-21T20:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Electric Forest Festival",
+    "altName": "Electric Forest",
+    "notes": "First Weekend",
+    "address": "7100 South Water Road",
+    "city": "Rothbury",
+    "state": "MI",
+    "postal": "49437",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "http://www.electricforestfestival.com",
+    "setlistURL": "http://friendsofcheese.com/incident.php?id=1662",
+    "seatingURL": "https://www.electricforestfestival.com/2017info/maps/",
+    "lat": "43.5167189",
+    "lng": "-86.3660407",
+    "confidence": "1"
+  },
+  {
+    "showID": 53,
     "dateShow": "2018-06-22T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -15,29 +37,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://www.electricforestfestival.com",
-    "setlistURL": "http://friendsofcheese.com/incident.php?id=1646",
-    "seatingURL": "https://www.electricforestfestival.com/2017info/maps/",
-    "lat": "43.5167189",
-    "lng": "-86.3660407",
-    "confidence": "1"
-  },
-  {
-    "showID": 53,
-    "dateShow": "2018-06-23T20:00:00",
-    "dateDoors": "",
-    "dateLots": "",
-    "timeZone": "America/New_York",
-    "venue": "Electric Forest Festival",
-    "altName": "Electric Forest",
-    "notes": "First Weekend",
-    "address": "7100 South Water Road",
-    "city": "Rothbury",
-    "state": "MI",
-    "postal": "49437",
-    "country": "USA",
-    "phoneNbr": "",
-    "venueURL": "http://www.electricforestfestival.com",
-    "setlistURL": "http://friendsofcheese.com/incident.php?id=1647",
+    "setlistURL": "http://friendsofcheese.com/incident.php?id=1663",
     "seatingURL": "https://www.electricforestfestival.com/2017info/maps/",
     "lat": "43.5167189",
     "lng": "-86.3660407",
@@ -59,7 +59,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://www.electricforestfestival.com",
-    "setlistURL": "http://friendsofcheese.com/incident.php?id=1648",
+    "setlistURL": "http://friendsofcheese.com/incident.php?id=1665",
     "seatingURL": "https://www.electricforestfestival.com/2017info/maps/",
     "lat": "43.5167189",
     "lng": "-86.3660407",
@@ -81,7 +81,7 @@
     "country": "USA",
     "phoneNbr": "",
     "venueURL": "http://www.electricforestfestival.com",
-    "setlistURL": "http://friendsofcheese.com/incident.php?id=1649",
+    "setlistURL": "http://friendsofcheese.com/incident.php?id=1666",
     "seatingURL": "https://www.electricforestfestival.com/2017info/maps/",
     "lat": "43.5167189",
     "lng": "-86.3660407",
@@ -104,8 +104,7 @@
     "phoneNbr": "",
     "venueURL": "http://highsierramusic.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1650",
-    "seatingURL":
-      "http://highsierramusic.com/wp-content/uploads/2015/03/2017-map-1.jpg",
+    "seatingURL": "http://highsierramusic.com/wp-content/uploads/2015/03/2017-map-1.jpg",
     "lat": "39.9387929",
     "lng": "-120.9049754",
     "confidence": "1"
@@ -127,8 +126,7 @@
     "phoneNbr": "",
     "venueURL": "http://highsierramusic.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1651",
-    "seatingURL":
-      "http://highsierramusic.com/wp-content/uploads/2015/03/2017-map-1.jpg",
+    "seatingURL": "http://highsierramusic.com/wp-content/uploads/2015/03/2017-map-1.jpg",
     "lat": "39.9387929",
     "lng": "-120.9049754",
     "confidence": "1"
@@ -282,8 +280,7 @@
     "phoneNbr": "",
     "venueURL": "http://redrocksonline.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1640",
-    "seatingURL":
-      "http://redrocksonline.com/images/info/_wygimg/red_rocks_seating_chart.gif",
+    "seatingURL": "http://redrocksonline.com/images/info/_wygimg/red_rocks_seating_chart.gif",
     "lat": "39.6654245",
     "lng": "-105.2057111",
     "confidence": "1"
@@ -305,8 +302,7 @@
     "phoneNbr": "",
     "venueURL": "http://redrocksonline.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1641",
-    "seatingURL":
-      "http://redrocksonline.com/images/info/_wygimg/red_rocks_seating_chart.gif",
+    "seatingURL": "http://redrocksonline.com/images/info/_wygimg/red_rocks_seating_chart.gif",
     "lat": "39.6654245",
     "lng": "-105.2057111",
     "confidence": "1"
@@ -328,8 +324,7 @@
     "phoneNbr": "",
     "venueURL": "http://redrocksonline.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1642",
-    "seatingURL":
-      "http://redrocksonline.com/images/info/_wygimg/red_rocks_seating_chart.gif",
+    "seatingURL": "http://redrocksonline.com/images/info/_wygimg/red_rocks_seating_chart.gif",
     "lat": "39.6654245",
     "lng": "-105.2057111",
     "confidence": "1"
@@ -483,8 +478,7 @@
     "phoneNbr": "215-309-0150",
     "venueURL": "http://www.thefillmorephilly.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1658",
-    "seatingURL":
-      "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/63519s.gif",
+    "seatingURL": "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/63519s.gif",
     "lat": "39.9658025",
     "lng": "-75.1346882",
     "confidence": "1"
@@ -506,8 +500,7 @@
     "phoneNbr": "215-309-0150",
     "venueURL": "http://www.thefillmorephilly.com/",
     "setlistURL": "http://friendsofcheese.com/incident.php?id=1659",
-    "seatingURL":
-      "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/63519s.gif",
+    "seatingURL": "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/63519s.gif",
     "lat": "39.9658025",
     "lng": "-75.1346882",
     "confidence": "1"
