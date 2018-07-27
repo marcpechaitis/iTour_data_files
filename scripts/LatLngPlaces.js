@@ -170,11 +170,9 @@ var placesItemsPlacesPhotoURL = function(i) {
         console.log(
           event.showID +
             ' Generating Places Photo URL: '.blue +
-            event.venue.blue +
-            ' ' +
-            event.placesPhotoReference
+            event.venue.white
         );
-        venue = event.venue;
+        // venue = event.venue;
         googlePlacesParameters = {
           location: [event.lat, event.lng],
           keyword: event.venue,
@@ -182,27 +180,104 @@ var placesItemsPlacesPhotoURL = function(i) {
         console.log(JSON.stringify(googlePlacesParameters));
 
         googlePlaces.placeSearch(googlePlacesParameters, async function(
+          // googlePlaces.nearBySearch(googlePlacesParameters, async function(
           error,
           responsePlaces
         ) {
-          if (typeof responsePlaces[0] === 'undefined') {
-            console.log(JSON.stringify(responsePlaces));
+          try {
+            console.log(JSON.stringify(responsePlaces.status));
+            if (responsePlaces.status === 'OK') {
+              console.log(JSON.stringify(responsePlaces));
 
-            if (typeof responsePlaces.results[0].photos !== 'undefined') {
-              event.placesPhotoReference =
-                responsePlaces.results[0].photos[0].photo_reference;
-              //   responsePlaces.results[0].photos[0].photo_reference
+              if (typeof responsePlaces.results[0].photos !== 'undefined') {
+                event.placesPhotoReference =
+                  responsePlaces.results[0].photos[0].photo_reference;
+                //   responsePlaces.results[0].photos[0].photo_reference
+                console.log(
+                  event.showID +
+                    ' Success! '.green +
+                    event.venue.green +
+                    ' Photo URL: '.green +
+                    event.placesPhotoReference
+                );
+              }
+
+              // placesItemsPlacesPhotoURL(i + 1);
+            } else {
               console.log(
-                event.showID +
-                  ' Success! '.green +
-                  event.venue.green +
-                  ' Photo URL: '.green +
-                  event.placesPhotoReference
+                '  ERROR generating place photo reference NOT FOUND!  '.white
+                  .bgRed +
+                  ' ' +
+                  event.venue.blue
               );
-            }
+              // Place not found, try again without the keyword using nearby Search
+              googlePlacesParameters = {
+                location: [event.lat, event.lng],
+              };
 
-            placesItemsPlacesPhotoURL(i + 1);
+              console.log(JSON.stringify(googlePlacesParameters));
+
+              googlePlaces.placeSearch(googlePlacesParameters, async function(
+                // googlePlaces.nearBySearch(googlePlacesParameters, async function(
+                error,
+                responsePlaces
+              ) {
+                try {
+                  console.log(JSON.stringify(responsePlaces.status));
+                  if (responsePlaces.status === 'OK') {
+                    console.log(JSON.stringify(responsePlaces));
+
+                    if (
+                      typeof responsePlaces.results[0].photos !== 'undefined'
+                    ) {
+                      event.placesPhotoReference =
+                        responsePlaces.results[0].photos[0].photo_reference;
+                      //   responsePlaces.results[0].photos[0].photo_reference
+                      console.log(
+                        event.showID +
+                          ' Success! '.green +
+                          event.venue.green +
+                          ' Photo URL: '.green +
+                          event.placesPhotoReference
+                      );
+                    }
+
+                    // placesItemsPlacesPhotoURL(i + 1);
+                  } else {
+                    console.log(
+                      '  ERROR generating place photo reference NOT FOUND!  '
+                        .white.bgRed +
+                        ' ' +
+                        event.venue.blue
+                    );
+
+                    event.placesPhotoReference = '';
+                    // placesItemsPlacesPhotoURL(i + 1);
+                  }
+                } catch (error) {
+                  console.log(
+                    '  ERROR generating place photo reference!  '.white.bgRed +
+                      ' ' +
+                      event.venue.red
+                  );
+                  // placesItemsPlacesPhotoURL(i + 1);
+                  event.placesPhotoReference = '';
+                }
+                placesItemsPlacesPhotoURL(i + 1);
+              });
+
+              // event.placesPhotoReference = '';
+              // placesItemsPlacesPhotoURL(i + 1);
+            }
+          } catch (error) {
+            console.log(
+              '  ERROR generating place photo reference!  '.white.bgRed +
+                ' ' +
+                event.venue.red
+            );
+            // placesItemsPlacesPhotoURL(i + 1);
           }
+          placesItemsPlacesPhotoURL(i + 1);
         });
       } else {
         console.log(

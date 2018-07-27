@@ -20,7 +20,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny2/43777s.gif",
     "lat": "41.9924315",
     "lng": "-71.2199873",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAyAst8QZL-gggHfi6v1C6EEN7iCxwEcxIHD0zu5pIKMU9SuCvCWZEPcaLpI3NKxpvyBych69ZTP0to9-jVHGutKljTBiOYXHpCqx5m2qZLsxpbslU0TJkerPokgdqBw_gEhDaxI5QAhzeajRvTmEcrqjvGhRWOu5Ai42XCF394JCbZM1IUjraJA"
   },
   {
     "showID": 44,
@@ -43,7 +45,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/40785s.gif",
     "lat": "39.9405997",
     "lng": "-75.12998069999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAvsPVXHzGAqh23Lp17WlBu9rJz1OZ7x7sdhQNCuz3Ki5Wadi-7hlDcrYlm5oxorvfMVdgCg0_IYvh4c9J21aecp7P7oO1v5-Yc-jTw3ufG4BU-vuNz5vH08Cbxivpgj7dEhBSWfIZon5WierwSqfObdwNGhQvGomdNJW2k-jIkryGK6zIdBk7Eg"
   },
   {
     "showID": 45,
@@ -66,7 +70,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/phi/40785s.gif",
     "lat": "39.9405997",
     "lng": "-75.12998069999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAMQjNPIhzcyLeFXmjBojs2ezCJs29w7iMWtc-4XDWAghzg1LGCttdrRDWsScRomIQh-aPwK9mrWsyquKGQ62bKggsW3bqgj9BH0qUB_06ijRhmZwxwyJCnAL8WpFH7OG5EhA8Td943TPLDusgoV6siif4GhRoN8lrPcgl0decVdiyGlvqv9iOfg"
   },
   {
     "showID": 46,
@@ -89,7 +95,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch6/14490s.gif",
     "lat": "39.05205830000001",
     "lng": "-84.4188258",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAABrTsXKJa9Kvjh_iKB1HXBSQxIsqRIdDsKfDVfvWO0k4i5yegbkgBRAK6NlmTvsDhkN50LiWrH2nhAzxO1Nqr1h5myZg-XT_RhGWEs0Wg_Oia8fslfSACmckTawCNwaE7EhBeLuJkEd-KHJvOdA-umpMUGhRjGvhFuT7r2mBFIsh6dNtnkMXH0g"
   },
   {
     "showID": 47,
@@ -113,7 +121,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/47483s.gif",
     "lat": "40.0049695",
     "lng": "-85.9310716",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAkXXEtSYDisG11h-OvW9FsIGbJ_Rprf7CYhdXV_Pvm0j1MFLbZIErRPth4y0yjMgLm9w8mvqKxGOPdgO8d6v4nyedrgLT3cZdLWjGtd5gDvV53hdtEAsl6Uv4l7wQlrVKEhBvgeCkv0fFPZKMEOVPZ-QjGhStXNJ_6c6XMmsboox94TQ93mLF9g"
   },
   {
     "showID": 48,
@@ -137,7 +147,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/atl/52840s.gif",
     "lat": "33.7035481",
     "lng": "-84.39716419999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAACacZb7lf58gUf_3tiA5iFvLG19iZyOAgZw6BwGHnlB2CekKahQuhRXAeFNu8Q6UWBWeCzi6BDgCduzNZY5c2kWcakMYyk9Sscg0KI2BP7V3HqOx3wVOuaNajJjXAyQm-EhDY-dpTWAiatrJa63T1E9TnGhS6w3UDzOwPKOpIkWC5ihTkqwKSsg"
   },
   {
     "showID": 49,
@@ -160,7 +172,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/atl/55600s.gif",
     "lat": "35.7493881",
     "lng": "-78.5763028",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAmCpmnrbKcfCggl66FzF_PBdk_2AX8MqLwjyp2ACiv8x8FJwRpAAY-ZUQBs_0Qb-wToh5HHBnrwxGn_MXD0FTeOtiBD1xmjBLePDP9EPuiBWk1_-nyXeX7Ua9igBJxWhLEhBMYSGZEwJB55jbb7vDJMYhGhS1MS1615AVlhkSRzVb7B755hagfw"
   },
   {
     "showID": 50,
@@ -183,7 +197,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny1/76089s.gif",
     "lat": "43.055419",
     "lng": "-73.805927",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAYAuQUYnqBOToJprpnZephTj8RVxjFjexV1XyRZEzdBT5VWure-TJoNEW8aT8y_-AS1hB5UtYMwjlSD7bBrh-yIqCCzU-iYDkxFvQHfn8f5qcmPpso1IabjEyzEnB3mbuEhBpPKcpS-hurVo7ebMiKaGpGhQxSuXspDCVPFH6_tL9IIp49A88FA"
   },
   {
     "showID": 51,
@@ -206,7 +222,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny5/61247s.gif",
     "lat": "41.7800478",
     "lng": "-72.66926099999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA5nd7PKIbfs2VqN40WZuvUygcG1O-StmHkoh0g-lfVi3Ldn7XTIHTjx4fmDxHhuvrIKzkR7_GtJ8on6VMsj8Kc9qYDm_hAWVg0Hrng480A7pQh5fkIomKLpTVOTZ_APBXEhDkzzvJZJMd-mQIWzXHck2AGhSiyJfQQ3CemhUigpX5RdiwG2h28A"
   },
   {
     "showID": 52,
@@ -229,7 +247,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny5/68809s.gif",
     "lat": "40.7570877",
     "lng": "-73.8458213",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA9P-VaruHK79_f7nu6oQkqZsaeO3lmYFIjwypgNWiyHDQY8wM47Jq-InClH-N6aqJSd7jMosFBFIFrOZTQRlIdD7j_bVx2bTtn4DGZ4zrrnBZu_BCIxa_ImhkVzZTTc0gEhDHlABPHtQacHrogxwySuLXGhQVFTyB08fyXXa3h7Gmgeqf-j-1jA"
   },
   {
     "showID": 53,
@@ -252,7 +272,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny5/68809s.gif",
     "lat": "40.7570877",
     "lng": "-73.8458213",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAdEIbM8dLNckUekRu8wBYJKk5fDxaSv736p9QiKlQ0rDVR1dEgDiZnNoCNARAXLpPlaJiNanv5MiTdJ1tMQPnAaMEkUVlDPEVgyvs9kobnF147St354uVY_dbu_KoF9z9EhARZVEHqsoZuKVQu_GnKLsaGhQEOQllE7mexirh1Blu3LFESTMN3w"
   },
   {
     "showID": 54,
@@ -275,7 +297,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ny1/53747s.gif",
     "lat": "42.9268333",
     "lng": "-78.37926600000002",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAARVdxuL6wNynGTcPIj51MOnnBf9OLyl9vMJbF_6xhB-EbYinrGBIcDB3y3L_H_w2sSU94DLsxilOYuG69GOsEAAqSKtzdInF4aDKhMZ_fCxBbRdR02q2Z02CAXr4mInK4EhA-Ewrc_8_R_DoKiaqWlJUVGhQolcsNszvRwCW7T0zgiDwKjld4xg"
   },
   {
     "showID": 55,
@@ -298,7 +322,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch2/68553s.gif",
     "lat": "41.1912275",
     "lng": "-81.5606895",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAACBOIUpNZzs1PQ5H10zdm1eJZhbIrWHYyN7yZIIDlwVACXCLrHfPrwEiJrgo0kTro-QhiwOJXtw4dbqAAyn4gGBSJbMhgPtjx1n_Bpls0DQQLZ_gihvARRpOuMbqcIgtcEhDhzDgpN1NhMDV6hGUU_gUWGhSQmEMjduSTXtsaMr4RLri5bPbpag"
   },
   {
     "showID": 56,
@@ -322,7 +348,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch5/32817s.gif",
     "lat": "42.7380042",
     "lng": "-88.43384999999999",
-    "confidence": "0.7"
+    "confidence": "0.7",
+    "placesPhotoReference":
+      "CmRaAAAAF9zDlvOmEXJoY9L6m8Ch1RwaHink2c-OI4HnaXJoCxAmaCDGfkfyW0LlBlU15vXHzT9skaORpjKOE0igmTukavOh3myfwseigDnXRLcGYBUvgtOf0H_rXQPvKuQIDXNOEhBKzwzxUZYaxtc3UqXuSrIfGhQR8oqpWRx8AvT5WwK3dm0tD3wc9w"
   },
   {
     "showID": 57,
@@ -346,7 +374,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/ch5/32817s.gif",
     "lat": "42.7380042",
     "lng": "-88.43384999999999",
-    "confidence": "0.7"
+    "confidence": "0.7",
+    "placesPhotoReference":
+      "CmRaAAAA61fnh9EN13jsFkSVfTlcG5VjA46V6HlZ3qLjmCyhgHweScBP65O7t4ic7f2jCoU2BZoL1VHPAFjRMqPKQtC0xaBeBGQnO2yIa-x185d1ktFUv5GoaEc8kgPzSLGo3YJhEhBK1GBH_Rj7tZwCfsgoJSGLGhSmjYuTrwRSqO9-mqe1sOqeF1iI_w"
   },
   {
     "showID": 58,
@@ -369,7 +399,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/sea/43594s.gif",
     "lat": "47.1013116",
     "lng": "-119.9957249",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA6lCAd51utE3EflMeGPAcJfBidWsNh2fFd9VDUwwyIEaWeYJfoVi3_PKPlyCuCfRFckWveop__7YQ7uTbwHZe-EyYS3YNNhMZ70uVr1Ko35_cf67gJVpulpHyCbiaKehXEhDBcrnReixIuGRrx_Ym9WE-GhSvUsPxhMXCmgb-4Y3IKLJBH03A7A"
   },
   {
     "showID": 59,
@@ -392,7 +424,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/sea/83230s.gif",
     "lat": "44.0584587",
     "lng": "-123.068468",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAvlN58IgUwMprIyekKPHa01Y8AJ4phFK3C6xU4hlK0p4s99aW7f17Sb-xLW1GxQiGuFA4O31ys9vKiyXY08cQtX8KsglOoZc6z2y4Q02MdadKdYcgbZYOOp5ZdOo6hOTzEhAr_uhLxTcfppT3pFaRSWEoGhQUFmUIkSbTG92AZRFhCCFZ7tJsaA"
   },
   {
     "showID": 60,
@@ -415,7 +449,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nca/77265s.gif",
     "lat": "37.4265994",
     "lng": "-122.0805805",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAIkjMQGTuGbI0kBSXXzPKeT7N_-dckS2ltshcoXvBW2sBkF16nUfdYgUFA0-8ADtqZMy-CIl1C9jv0s_P3JopBRIIYwIXiil69OAHqzM6WFi2q1Zw1PVmd1KgMtcrL-KQEhD2pB4ThZwyJ2uAHxsOnApGGhSRgAegcKkvJkhPDP16h5Pw9usKYQ"
   },
   {
     "showID": 61,
@@ -438,7 +474,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nca/77265s.gif",
     "lat": "37.4265994",
     "lng": "-122.0805805",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAABSXPJR_Yzu-VmOfOHxy7mf7M70fkssUVcP9t0ygWx0C-bCJ3kgjgJAEpFFAkq6qMLeevFjQVELt-9n9aqmpb886MDBqHLm4oKAaE3xAZotZUnSFV22NtbWPkQYl0KQNkEhCmSnFQ_dNleuDWqnQoo83PGhTezisFxOdfno_yvlu6AIfmRKDH7Q"
   },
   {
     "showID": 62,
@@ -462,7 +500,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/wes/32420s.gif",
     "lat": "32.5877434",
     "lng": "-117.0063651",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAJHWWtFl6ZpZHGLxYl61YWl0tU9wjBJZ0CcX5vJFioZYgIFQWHxcTy8madd9vqdSB5anA6JnhB5r8yeIYW0OuUSVyozpiTJnlYh0-vDWIgTVlWeY1e1-7P94UMi7xSlkPEhAx6DxhOJemMn8X91i9tsDwGhTHQNm_XDqNTPkk20tENPvu1edqmw"
   },
   {
     "showID": 64,
@@ -485,7 +525,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/la2/83227s.gif",
     "lat": "34.073851",
     "lng": "-118.2399583",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAALaxva8rRChRN2xjZ9H_okSzHm8QzfBTjDmyIp4s40UgZVuiw26s3R9V6bCgodDi_oiRKCoCAzKVhk_vYz8EwiLR8BzbS_o_LbpB8fQSkFfpi_yxxNWyOrnU-e3eIQCvrEhA7bbAwUB6H3u3iO-4q_UySGhRQov-MK1NIyjsvUzqzpnoaNS_Cog"
   },
   {
     "showID": 65,
@@ -508,7 +550,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/18471s.gif",
     "lat": "34.9983553",
     "lng": "-106.6306903",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAlHMFX8S3QWKC8IvTMGlT0KGp6K5e74MRWUa3uf5tM110seHIAyvHmJDoXNHOez_ScqFaQiBVBoXdG4bM4H0GHtlKB1vNnqx9nmE96Ehfj5MpTI1l0b4BgD00CfIR4nYVEhAy0WLrmFbMhnmrOW0Zln6LGhTQPa6VU4uIk2mfsiHvYzJg7amAdw"
   },
   {
     "showID": 66,
@@ -530,7 +574,9 @@
     "seatingURL": "http://www.cubuffs.com/images/2014/5/19/2014map.gif",
     "lat": "40.0094746",
     "lng": "-105.266905",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAGUBzqiA8APe8rVp5naRFtnmC2gZ7BA8trOHBE4A1MpwbAUSI20tRW_-yWQE5Aqeq4ef3SG8uTxtkssPKihs4Z77oJceKYMXYC_rb1Iafe79QNBp6sinL6b6PBL4LWHIJEhDv-8bEeTvEQnGUepx84BxIGhSX6M2URnHAOhpllI1Wkfi-yIN8TQ"
   },
   {
     "showID": 67,
@@ -552,7 +598,9 @@
     "seatingURL": "http://www.cubuffs.com/images/2014/5/19/2014map.gif",
     "lat": "40.0094746",
     "lng": "-105.266905",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAT9BEuQxb-f6GrFayXKNCETJX5C134Sp29Hsnaf27AKNegfRmDvbPLK173HEkqOSw8z2luRgndv85jg7wqTMNt4NvPhiZkHH36Q133FIdbl09gpTj6-rDu-eH5pusHB-oEhBWB9CAo_AtGDg2954gvF3VGhROQDZ_lpdS_S0elad3F6WMeM9Tlg"
   },
   {
     "showID": 68,
@@ -575,7 +623,9 @@
       "http://www.locknfestival.com/wp-content/uploads/lockn2017_map.pdf",
     "lat": "37.71290339999999",
     "lng": "-78.9017269",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAqD2iiHQlthUdMGLVAVS0pLrjNZFsUKNF_-px9-_BFGOkRTRkq94hQE4kSJ42kn5zft5Xe5Tu0-JlMXhci-6n5N9XqOTgo4SwERGzn7x4Uxo1UbiFSig-fRSq1FGJKORcEhCQofrWgbS9Zb0qLxlT7lhmGhQe2fs6bFYW1VCEy89rmxy0v2aPKw"
   },
   {
     "showID": 69,
@@ -598,6 +648,8 @@
       "http://www.locknfestival.com/wp-content/uploads/lockn2017_map.pdf",
     "lat": "37.71290339999999",
     "lng": "-78.9017269",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAqD2iiHQlthUdMGLVAVS0pLrjNZFsUKNF_-px9-_BFGOkRTRkq94hQE4kSJ42kn5zft5Xe5Tu0-JlMXhci-6n5N9XqOTgo4SwERGzn7x4Uxo1UbiFSig-fRSq1FGJKORcEhCQofrWgbS9Zb0qLxlT7lhmGhQe2fs6bFYW1VCEy89rmxy0v2aPKw"
   }
 ]

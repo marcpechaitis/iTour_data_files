@@ -20,7 +20,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
     "lat": "39.6654245",
     "lng": "-105.2057111",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAnWokV1zKgCJX-aL1TAwb-yHUvoGBA7Dqbro8u9e1xlgGBJaxYg6bV5wTG-qHnbSzaEig7fj9VWMktM5PQ14X-y1hgXU4slKveZBVWzjLUSkVnAt8aBIsSCRHwl8Ld-SXEhA56ssvSH2JJtOQijPJOJbEGhTvyRyqkSeXMYfUaXXFyL6VzbHpAg"
   },
   {
     "showID": 15,
@@ -43,7 +45,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
     "lat": "39.6654245",
     "lng": "-105.2057111",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAKoq-QWcPpm1G_TWBeeNW0-7JuSgck3s6LynF6_L4YTX19HwkrKt_duYB5jU4nAINR8Nfdy-1abXFU3OQaPd-S8lOA_GosAi_GXkGbKTyWLwCvcu7N7XOGyrz1e5l4fdxEhDINNlSpi8tFven3ZkmoHs9GhTQ1XL-qlbhPSzBRqe1RIRllnMwig"
   },
   {
     "showID": 16,
@@ -66,7 +70,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/mtn/26751s.gif",
     "lat": "39.6654245",
     "lng": "-105.2057111",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAQGgZdwCUc98VrNDQQGC8rvXkJHesSbQwENOoDwx8c1DgD_YKOXThLe4a188rdcTJgRQymtbYS8eDYCJQA5RFB8EgfmrTJHwHxDCNVNi7mZtlZ3fJnxwbWS8CpHj5gEH9EhD7eSvMayfJ2UVwcZWZQWSsGhRrGU0wAWsG1yONrgXbgZgfMeX4nA"
   },
   {
     "showID": 17,
@@ -89,7 +95,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/scs/25159s.gif",
     "lat": "35.1477891",
     "lng": "-90.05845599999999",
-    "confidence": "0.7"
+    "confidence": "0.7",
+    "placesPhotoReference":
+      "CmRaAAAAyknK-mYALIk-k8JahT1S-DU_ojEf9iGT7A9YRaV97xxHtx-qSpxw3D143prCJrl8QvoJt8GIqQTgaSf4xk4RAbxGxZVnoTn9v4TwllPh22RldGoEKvdI51TXHALptMJMEhD7ax_jns9loFxu7rIn_1oWGhQXIZmwzZoJH_YYs-id8umjtLZZpQ"
   },
   {
     "showID": 18,
@@ -112,7 +120,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/scs/25159s.gif",
     "lat": "35.1477891",
     "lng": "-90.05845599999999",
-    "confidence": "0.7"
+    "confidence": "0.7",
+    "placesPhotoReference":
+      "CmRaAAAAfSeyjx8Z5hpkFqd9dFanYWtaposmgFSHEsAiLXhzQVZX31LalqHsku_GAZclAVsEgywcwZRaDRzwidQWkFy4HV0WiqI81TYthk2laet-EEVibEMN_LBTuUHcQyJUc2ZBEhAVI4sFCLF1xwKCm283GgjeGhQOToSUmLUSA9CGJPmhlQVOt4-qtQ"
   },
   {
     "showID": 19,
@@ -135,7 +145,9 @@
       "http://www.locknfestival.com/wp-content/uploads/lockn2017_map.pdf",
     "lat": "37.71290339999999",
     "lng": "-78.9017269",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA-EeGnzjrkVnD1OBwp_A9mVmDN8Iy28jyqk8XshFmvM5pGXBYQfU3S0dBjk7fdHczRFiQc-tBACPan8hlJRbcCJP2tRkgBva8wPeYPxF1yhHcpAjOlY4KRdfwCBVmQ9_vEhAhHIXk6VIcUfsXeYTky5TGGhQGBnjhZXuZuI4aC313AKDpMSS0XQ"
   },
   {
     "showID": 20,
@@ -158,7 +170,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/scs/66753s.gif",
     "lat": "36.1597",
     "lng": "-86.77148799999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRZAAAAUTZOd5rXlAPUPC9BCZym2S6zy9e0fwCGp9VOjV7WqrllRSXi9wxXViZNiLoqwqjlqpsveA7ksTRRqK3FKLjt-9ZTFVsfoSYj2n7uXN-J6Zj7-Dqa97FoIOyvSi1eJLwhEhB6C-P7Cr26k3yed_rb-k9WGhS1_s37j_0Twi36eojLuEqqp8VKWQ"
   },
   {
     "showID": 21,
@@ -181,7 +195,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/scs/66753s.gif",
     "lat": "36.1597",
     "lng": "-86.77148799999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRZAAAAc-D3yF5xR17qmQ_iOEB1BFewks1qZIFmak8x34HbM-gtaV3pH5pl94maLEBciqx3O-umJfU7_f4FoSLPmX0BRmh7QactjB-B5mDFD9QkGKkGKyDCmZEbsqszVwpt1_f4EhB9bXT1msYB4sdW5UuAz9asGhR1g8rEJGbBi0QdcExoeE0Ab_Bo4w"
   },
   {
     "showID": 22,
@@ -204,7 +220,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/scs/66753s.gif",
     "lat": "36.1597",
     "lng": "-86.77148799999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRZAAAASCj1TsDlCJPfXLDcqXn6I9BzcH7juVUt9ZCx_hhviyrPSJZmek35ouWrrpzLV6LzVP3dTLIJwOGj8DI0P9441xKeL5pDnxHpOEMIOeSeNBwL1wGHOeGc-onU3UjY6vIoEhDgto4X9aBQnU0__ZdvyHSWGhRvotlDnLkY2zNld_nPf-2BRDoJDw"
   },
   {
     "showID": 23,
@@ -227,7 +245,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/fl2/22764s.gif",
     "lat": "29.8757848",
     "lng": "-81.28292739999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA9uFaVH-93Xmisz2FpbHNbW4FWmhl_YldnfZfFxcx1WF-sOKK0mRlVFh3xJBzJ3QxIlErV8_XktM72QBNsdweZj0V_AO2t3fctUJs16zwsnvnIGEK6jxjUvwYn7VhuXXHEhCxJx0K4ob2_YF7Fnop9BRaGhRnR4UwJoVMQYt9YAiw-bNkOMx0qw"
   },
   {
     "showID": 24,
@@ -250,7 +270,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/fl2/22764s.gif",
     "lat": "29.8757848",
     "lng": "-81.28292739999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA2hV0ISCUD25ZUDV1x0sIIt1RI7wT_nZVm4nf-WJTguN7obvxQMKjzJr24ebleyB1pxn03V8A7BOUaRig4a7pZPgXcUxWCZZLV6AySjVOUIisL2b057pG-UELrRaHUEvfEhBbcG-xtFn5npRtqpG8id3CGhRI2XWNOdywnmKagdV23OdPs7Sb5g"
   },
   {
     "showID": 25,
@@ -273,7 +295,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/fl2/22764s.gif",
     "lat": "29.8757848",
     "lng": "-81.28292739999999",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAW64zoQDldYgNhl83UvFpACncJyf7a3Ai3eVRaAonjVsEiKNxk6p4tYEiWUo5oh0WOAe2vM71AhTASvRm_ujYHDk2VT1pPA5KCz7yNA1_i_dYHxhFYUGC5sB2epdRSS9aEhBsxrZS5MsFTjP8QmZt2MjaGhQh-2FRUab9y_drIP9pyYt-pYwkcg"
   },
   {
     "showID": 26,
@@ -296,7 +320,9 @@
       "https://9upqp16we5e1z54q2mbfyfol-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/riverside-scpage.jpg",
     "lat": "43.0389645",
     "lng": "-87.9108857",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAqj_cI2GXg0ap_cl4emH1mf4dNkuLCPxlVbnXeDP3II0ltUrgh3CXcnsc_YDp7GiyeKum0_U6K5Gw0C2pbdgzb2Wjrdqtovc6Oz-hjW0JSTYM9aTj9GjrYL1RL_Q9raa0EhDVTKYPwtaoTwe3r3BT9D2yGhTY7Fk47xb47erCsUEcs97d2AulVQ"
   },
   {
     "showID": 27,
@@ -319,7 +345,9 @@
       "https://9upqp16we5e1z54q2mbfyfol-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/riverside-scpage.jpg",
     "lat": "43.0389645",
     "lng": "-87.9108857",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAL-wuPK27QbZ1KE8BLEXRQIHEZ7KrynCslDPfVjEljejCj1qpjZFvHERPEOamHVvtJ-6yk4NOGfOYTQiFZ6rYshxs_7jAe8jAQS5sodaMwoX2U1QbnzoVpvKTsknRkXesEhAFE3-u9kk3yTY0GvIO6OLUGhQyUvU5mUX5-AOTYdhO2kLkcw-QiQ"
   },
   {
     "showID": 28,
@@ -342,7 +370,9 @@
       "https://9upqp16we5e1z54q2mbfyfol-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/riverside-scpage.jpg",
     "lat": "43.0389645",
     "lng": "-87.9108857",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAsVBF8bw_2GTGfLyeWKWXnFiKdMtqv7b7Oyoa7LywZKj-CMWb5a7ejOjRtRayK6VDjuQcZBYNNlIR8o2qvI3VM6m1xoeBUij7jwal_h3eIJXM661yTI4pJ84GqLs88M-6EhDbhJbyDS4scBmOQjNhDmaGGhQeI_yR79Ks42d_6JYPxR_lANyTjg"
   },
   {
     "showID": 29,
@@ -366,7 +396,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nv2/84050s.gif",
     "lat": "36.1040737",
     "lng": "-115.1745415",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAIioVWu2BwqlaajMWmZ12NNFhHFQobVJgzCefiHgje_hltAznoonnZEzn9griVtCHGG1ZmPF2CE35uZx5XfUZaXPH9JEOFR96OjJWRKqOSFSlpR745MXiecPD62SKM5WBEhAkCVnAzQ28otHhDYUEFS22GhTqxcijYMlmvycx8_96tgrNqEsS2g"
   },
   {
     "showID": 30,
@@ -390,7 +422,9 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nv2/84050s.gif",
     "lat": "36.1040737",
     "lng": "-115.1745415",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAA2yk0sMM0plKa607Av45MBtfhu4TcQ_408ge0TcUenk3lOxoexi2MBZX0FZVwBqXEurw7pH9-9Ij6gANTTOURAx4sWdarFuOGphiCcgyFoYubXe9Xt4McjzHP5nNLAmp1EhARYzKB-KWDdTYvdX1jUVTTGhR-dI5iudL0i-HdfxYfbaUIgvhgXQ"
   },
   {
     "showID": 31,
@@ -414,6 +448,8 @@
       "https://s1.ticketm.net/tm/en-us/tmimages/venue/maps/nv2/84050s.gif",
     "lat": "36.1040737",
     "lng": "-115.1745415",
-    "confidence": "1"
+    "confidence": "1",
+    "placesPhotoReference":
+      "CmRaAAAAhP0YAbAnYef56NR_LBdTBoMprHBJ37HyIChPLFY6SQiyKkBGFzt8R5cUvsZeLc9nDjmRtgXs4nMBmYMXHUdiKd3oGHPYPxDguvbmV2ePPDTWx7oFUIC4UNp0CUCtUtJlEhCeI31cUCaX0UAlLi5DuZOSGhSewLLunFTn_K5v62Wrp__Jm1LsZg"
   }
 ]
