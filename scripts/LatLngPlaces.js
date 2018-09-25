@@ -1,5 +1,5 @@
 // Script to retrieve the Latitude and Longitude of a iTour data file
-// To run, type 'node LatLng.js input_file_name' in terminal
+// To run, type 'node LatLngPlaces.js input_file_name' in terminal
 // Process runs *synchronuously*
 const inputFilename = process.argv[2];
 const outputFilename = process.argv[2];
