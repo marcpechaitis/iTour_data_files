@@ -30,7 +30,6 @@ fs.writeFileSync('../bkp/' + inputFilename, JSON.stringify(jsonSource));
 
 var processItems = function(i) {
   if (i < jsonSource.length) {
-    // for (var i in jsonSource) {
     let event = jsonSource[i];
     let searchString =
       event.venue +
@@ -46,10 +45,21 @@ var processItems = function(i) {
       event.country;
 
     // console.log(searchString);
-    geocoder
-      .geocode(searchString)
-      // function(response) {
-      .then(function(response) {
+    if (
+      (event.hasOwnProperty('lat') || event.lat == 0) &&
+      event.hasOwnProperty('lng') &&
+      event.hasOwnProperty('confidence') &&
+      event.confidence > 0.5
+    ) {
+      console.log(
+        event.showID +
+          ' Skipped! '.cyan +
+          event.venue.cyan +
+          ' already processed'.cyan
+      );
+      processItems(i + 1);
+    } else {
+      geocoder.geocode(searchString).then(function(response) {
         if (typeof response[0] === 'undefined') {
           console.log(
             event.showID +
@@ -92,6 +102,7 @@ var processItems = function(i) {
         // jsonSource[i].lat = event.lat;
         // processItems(i + 1);
       });
+    }
   } else {
     console.log('\n\nEnd 1 Pass\n'.white.bgBlue);
     console.log('\n\nStart 2nd Pass\n'.white.bgMagenta);
