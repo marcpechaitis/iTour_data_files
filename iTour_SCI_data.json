@@ -1,7 +1,7 @@
 [
   {
     "showID": 71,
-    "dateShow": "2018-10-27T20:00:00",
+    "dateShow": "2018-10-26T20:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -24,7 +24,7 @@
   },
   {
     "showID": 72,
-    "dateShow": "2018-10-28T20:00:00",
+    "dateShow": "2018-10-27T20:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -47,6 +47,29 @@
   },
   {
     "showID": 73,
+    "dateShow": "2018-10-28T20:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Spirit of Suwannee Music Park",
+    "altName": "Live Oak",
+    "notes": "Hulaween",
+    "address": "9379 Co Rd 132",
+    "city": "Live Oak",
+    "state": "FL",
+    "postal": "32060",
+    "country": "USA",
+    "phoneNbr": "386-364-1683",
+    "venueURL": "https://www.suwanneehulaween.com/",
+    "setlistURL": "http://friendsofcheese.com/incident.php?id=1675",
+    "seatingURL": "https://static1.squarespace.com/static/571a31a559827ebe07598993/t/5bc74e1115fcc0b8854a16d5/1539788344728/Hula+Map_FINAL_RGB_small.jpg?format=2500w",
+    "lat": "30.394196",
+    "lng": "-82.944311",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAAZSOP0mRTDXYyQhowLpo2lqQuY3eyWo7TSFzc2LO2xvRq20kvkIq-QSQTFVvPHZeITt5tQUUndpumJlW5cKnyhiDqzpGt2KBwz7OHXCywPeH5zUP16zLW7jizxfEfPht9EhDqz8vUY1mwx0kYwyx-dZjwGhRBMHI5yK4TA7g8N2blNkWxnQ-kXw"
+  },
+  {
+    "showID": 74,
     "dateShow": "2018-10-31T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -69,7 +92,7 @@
     "placesPhotoReference": "CmRaAAAAL-LDUiGGsMYnUY9ssxyLR_3XZKuLzWna8h7RTDdzuV0ypEU8Uv-Ktt1_s3lQ6Zf3QXvQbNaWLNxbkP31NFicOBFSuvDemg-EalNhCt-rjmlhdT03V3fxBGMzWm38zdnnEhApDOYh6LK2lEclkXVWUaweGhSsu9embE09BcNMhtaae2n_R9MR5A"
   },
   {
-    "showID": 74,
+    "showID": 75,
     "dateShow": "2018-11-01T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -92,7 +115,7 @@
     "placesPhotoReference": "CmRaAAAAXrNdPZ18r9P77Eli2GSh9Ss4PgIu1Cr6mRK5eul-K1IY7CtHAD3ylyuUrKJFDbWDOWwrRaNrvH1oFikp_joO1AU0sw2OOVYZNgtZnnX8_AXQSIynamYThhHE0LFTbMX5EhABRyllmmRq9Z1z7rI1VUBvGhQqtyTphMuqPFjkio-nHT9tjDVr-g"
   },
   {
-    "showID": 75,
+    "showID": 76,
     "dateShow": "2018-11-02T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -115,7 +138,7 @@
     "placesPhotoReference": "CmRaAAAAhkkwxQrgrQR4WKREChtwGzk1w8IzB7kVwprl7eXWRtbxdwkjsDcazis_hHDzBSJ5eorqb9k-JwDPy2s4VDeYtCDbSy9z8OIL0Ue3usqcm_XppFxLP8rW9t5UmvFyBU6SEhDpPRZXcK4Z5_wpk9JISXAFGhRMH832h5cjI-vrmUd91ldg-JOfSg"
   },
   {
-    "showID": 76,
+    "showID": 77,
     "dateShow": "2018-11-03T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -138,7 +161,7 @@
     "placesPhotoReference": "CmRaAAAA5xx6rS0sTVzSRlH0tbMMWFs0zWUwESTzojRWlJQFXOQHdaIK-4W-zitT83lVY0ElCm6Rs_etLdc4FrR5HgvVfN7kUh6pk96G_rndRptSAZLsQhkx52IWogkTPGZQwY1kEhDxx8QDOLA36Z2uOPf6O4iOGhRLv4J1Jst7hhjt1FClKSXA7KBXBA"
   },
   {
-    "showID": 77,
+    "showID": 78,
     "dateShow": "2018-12-28T19:30:00",
     "dateDoors": "2018-12-28T18:00:00",
     "dateLots": "",
@@ -161,7 +184,7 @@
     "placesPhotoReference": "CmRaAAAAteqaRYzt4NC3TFyMVcNLKTCyiaO7QY2ACB2ReAA8ECQXGg-5YUzpEQOolXDQDRHkNWe7H9A-8uusOlpW4IVvi1c5cD3wrsJoy_3cisHuJMPfButEkOhGfEw3EJFVTxIFEhBTMRWdQbTTD_5s8F7jGgjvGhRKINpj2DikSfsQWTHiDoudVlSWvQ"
   },
   {
-    "showID": 78,
+    "showID": 79,
     "dateShow": "2018-12-29T19:30:00",
     "dateDoors": "2018-12-29T18:00:00",
     "dateLots": "",
@@ -176,7 +199,7 @@
     "country": "USA",
     "phoneNbr": "303-410-0700",
     "venueURL": "https://www.1stbankcenter.com/",
-    "setlistURL": "http://friendsofcheese.com/incident.php?id=1671",
+    "setlistURL": "http://friendsofcheese.com/incident.php?id=1670",
     "seatingURL": "https://aeglive-1stbankcenter.s3.amazonaws.com/img/1stbank_GA_floor.jpg",
     "lat": "39.904576",
     "lng": "-105.0854479",
@@ -184,7 +207,7 @@
     "placesPhotoReference": "CmRaAAAAy4AHq2JRGQqnhr_lKusWfNhIvbpnduq9-h9c2i8hF6j3xk0aDmw-ITEvK0hsImi99Hw788XwVVtgKtlISVtBg_6_kglUjXAKctXvNSTKMvqK1i5i8cARXzBo-ZbxqBF0EhAchudYWGcp7uSVWVKlyWALGhThrXZ3fM5-UqMuXb6KjtpKUXEMyw"
   },
   {
-    "showID": 79,
+    "showID": 80,
     "dateShow": "2018-12-31T19:30:00",
     "dateDoors": "2018-12-31T18:00:00",
     "dateLots": "",
@@ -207,7 +230,7 @@
     "placesPhotoReference": "CmRaAAAAy4cBa9LY-p97rnUc0X9PF_gHCGfKXMG7iTrq1Ua98EtCIZjHhTUAcvj9ZLOnKxSMgg0sfZeCvswHKfi8-eu-d__8yh171HF2GMoDsfevvUTjWF-fHXQ9prs3ORVqMlANEhCyd7PVJxVpSUA8-BkZDs9xGhRqiefQWJNxCXgtFJisFCaapfND_A"
   },
   {
-    "showID": 80,
+    "showID": 81,
     "dateShow": "2019-01-25T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -230,7 +253,7 @@
     "placesPhotoReference": "CmRaAAAAGtNxbYNWwehqKKtcZ8aFlInYpDhCWcR7awV3JTNiAfTuoGu8-v4Tczt37la9GOyqSHBDYftrUfp-THmD9dEWeOrw6mpJuo_wcN7TBExkt3uPFxCY8ty4hhUuT2kJmHL_EhC4bigg426pcVOl-ApJX3VHGhTsaMatIQgqhuY_T1VVFJubdS-1FA"
   },
   {
-    "showID": 81,
+    "showID": 82,
     "dateShow": "2019-01-26T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -253,7 +276,7 @@
     "placesPhotoReference": "CmRaAAAAyABDp11O6LWnyBV65dOPhPu2wCdiAMyfRzo9AVaolj81un7nOtsx1f1gfoIxu4TanzEXFm-pgKIrfsihO1s0LIJpmq9qSm3zUqNEvQvw-vt30gWdV30YBqRl1u3DKV7PEhDBacwbbjKlZlIB9YVk0uCTGhS2IuVDKL3cY3-VFmxQ40ggKeZjWA"
   },
   {
-    "showID": 82,
+    "showID": 83,
     "dateShow": "2019-01-27T20:00:00",
     "dateDoors": "",
     "dateLots": "",
