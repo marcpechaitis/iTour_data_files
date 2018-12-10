@@ -10,8 +10,7 @@ const fs = require('fs');
 const colors = require('colors');
 const NodeGeocoder = require('node-geocoder');
 const options = {
-  provider: 'google',
-  // Optional depending on the providers
+  provider: 'google', // Optional depending on the providers
   httpAdapter: 'https', // Default
   apiKey: process.env.ITOUR_GOOGLE_GEOCODE_API_KEY, // for Mapquest, OpenCage, Google Premier
   formatter: null, // 'gpx', 'string', ...
