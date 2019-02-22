@@ -1,8 +1,8 @@
 [
   {
     "showID": 1,
-    "dateShow": "2019-02-21T19:00:00",
-    "dateDoors": "2019-02-21T18:00:00",
+    "dateShow": "2019-02-21T19:30:00",
+    "dateDoors": "2019-02-21T18:15:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Barceló Maya Beach",
@@ -24,8 +24,8 @@
   },
   {
     "showID": 2,
-    "dateShow": "2019-02-22T19:00:00",
-    "dateDoors": "2019-02-22T18:00:00",
+    "dateShow": "2019-02-22T19:30:00",
+    "dateDoors": "2019-02-22T18:15:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Barceló Maya Beach",
@@ -47,8 +47,8 @@
   },
   {
     "showID": 3,
-    "dateShow": "2019-02-23T19:00:00",
-    "dateDoors": "2019-02-23T18:00:00",
+    "dateShow": "2019-02-23T19:30:00",
+    "dateDoors": "2019-02-23T18:15:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Barceló Maya Beach",
