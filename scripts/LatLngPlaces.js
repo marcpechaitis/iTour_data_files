@@ -190,6 +190,8 @@ var placesItemsPlacesPhotoURL = function(i) {
               console.log(JSON.stringify(responsePlaces));
 
               if (typeof responsePlaces.results[0].photos !== 'undefined') {
+                event.placesID =
+                  responsePlaces.results[0].id;
                 event.placesPhotoReference =
                   responsePlaces.results[0].photos[0].photo_reference;
                 //   responsePlaces.results[0].photos[0].photo_reference
