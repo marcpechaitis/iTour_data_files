@@ -33,8 +33,14 @@ console.log(
 );
 
 // 1st create backup copy
-fs.writeFileSync(`../bkp/${inputFilename}`, JSON.stringify(jsonSource));
-
+fs.writeFileSync(
+  '../bkp/' +
+    inputFilename.replace('.json', '') +
+    '_LatLngPlaces_' +
+    new Date().getTime() +
+    '.json',
+  JSON.stringify(jsonSource)
+);
 function handleErrors(error) {
   console.error('Something went wrong ', error);
 }
@@ -190,8 +196,7 @@ var placesItemsPlacesPhotoURL = function(i) {
               console.log(JSON.stringify(responsePlaces));
 
               if (typeof responsePlaces.results[0].photos !== 'undefined') {
-                event.placesID =
-                  responsePlaces.results[0].id;
+                event.placesID = responsePlaces.results[0].id;
                 event.placesPhotoReference =
                   responsePlaces.results[0].photos[0].photo_reference;
                 //   responsePlaces.results[0].photos[0].photo_reference

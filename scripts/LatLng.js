@@ -25,7 +25,14 @@ console.log(
 );
 
 // 1st create backup copy
-fs.writeFileSync('../bkp/' + inputFilename, JSON.stringify(jsonSource));
+fs.writeFileSync(
+  '../bkp/' +
+    inputFilename.replace('.json', '') +
+    '_LatLng_' +
+    new Date().getTime() +
+    '.json',
+  JSON.stringify(jsonSource)
+);
 
 var processItems = function(i) {
   if (i < jsonSource.length) {
