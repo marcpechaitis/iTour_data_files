@@ -611,7 +611,7 @@
   },
   {
     "showID": 47,
-    "dateShow": "2019-11-07219:30:00",
+    "dateShow": "2019-11-07T19:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Chicago",
@@ -635,7 +635,7 @@
   },
   {
     "showID": 48,
-    "dateShow": "2019-11-08219:30:00",
+    "dateShow": "2019-11-08T19:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Chicago",
@@ -659,7 +659,7 @@
   },
   {
     "showID": 49,
-    "dateShow": "2019-11-09219:30:00",
+    "dateShow": "2019-11-09T19:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/Chicago",
