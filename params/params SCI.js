@@ -19,6 +19,28 @@ const params = {
     'https://m.youtube.com/results?search_query=string%20cheese%20incident%20',
   WEATHER_TITLE: 'Dark Sky Weather',
   WEATHER_URL: 'https://darksky.net/',
+  WIKIPEDIA_URL: 'https://en.wikipedia.org/wiki/',
+  APPSTORE_GOOGLE:
+    'https://play.google.com/store/apps/developer?id=Sugarloaf+App+Company',
+  APPSTORE_IOS:
+    'https://itunes.apple.com/us/developer/sugarloaf-app-company/id391888528',
+  LOCK_AFTER_NBR: 7,
+  extras: {
+    SUPPORT_EMAIL: 'theitourapp@gmail.com',
+  },
+  in_app_purchase: {
+    TIP_JAR_PRODUCT_IDS_ANDROID: [
+      'sci.consumable.beer',
+      'sci.consumable.coffee',
+      'sci.consumable.dollar',
+    ],
+    TIP_JAR_PRODUCT_IDS_IOS: [
+      'sci.consumable.beer',
+      'sci.consumable.coffee',
+      'sci.consumable.dollar',
+    ],
+    UNLOCK_PRODUCT_ID: 'sci.nonconsumable.unlock',
+  },
 };
 
 module.exports = params;

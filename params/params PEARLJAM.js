@@ -18,6 +18,28 @@ const params = {
   VIDEO_URL: 'https://m.youtube.com/results?search_query=pearl%20jam%20',
   WEATHER_TITLE: 'Dark Sky Weather',
   WEATHER_URL: 'https://darksky.net/',
+  WIKIPEDIA_URL: 'https://en.wikipedia.org/wiki/',
+  APPSTORE_GOOGLE:
+    'https://play.google.com/store/apps/developer?id=Sugarloaf+App+Company',
+  APPSTORE_IOS:
+    'https://itunes.apple.com/us/developer/sugarloaf-app-company/id391888528',
+  LOCK_AFTER_NBR: 7,
+  extras: {
+    SUPPORT_EMAIL: 'theitourapp@gmail.com',
+  },
+  in_app_purchase: {
+    TIP_JAR_PRODUCT_IDS_ANDROID: [
+      'pearljam.consumable.beer',
+      'pearljam.consumable.coffee',
+      'pearljam.consumable.dollar',
+    ],
+    TIP_JAR_PRODUCT_IDS_IOS: [
+      'pearljam.consumable.beer',
+      'pearljam.consumable.coffee',
+      'pearljam.consumable.dollar',
+    ],
+    UNLOCK_PRODUCT_ID: 'pearljam.nonconsumable.unlock',
+  },
 };
 
 module.exports = params;

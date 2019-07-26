@@ -18,6 +18,28 @@ const params = {
   VIDEO_URL: 'https://m.youtube.com/results?search_query=umphreys%20mcgee%20',
   WEATHER_TITLE: 'Dark Sky Weather',
   WEATHER_URL: 'https://darksky.net/',
+  WIKIPEDIA_URL: 'https://en.wikipedia.org/wiki/',
+  APPSTORE_GOOGLE:
+    'https://play.google.com/store/apps/developer?id=Sugarloaf+App+Company',
+  APPSTORE_IOS:
+    'https://itunes.apple.com/us/developer/sugarloaf-app-company/id391888528',
+  LOCK_AFTER_NBR: 7,
+  extras: {
+    SUPPORT_EMAIL: 'theitourapp@gmail.com',
+  },
+  in_app_purchase: {
+    TIP_JAR_PRODUCT_IDS_ANDROID: [
+      'umphreys.consumable.beer',
+      'umphreys.consumable.coffee',
+      'umphreys.consumable.dollar',
+    ],
+    TIP_JAR_PRODUCT_IDS_IOS: [
+      'umphreys.consumable.beer',
+      'umphreys.consumable.coffee',
+      'umphreys.consumable.dollar',
+    ],
+    UNLOCK_PRODUCT_ID: 'umphreys.nonconsumable.unlock',
+  },
 };
 
 module.exports = params;
