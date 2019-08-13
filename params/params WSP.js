@@ -3,7 +3,7 @@ const params = {
   BAND: 'WSP',
   BAND_COLOR: 'ff4500',
   BAND_NAME: 'Widespread Panic',
-  BAND_URL_DEFAULT: 'http://widespread.com/tour',
+  BAND_URL_DEFAULT: 'http://widespreadpanic.com',
   MUSIC_TITLE: 'JamBase Local Music',
   MUSIC_URL_NON_USA: 'http://www.jambase.com',
   MUSIC_URL1: 'http://www.jambase.com/shows?mode=all&start=',

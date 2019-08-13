@@ -3,7 +3,7 @@ const params = {
   BAND: 'UMPHREYS',
   BAND_COLOR: '95A5A6',
   BAND_NAME: "Umphrey's McGee",
-  BAND_URL_DEFAULT: 'http://umphreys.com/tour',
+  BAND_URL_DEFAULT: 'http://umphreys.com',
   MUSIC_TITLE: 'JamBase Local Music',
   MUSIC_URL_NON_USA: 'http://www.jambase.com',
   MUSIC_URL1: 'http://www.jambase.com/shows?mode=all&start=',

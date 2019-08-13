@@ -3,7 +3,7 @@ const params = {
   BAND: 'RADIOHEAD',
   BAND_COLOR: '65a665',
   BAND_NAME: 'Radiohead',
-  BAND_URL_DEFAULT: 'http://www.wasteheadquarters.com/schedule',
+  BAND_URL_DEFAULT: 'http://www.wasteheadquarters.com/',
   MUSIC_TITLE: 'JamBase Local Music',
   MUSIC_URL_NON_USA: 'http://www.jambase.com',
   MUSIC_URL1: 'http://www.jambase.com/shows?mode=all&start=',

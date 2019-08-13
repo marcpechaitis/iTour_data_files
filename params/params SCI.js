@@ -3,7 +3,7 @@ const params = {
   BAND: 'SCI',
   BAND_COLOR: '9370db',
   BAND_NAME: 'String Cheese Incident',
-  BAND_URL_DEFAULT: 'http://stringcheeseincident.com/tour/',
+  BAND_URL_DEFAULT: 'http://stringcheeseincident.com',
   MUSIC_TITLE: 'JamBase Local Music',
   MUSIC_URL_NON_USA: 'http://www.jambase.com',
   MUSIC_URL1: 'http://www.jambase.com/shows?mode=all&start=',
