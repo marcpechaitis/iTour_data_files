@@ -73,6 +73,30 @@
   },
   {
     "showID": 30,
+    "dateShow": "2019-11-29T19:30:00",
+    "dateDoors": "2019-11-29T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Dunkin' Donuts Center",
+    "altName": "Providence",
+    "notes": "Capacity: 12,400",
+    "address": "1 La Salle Square",
+    "city": "Providence",
+    "state": "RI",
+    "postal": "02903",
+    "country": "USA",
+    "phoneNbr": "401-331-6700",
+    "venueURL": "http://www.dunkindonutscenter.com/",
+    "setlistURL": "http://phish.net/setlists/?d=2019-11-29",
+    "seatingURL": "https://s1.ticketm.net/tmimages/venue/maps/ny2/95381s.gif",
+    "lat": "41.8236281",
+    "lng": "-71.4179556",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAAAHRChRSCs-fVge8j6U72bXnSnRXCCWd4OxOBNyJq6BAK5owUCCBtQrQZYKVEIIi0IVuzhBzllCKb1-7pzhOyImrImI3UW6TK8NxBR0pTDJGSzUmINs93p9V5LzDjAZ-HEhBU_qLCAyuN3oqjaAfcAYWTGhTUsgLg97knM_k2wN6Dnm79jTR8rw",
+    "placesID": "0a6797080d0bb25db2a46be02c2a72803f24bab1"
+  },
+  {
+    "showID": 31,
     "dateShow": "2019-11-30T19:30:00",
     "dateDoors": "2019-11-30T18:00:00",
     "dateLots": "",
@@ -96,7 +120,7 @@
     "placesID": "0a6797080d0bb25db2a46be02c2a72803f24bab1"
   },
   {
-    "showID": 31,
+    "showID": 32,
     "dateShow": "2019-12-01T19:30:00",
     "dateDoors": "2019-12-01T18:00:00",
     "dateLots": "2019-12-01T15:00:00",
@@ -120,7 +144,7 @@
     "placesID": "b0fcf3258d646e6570e863b218e22bd5c38affe1"
   },
   {
-    "showID": 32,
+    "showID": 33,
     "dateShow": "2019-12-04T19:30:00",
     "dateDoors": "2019-12-04T18:00:00",
     "dateLots": "",
@@ -144,7 +168,7 @@
     "placesID": "992972d75fcb2321e757c1860ac9b578e8f5e061"
   },
   {
-    "showID": 33,
+    "showID": 34,
     "dateShow": "2019-12-06T19:30:00",
     "dateDoors": "2019-12-06T18:00:00",
     "dateLots": "2019-12-06T16:00:00",
@@ -168,7 +192,7 @@
     "placesID": "e038457ad7aedc924d26bb8a22ec4f4a06436da1"
   },
   {
-    "showID": 34,
+    "showID": 35,
     "dateShow": "2019-12-07T19:30:00",
     "dateDoors": "2019-12-07T18:00:00",
     "dateLots": "2019-12-07T16:00:00",
@@ -192,7 +216,7 @@
     "placesID": "e038457ad7aedc924d26bb8a22ec4f4a06436da1"
   },
   {
-    "showID": 35,
+    "showID": 36,
     "dateShow": "2019-12-08T19:30:00",
     "dateDoors": "2019-12-08T18:00:00",
     "dateLots": "2019-12-08T16:00:00",
@@ -216,7 +240,7 @@
     "placesID": "e038457ad7aedc924d26bb8a22ec4f4a06436da1"
   },
   {
-    "showID": 36,
+    "showID": 37,
     "dateShow": "2020-02-20T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -240,7 +264,7 @@
     "placesID": "139c118dfd9dd58f2e9d685998d03f81c4935c0c"
   },
   {
-    "showID": 37,
+    "showID": 38,
     "dateShow": "2020-02-21T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -264,7 +288,7 @@
     "placesID": "139c118dfd9dd58f2e9d685998d03f81c4935c0c"
   },
   {
-    "showID": 38,
+    "showID": 39,
     "dateShow": "2020-02-22T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -288,7 +312,7 @@
     "placesID": "139c118dfd9dd58f2e9d685998d03f81c4935c0c"
   },
   {
-    "showID": 39,
+    "showID": 40,
     "dateShow": "2020-02-23T19:30:00",
     "dateDoors": "",
     "dateLots": "",
