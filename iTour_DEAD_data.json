@@ -1,7 +1,7 @@
 [
   {
     "showID": 1,
-    "dateShow": "2019-10-31T19:30:00",
+    "dateShow": "2019-10-31T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -25,7 +25,7 @@
   },
   {
     "showID": 2,
-    "dateShow": "2019-11-01T19:30:00",
+    "dateShow": "2019-11-01T19:00:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -49,6 +49,54 @@
   },
   {
     "showID": 3,
+    "dateShow": "2019-11-05T19:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "altName": "Uniondale",
+    "notes": "Capacity: 14,500",
+    "address": "1255 Hempstead Turnpike",
+    "city": "Uniondale",
+    "state": "NY",
+    "postal": "11553",
+    "country": "USA",
+    "phoneNbr": "516-231-4848",
+    "venueURL": "http://www.nycblive.com/",
+    "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+    "seatingURL": "https://s1.ticketm.net/tmimages/venue/maps/ny1/73449s.gif",
+    "lat": "40.7228732",
+    "lng": "-73.5905741",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAA6eqUJzv3bF0BI2AzecRapCsy8Op2OHmT9_x3Ynqtm8dGH9rHbCLNyL6c2U7SKU4-AGShGuBjLPmeiMk4E4L9Au9FuSS2Lx8wBtMAoFdOrJFKUV6LzVAwupXkflWxi--eEhB8dnptEx5Sxos_pSBd-nGdGhTe-yLm-echNGTLH7iiCKos4Ki78A",
+    "placesID": "b0fcf3258d646e6570e863b218e22bd5c38affe1"
+  },
+  {
+    "showID": 4,
+    "dateShow": "2019-11-06T19:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "altName": "Uniondale",
+    "notes": "Capacity: 14,500",
+    "address": "1255 Hempstead Turnpike",
+    "city": "Uniondale",
+    "state": "NY",
+    "postal": "11553",
+    "country": "USA",
+    "phoneNbr": "516-231-4848",
+    "venueURL": "http://www.nycblive.com/",
+    "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+    "seatingURL": "https://s1.ticketm.net/tmimages/venue/maps/ny1/73449s.gif",
+    "lat": "40.7228732",
+    "lng": "-73.5905741",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAAch8XWb84JC4LngnSUft3jGYcASsjb49GWca1QRSx4xwyDKnncOZSGCjjNsGwnyPzNTII9LJgE_gzr0nHiPRBE5yKfW_DxhyudKaBql7W3B5NxtK2Db0hDUiCBXlgraJ5EhDgNI392uMz1peW0l9AmSQHGhQJBVeAmprNrQZTIWZCK7-hPtHQtg",
+    "placesID": "b0fcf3258d646e6570e863b218e22bd5c38affe1"
+  },
+  {
+    "showID": 5,
     "dateShow": "2019-11-08T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -72,7 +120,7 @@
     "placesID": "59911bf04542f1162df96e839372da51b2049a10"
   },
   {
-    "showID": 4,
+    "showID": 6,
     "dateShow": "2019-11-09T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -96,7 +144,7 @@
     "placesID": "59911bf04542f1162df96e839372da51b2049a10"
   },
   {
-    "showID": 5,
+    "showID": 1,
     "dateShow": "2020-01-17T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -120,7 +168,7 @@
     "placesID": "139c118dfd9dd58f2e9d685998d03f81c4935c0c"
   },
   {
-    "showID": 6,
+    "showID": 2,
     "dateShow": "2020-01-18T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -144,7 +192,7 @@
     "placesID": "139c118dfd9dd58f2e9d685998d03f81c4935c0c"
   },
   {
-    "showID": 7,
+    "showID": 3,
     "dateShow": "2020-01-19T19:00:00",
     "dateDoors": "",
     "dateLots": "",
