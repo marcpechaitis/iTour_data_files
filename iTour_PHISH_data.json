@@ -73,6 +73,30 @@
   },
   {
     "showID": 33,
+    "dateShow": "2019-12-03T19:30:00",
+    "dateDoors": "2019-12-03T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "The Metropolitan Opera House",
+    "altName": "Philadelphia",
+    "notes": "A Night at the Met",
+    "address": "858 N Broad St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal": "19130",
+    "country": "USA",
+    "phoneNbr": "800-653-8000",
+    "venueURL": "http://www.peterseneventscenter.com/",
+    "setlistURL": "http://phish.net/setlists/?d=2019-12-03",
+    "seatingURL": "https://themetphilly.com/",
+    "lat": "39.96987910000001",
+    "lng": "-75.160284",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAAG1HuYQsbl0SQfX6yaOXN4la1DWuJ64N-Xx99fyTlYX7_vBv8oiBLHuDWSyrjRWD5ndLHtz5Bm_XOqXveVf8_MEFTLYEYlSmeDDADtBmujZ1EhcUtruFv_lyWAoYMrUk-EhCgougYk0WgJV6JW9XwMMaZGhTp5KOjrvs3PvuLcwDnWSTBDBNcrw",
+    "placesID": "73faf9edc9c7c138a7f5f3811fc2ce9377d69803"
+  },
+  {
+    "showID": 34,
     "dateShow": "2019-12-04T19:30:00",
     "dateDoors": "2019-12-04T18:00:00",
     "dateLots": "",
@@ -96,7 +120,7 @@
     "placesID": "992972d75fcb2321e757c1860ac9b578e8f5e061"
   },
   {
-    "showID": 34,
+    "showID": 35,
     "dateShow": "2019-12-06T19:30:00",
     "dateDoors": "2019-12-06T18:00:00",
     "dateLots": "2019-12-06T16:00:00",
@@ -120,7 +144,7 @@
     "placesID": "e038457ad7aedc924d26bb8a22ec4f4a06436da1"
   },
   {
-    "showID": 35,
+    "showID": 36,
     "dateShow": "2019-12-07T19:30:00",
     "dateDoors": "2019-12-07T18:00:00",
     "dateLots": "2019-12-07T16:00:00",
@@ -144,7 +168,7 @@
     "placesID": "e038457ad7aedc924d26bb8a22ec4f4a06436da1"
   },
   {
-    "showID": 36,
+    "showID": 37,
     "dateShow": "2019-12-08T19:30:00",
     "dateDoors": "2019-12-08T18:00:00",
     "dateLots": "2019-12-08T16:00:00",
@@ -168,7 +192,7 @@
     "placesID": "e038457ad7aedc924d26bb8a22ec4f4a06436da1"
   },
   {
-    "showID": 37,
+    "showID": 38,
     "dateShow": "2019-12-28T19:30:00",
     "dateDoors": "2019-12-28T18:30:00",
     "dateLots": "",
@@ -192,7 +216,7 @@
     "placesID": "55e3174d410b31da010030a7dfc0c9819027445a"
   },
   {
-    "showID": 38,
+    "showID": 39,
     "dateShow": "2019-12-29T19:30:00",
     "dateDoors": "2019-12-29T18:30:00",
     "dateLots": "",
@@ -216,7 +240,7 @@
     "placesID": "55e3174d410b31da010030a7dfc0c9819027445a"
   },
   {
-    "showID": 39,
+    "showID": 40,
     "dateShow": "2019-12-30T19:30:00",
     "dateDoors": "2019-12-30T18:30:00",
     "dateLots": "",
@@ -240,7 +264,7 @@
     "placesID": "55e3174d410b31da010030a7dfc0c9819027445a"
   },
   {
-    "showID": 40,
+    "showID": 41,
     "dateShow": "2019-12-31T19:30:00",
     "dateDoors": "2019-12-31T18:30:00",
     "dateLots": "",
