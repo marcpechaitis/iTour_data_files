@@ -289,8 +289,8 @@
   },
   {
     "showID": 1,
-    "dateShow": "2020-02-20T19:30:00",
-    "dateDoors": "",
+    "dateShow": "2020-02-20T21:30:00",
+    "dateDoors": "2020-02-20T20:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -314,7 +314,7 @@
   {
     "showID": 2,
     "dateShow": "2020-02-21T19:30:00",
-    "dateDoors": "",
+    "dateDoors": "2020-02-21T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -338,7 +338,7 @@
   {
     "showID": 3,
     "dateShow": "2020-02-22T19:30:00",
-    "dateDoors": "",
+    "dateDoors": "2020-02-22T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -361,8 +361,8 @@
   },
   {
     "showID": 4,
-    "dateShow": "2020-02-23T19:30:00",
-    "dateDoors": "",
+    "dateShow": "2020-02-23T17:00:00",
+    "dateDoors": "2020-02-23T15:30:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
