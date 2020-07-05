@@ -1,8 +1,8 @@
 [
   {
     "showID": 0,
-    "dateShow": "2020-07-23T20:00:00",
-    "dateDoors": "2020-07-23T18:30:00",
+    "dateShow": "2021-01-21T20:00:00",
+    "dateDoors": "2021-01-21T18:30:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "ACL Live at Moody Theater",
@@ -25,8 +25,8 @@
   },
   {
     "showID": 1,
-    "dateShow": "2020-07-24T20:00:00",
-    "dateDoors": "2020-07-24T18:30:00",
+    "dateShow": "2021-01-22T20:00:00",
+    "dateDoors": "2021-01-22T18:30:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "ACL Live at Moody Theater",
@@ -49,8 +49,8 @@
   },
   {
     "showID": 2,
-    "dateShow": "2020-07-25T20:00:00",
-    "dateDoors": "2020-07-25T18:30:00",
+    "dateShow": "2021-01-23T20:00:00",
+    "dateDoors": "2021-01-23T18:30:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "ACL Live at Moody Theater",
@@ -73,8 +73,8 @@
   },
   {
     "showID": 3,
-    "dateShow": "2020-08-20T20:00:00",
-    "dateDoors": "2020-08-20T19:00:00",
+    "dateShow": "2021-04-01T20:00:00",
+    "dateDoors": "2021-04-01T19:00:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "The Chicago Theatre",
@@ -97,8 +97,8 @@
   },
   {
     "showID": 4,
-    "dateShow": "2020-08-21T20:00:00",
-    "dateDoors": "2020-08-21T19:00:00",
+    "dateShow": "2021-04-02T20:00:00",
+    "dateDoors": "2021-04-02T19:00:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "The Chicago Theatre",
@@ -121,8 +121,8 @@
   },
   {
     "showID": 5,
-    "dateShow": "2020-08-22T20:00:00",
-    "dateDoors": "2020-08-22T19:00:00",
+    "dateShow": "2021-04-03T20:00:00",
+    "dateDoors": "2021-04-03T19:00:00",
     "dateLots": "",
     "timeZone": "America/Chicago",
     "venue": "The Chicago Theatre",
@@ -145,8 +145,8 @@
   },
   {
     "showID": 6,
-    "dateShow": "2020-09-04T18:00:00",
-    "dateDoors": "2020-09-04T16:30:00",
+    "dateShow": "2021-09-03T18:00:00",
+    "dateDoors": "2021-09-03T16:30:00",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
     "venue": "Oxbow Riverstage",
@@ -169,8 +169,8 @@
   },
   {
     "showID": 7,
-    "dateShow": "2020-09-05T18:00:00",
-    "dateDoors": "2020-09-05T16:30:00",
+    "dateShow": "2021-09-04T18:00:00",
+    "dateDoors": "2021-09-04T16:30:00",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
     "venue": "Oxbow Riverstage",
@@ -192,9 +192,10 @@
     "placesID": "b308801aae45bdac6abe4fd59e81e83d91f16d09"
   },
   {
+    "country": "USA",
     "showID": 8,
-    "dateShow": "2020-09-06T18:00:00",
-    "dateDoors": "2020-09-06T16:30:00",
+    "dateShow": "2021-09-05T18:00:00",
+    "dateDoors": "2021-09-05T16:30:00",
     "dateLots": "",
     "timeZone": "America/Los_Angeles",
     "venue": "Oxbow Riverstage",
@@ -204,7 +205,6 @@
     "city": "Napa",
     "state": "CA",
     "postal": "94559",
-    "country": "USA",
     "phoneNbr": "",
     "venueURL": "https://www.oxbowriverstage.com/",
     "setlistURL": "http://www.everydaycompanion.com/setlists/20200906a.asp",
