@@ -473,11 +473,10 @@
     "venueURL": "https://phish.com/news/daam-ep20/",
     "setlistURL": "http://phish.net/setlists/?d=2018-10-26",
     "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/01005828D846B305/staticImage?type=png&systemId=HOST",
-    "lat": "0.0",
-    "lng": "0.0",
-    "confidence": "0",
-    "placesPhotoReference": "",
-    "placesID": ""
+    "lat": "42.005259",
+    "lng": "-87.88783",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAA5PP3q5haWFf5cPhEXpgv0gE3OLzt24ACRUTkWHPB328bsmGEzdybd7ACdYgdZWyRzp_MjAxi2sXI3o9S5jTK9PK0FJkNGjCyPp4aR-KlAwkDEXpcZ2JnfdFcybscQxX4EhDKLoRcS539grYk3xhqQS8JGhQBOsPP6DBmETXpvvm4FlE4ktqyUQ"
   },
   {
     "showID": 105,
