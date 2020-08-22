@@ -45,7 +45,7 @@ function handleErrors(error) {
   console.error('Something went wrong ', error);
 }
 
-var processItems = function(i) {
+var processItems = function (i) {
   if (i < jsonSource.length) {
     // for (var i in jsonSource) {
     const event = jsonSource[i];
@@ -53,7 +53,8 @@ var processItems = function(i) {
     if (
       (event.hasOwnProperty('lat') || event.lat != 0) &&
       (event.hasOwnProperty('lng') || event.lng != 0) &&
-      (event.hasOwnProperty('confidence') && event.confidence > 0.5)
+      event.hasOwnProperty('confidence') &&
+      event.confidence > 0.5
     ) {
       console.log(
         event.showID +
@@ -63,11 +64,9 @@ var processItems = function(i) {
       );
       processItems(i + 1);
     } else {
-      const searchString = `${event.venue}+${event.address},+${event.city},+${
-        event.state
-      }+${event.postal}+${event.country}`;
+      const searchString = `${event.venue}+${event.address},+${event.city},+${event.state}+${event.postal}+${event.country}`;
 
-      geocoder.geocode(searchString).then(response => {
+      geocoder.geocode(searchString).then((response) => {
         if (typeof response[0] === 'undefined') {
           console.log(
             `${event.showID} ${'WARNING '.black.bgYellow}${
@@ -101,17 +100,16 @@ var processItems = function(i) {
   }
 };
 
-var processItems2ndPass = function(i) {
+var processItems2ndPass = function (i) {
   if (i < jsonSource.length) {
     const event = jsonSource[i];
-    const searchString = `${event.address},+${event.city},+${event.state}+${
-      event.postal
-    }+${event.country}`;
+    const searchString = `${event.address},+${event.city},+${event.state}+${event.postal}+${event.country}`;
 
     if (
       (event.hasOwnProperty('lat') || event.lat != 0) &&
       (event.hasOwnProperty('lng') || event.lng != 0) &&
-      (event.hasOwnProperty('confidence') && event.confidence > 0.5)
+      event.hasOwnProperty('confidence') &&
+      event.confidence > 0.5
     ) {
       console.log(
         event.showID +
@@ -121,7 +119,7 @@ var processItems2ndPass = function(i) {
       );
       processItems2ndPass(i + 1);
     } else {
-      geocoder.geocode(searchString).then(response => {
+      geocoder.geocode(searchString).then((response) => {
         if (typeof response[0] === 'undefined') {
           console.log(
             ' ERROR '.white.bgRed +
@@ -156,17 +154,16 @@ var processItems2ndPass = function(i) {
   }
 };
 
-var placesItemsPlacesPhotoURL = function(i) {
+var placesItemsPlacesPhotoURL = function (i) {
   if (i < jsonSource.length) {
     const event = jsonSource[i];
-    const searchString = `${event.address},+${event.city},+${event.state}+${
-      event.postal
-    }+${event.country}`;
+    const searchString = `${event.address},+${event.city},+${event.state}+${event.postal}+${event.country}`;
 
     if (
       (event.hasOwnProperty('lat') || event.lat != 0) &&
       (event.hasOwnProperty('lng') || event.lng != 0) &&
-      (event.hasOwnProperty('confidence') && event.confidence > 0.5)
+      event.hasOwnProperty('confidence') &&
+      event.confidence > 0.5
     ) {
       if (
         typeof event.placesPhotoReference === 'undefined' ||
@@ -185,7 +182,7 @@ var placesItemsPlacesPhotoURL = function(i) {
         };
         console.log(JSON.stringify(googlePlacesParameters));
 
-        googlePlaces.placeSearch(googlePlacesParameters, async function(
+        googlePlaces.placeSearch(googlePlacesParameters, async function (
           // googlePlaces.nearBySearch(googlePlacesParameters, async function(
           error,
           responsePlaces
@@ -196,7 +193,7 @@ var placesItemsPlacesPhotoURL = function(i) {
               console.log(JSON.stringify(responsePlaces));
 
               if (typeof responsePlaces.results[0].photos !== 'undefined') {
-                event.placesID = responsePlaces.results[0].id;
+                event.placesID = responsePlaces.results[0].place_id;
                 event.placesPhotoReference =
                   responsePlaces.results[0].photos[0].photo_reference;
                 //   responsePlaces.results[0].photos[0].photo_reference
@@ -205,7 +202,9 @@ var placesItemsPlacesPhotoURL = function(i) {
                     ' Success! '.green +
                     event.venue.green +
                     ' Photo URL: '.green +
-                    event.placesPhotoReference
+                    event.placesPhotoReference +
+                    ' Places ID: '.green +
+                    event.placesID
                 );
               }
 
@@ -224,7 +223,7 @@ var placesItemsPlacesPhotoURL = function(i) {
 
               console.log(JSON.stringify(googlePlacesParameters));
 
-              googlePlaces.placeSearch(googlePlacesParameters, async function(
+              googlePlaces.placeSearch(googlePlacesParameters, async function (
                 // googlePlaces.nearBySearch(googlePlacesParameters, async function(
                 error,
                 responsePlaces
