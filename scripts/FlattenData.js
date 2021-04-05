@@ -7,9 +7,11 @@
 const inputFilename = process.argv[2];
 const outputFilename = process.argv[2];
 
-const jsonSource = require(`../${inputFilename}`);
+const jsonSource = require(`../v8/${inputFilename}`);
 const fs = require('fs');
 const colors = require('colors');
+const { format, parseISO } = require('date-fns');
+
 // const NodeGeocoder = require('node-geocoder');
 // const GooglePlaces = require('googleplaces');
 // const googlePlaces = new GooglePlaces(
@@ -29,11 +31,11 @@ const colors = require('colors');
 // const geocoder = NodeGeocoder(options);
 // console.log(process.env.ITOUR_GOOGLE_GEOCODE_API_KEY);
 
-// console.log(
-//   '\n\nFile: '.black.bgWhite +
-//     process.argv[2].black.bgWhite +
-//     '\n'.black.bgWhite
-// );
+console.log(
+  '\n\nFile: '.black.bgWhite +
+    process.argv[2].black.bgWhite +
+    '\n'.black.bgWhite
+);
 
 // 1st create backup copy
 fs.writeFileSync(
@@ -49,10 +51,31 @@ function handleErrors(error) {
 }
 
 var processItems = function () {
-  console.log(jsonSource);
-  jsonSource.forEach((item) => {
+  console.log('\n\nStart Flatten Data for v8 Pass\n'.white.bgMagenta);
+  let flattenedData = [];
+  // console.log(jsonSource);
+  jsonSource.tours.forEach((item) => {
     console.log(item.title);
+    item.data.forEach((event) => {
+      console.log('🔸', event.dateShow);
+      const eventDate = new Date(event.dateShow);
+      event.YYYYMMDD = format(eventDate, 'yyyyMMdd');
+      event.title = format(eventDate, 'E, MMM d');
+    });
+    flattenedData = [...flattenedData, ...item.data];
   });
+
+  jsonSource.flatData = flattenedData;
+
+  console.log('🗜 flattened data', JSON.stringify(jsonSource));
+
+  console.log('\n\nEnd Flatten Data for v8 Pass\n'.white.bgMagenta);
+  fs.writeFileSync(`../v8/${outputFilename}`, JSON.stringify(jsonSource));
+
+  console.log('\n\nStart Flatten Data for < v8 Pass\n'.white.bgMagenta);
+  fs.writeFileSync(`../${outputFilename}`, JSON.stringify(flattenedData));
+  console.log('fin');
+
   // if (i < jsonSource.length) {
   //   // for (var i in jsonSource) {
   //   const event = jsonSource[i];
