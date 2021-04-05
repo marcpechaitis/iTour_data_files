@@ -59,8 +59,10 @@ var processItems = function () {
     item.data.forEach((event) => {
       console.log('🔸', event.dateShow);
       const eventDate = new Date(event.dateShow);
-      event.YYYYMMDD = format(eventDate, 'yyyyMMdd');
+      event.dateString = format(eventDate, 'd');
+      event.monthString = format(eventDate, 'MMM');
       event.title = format(eventDate, 'E, MMM d');
+      event.YYYYMMDD = format(eventDate, 'yyyyMMdd');
     });
     flattenedData = [...flattenedData, ...item.data];
   });
