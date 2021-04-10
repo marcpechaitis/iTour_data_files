@@ -1,6 +1,222 @@
 [
   {
     "showID": 0,
+    "dateShow": "2021-04-10T19:30:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Spirit of Suwannee Music Park",
+    "altName": "Live Oak",
+    "notes": "Suwanee Rising",
+    "address": "3079 95th Dr",
+    "city": "Live Oak",
+    "state": "FL",
+    "postal": "32060",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.suwanneerising.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-04-10",
+    "seatingURL": "https://www.suwanneerising.com/",
+    "lat": "30.394196",
+    "lng": "-82.944311",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwIUSOPZEeruWTsl16roHR6XXWIAL6gh9e3llHrYZ3q4hboSkitZlNv6JwQl5VvSpqD6726m8LVpBGgYqByLzhkP7asSXbse0MUyPITb8FxUiWHXL46JCxxhRczXQAVV71nMgl1gRno3J8r-2tcGIrMD5Rt08vJx9emaFu_TLUNvdKoe",
+    "placesID": "ChIJ65dPTq_h7ogRW7QiNYauPTM"
+  },
+  {
+    "showID": 1,
+    "dateShow": "2021-04-30T19:30:00",
+    "dateDoors": "2021-04-30T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Atlanta Motor Speedway",
+    "altName": "Hampton",
+    "notes": "Plan Bee Tour",
+    "address": "1500 Tara Pl",
+    "city": "Hampton",
+    "state": "GA",
+    "postal": "30228",
+    "country": "USA",
+    "phoneNbr": "877-926-7849",
+    "venueURL": "https://www.atlantamotorspeedway.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-04-30",
+    "seatingURL": "https://www.atlantamotorspeedway.com/",
+    "lat": "33.3859803",
+    "lng": "-84.3163125",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwLhkzkogXqhWIpCRHJVZBJ3P_dt5lkBZVPRdwwIYCrxXCE9UhZAfrle6hDzRC6icbF8DELnwGOHvHi9vnRdWE84mRTYvI_AZxuNyQsxARR9KBAJ2jSLdR_YcM2wltV1hWjCedhazZ-7TZXYkpq4Ulpw4we47FVkZy64cDjQkZImyiC2",
+    "placesID": "ChIJtw8CzDL09IgR626CH1cZkqo"
+  },
+  {
+    "showID": 2,
+    "dateShow": "2021-05-01T19:30:00",
+    "dateDoors": "2021-05-01T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Atlanta Motor Speedway",
+    "altName": "Hampton",
+    "notes": "Plan Bee Tour",
+    "address": "1500 Tara Pl",
+    "city": "Hampton",
+    "state": "GA",
+    "postal": "30228",
+    "country": "USA",
+    "phoneNbr": "877-926-7849",
+    "venueURL": "https://www.atlantamotorspeedway.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-01",
+    "seatingURL": "https://www.atlantamotorspeedway.com/",
+    "lat": "33.3859803",
+    "lng": "-84.3163125",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwKQp5JI4w5ST-nxCfnCYEHf1LRIcrpk5HaFXd3Ck93tBJ1pH93NA9GcaN0-aUtmey2GdhPHwjo9NCwzf16pKZR25FBdXKCwDtGTwg9fkAKm1GqkkjR2ALemgAD9Cjv_GnXf9GirgtH5hqfSVWfZp9yDlBi7XdYTFOvJMuMdglx92d3B",
+    "placesID": "ChIJtw8CzDL09IgR626CH1cZkqo"
+  },
+  {
+    "showID": 3,
+    "dateShow": "2021-05-07T19:00:00",
+    "dateDoors": "2021-05-07T17:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Westville Music Bowl",
+    "altName": "New Haven",
+    "notes": "An Evening With",
+    "address": "45 Yale Ave",
+    "city": "New Haven",
+    "state": "CT",
+    "postal": "06515",
+    "country": "USA",
+    "phoneNbr": "203-573-1600",
+    "venueURL": "https://www.westvillemusicbowl.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-07",
+    "seatingURL": "https://maps.seatics.com/WestvilleMusicBowl_Gov'tMule_2021-04-30_2021-03-16_1530_03172021_105556_SVGC_tn.png",
+    "lat": "41.3118577",
+    "lng": "-72.9574411",
+    "confidence": "1",
+    "placesPhotoReference": "",
+    "placesID": ""
+  },
+  {
+    "showID": 4,
+    "dateShow": "2021-05-08T19:00:00",
+    "dateDoors": "2021-05-08T17:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Westville Music Bowl",
+    "altName": "New Haven",
+    "notes": "An Evening With",
+    "address": "45 Yale Ave",
+    "city": "New Haven",
+    "state": "CT",
+    "postal": "06515",
+    "country": "USA",
+    "phoneNbr": "203-573-1600",
+    "venueURL": "https://www.westvillemusicbowl.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-08",
+    "seatingURL": "https://maps.seatics.com/WestvilleMusicBowl_Gov'tMule_2021-04-30_2021-03-16_1530_03172021_105556_SVGC_tn.png",
+    "lat": "41.3118577",
+    "lng": "-72.9574411",
+    "confidence": "1",
+    "placesPhotoReference": "",
+    "placesID": ""
+  },
+  {
+    "showID": 5,
+    "dateShow": "2021-05-14T19:30:00",
+    "dateDoors": "2021-05-14T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "SeatGeek Stadium",
+    "altName": "Bridgeview",
+    "notes": "Plan Bee Tour",
+    "address": "7000 S Harlem Ave",
+    "city": "Bridgeview",
+    "state": "IL",
+    "postal": "60455",
+    "country": "USA",
+    "phoneNbr": "708-594-7200",
+    "venueURL": "https://www.seatgeekstadium.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-14",
+    "seatingURL": "https://www.seatgeekstadium.com/",
+    "lat": "41.7647896",
+    "lng": "-87.8053793",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwJdu5ZxE3QT9NUUdVpphkIPMT0VIRU8dIGI6xTnv7lGsfpnh3fyAhRygbtQ1rCJTwzwFSrHD1I-a8ND4kHvpgUmRANr5sFIWztgxpO03npUXp0Jo9HoVKI3gSn8EssHFHx0lj8dPVawoutuUPBaYktvvnxenSjaHqoAWUFDdA2glstV",
+    "placesID": "ChIJGxzXSRE3DogR2x4VjhtUPQI"
+  },
+  {
+    "showID": 6,
+    "dateShow": "2021-05-15T19:30:00",
+    "dateDoors": "2021-05-15T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/Chicago",
+    "venue": "SeatGeek Stadium",
+    "altName": "Bridgeview",
+    "notes": "Plan Bee Tour",
+    "address": "7000 S Harlem Ave",
+    "city": "Bridgeview",
+    "state": "IL",
+    "postal": "60455",
+    "country": "USA",
+    "phoneNbr": "708-594-7200",
+    "venueURL": "https://www.seatgeekstadium.com/",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-15",
+    "seatingURL": "https://www.seatgeekstadium.com/",
+    "lat": "41.7647896",
+    "lng": "-87.8053793",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwKXarZ4O9MhWy10Ms5n8H2Izwtcfi08JJHVNmQ9Ei5TlqBBmu1iGPy4WWzcwyCpkMxbYmcxU3QBoabqzyB2_ZLPq1gR88YPAswoef3PojhIsjXZK3W5fWarU30d-7fnzymTNK_4uRcqXQoXCEk_ooJIZMvz91HhJDfV4A54jDhMCGGp",
+    "placesID": "ChIJGxzXSRE3DogR2x4VjhtUPQI"
+  },
+  {
+    "showID": 7,
+    "dateShow": "2021-05-28T19:30:00",
+    "dateDoors": "2021-05-28T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Riverside Station",
+    "altName": "Detroit",
+    "notes": "Plan Bee Tour",
+    "address": "701 W Jefferson Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "postal": "48226",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.livenation.com/venue/KovZ917APTj/riverside-station-detroit-events",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-28",
+    "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/08005A64984212E3/staticImage?type=png&systemId=HOST",
+    "lat": "42.325616",
+    "lng": "-83.0529382",
+    "confidence": "0.9",
+    "placesPhotoReference": "ATtYBwL5r37I9CBrX0yujngPwZD_P_r7_b3_gBKb0xsT9-2437D5N-xdkVXNzv3x3f7SJl33nOJ-MOi-nXjZf0ZnS_n-8fRMCyFCDsBEnyoNGKELPkmRwUMRgxPp5HkjszU-kKt5hTWykru9In7TfKWlyKsFawZDsuUMf7L1owA-tJic7t_0",
+    "placesID": ""
+  },
+  {
+    "showID": 8,
+    "dateShow": "2021-05-29T19:30:00",
+    "dateDoors": "2021-05-29T18:00:00",
+    "dateLots": "",
+    "timeZone": "America/New_York",
+    "venue": "Riverside Station",
+    "altName": "Detroit",
+    "notes": "Plan Bee Tour",
+    "address": "701 W Jefferson Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "postal": "48226",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.livenation.com/venue/KovZ917APTj/riverside-station-detroit-events",
+    "setlistURL": "http://allthings.umphreys.com/m/setlists/?date=2021-05-29",
+    "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/08005A64984212E3/staticImage?type=png&systemId=HOST",
+    "lat": "42.325616",
+    "lng": "-83.0529382",
+    "confidence": "0.9",
+    "placesPhotoReference": "ATtYBwLo0495wnMwfel6GvbWXGK-o0-ozChGKFwv7q4etFr__CJYCK_1otajESkMeAW0nf0goFQNIecCNcHqtN2n31tsBX0NpLXiguKfdx_2N6RNkKdXz5E6BiBgeykov_U3CFQPdz30q-D3nUok3_O9JVkcanTrlvlW0bA4-ghNkVL7C4ks",
+    "placesID": ""
+  },
+  {
+    "showID": 9,
     "dateShow": "2021-06-24T19:00:00",
     "dateDoors": "2021-06-24T18:00:00",
     "dateLots": "",
@@ -24,7 +240,7 @@
     "placesID": "ChIJISsMo_bk2YkRnhByihNpzZ0"
   },
   {
-    "showID": 1,
+    "showID": 10,
     "dateShow": "2021-06-25T18:30:00",
     "dateDoors": "2021-06-25T17:30:00",
     "dateLots": "",
@@ -48,7 +264,7 @@
     "placesID": "ChIJ20bAk1D2t4kRScYfblDwzI0"
   },
   {
-    "showID": 2,
+    "showID": 11,
     "dateShow": "2021-06-27T18:00:00",
     "dateDoors": "2021-06-27T17:00:00",
     "dateLots": "",
@@ -72,7 +288,7 @@
     "placesID": "ChIJ3Tr8hUEmwokR_8vD7ijjWVA"
   },
   {
-    "showID": 3,
+    "showID": 12,
     "dateShow": "2021-07-04T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -96,7 +312,7 @@
     "placesID": "8fbb622f7d22d1281b2c8c0b650069fe0ddb66b5"
   },
   {
-    "showID": 4,
+    "showID": 13,
     "dateShow": "2021-07-10T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -120,7 +336,7 @@
     "placesID": ""
   },
   {
-    "showID": 5,
+    "showID": 14,
     "dateShow": "2021-08-05T18:00:00",
     "dateDoors": "2021-08-05T17:00:00",
     "dateLots": "",
@@ -144,7 +360,7 @@
     "placesID": "ChIJXVIOozoeqokR0WY5Z0DFpiQ"
   },
   {
-    "showID": 6,
+    "showID": 15,
     "dateShow": "2021-08-06T19:00:00",
     "dateDoors": "2021-08-06T18:00:00",
     "dateLots": "",
@@ -168,7 +384,7 @@
     "placesID": "ChIJU1_Hp2Se-4gR2G1M1U3oLWw"
   },
   {
-    "showID": 7,
+    "showID": 16,
     "dateShow": "2021-08-07T20:30:00",
     "dateDoors": "2021-08-07T19:00:00",
     "dateLots": "",
@@ -192,7 +408,7 @@
     "placesID": "ChIJRTgVuSpcYIgR6uV6P9tZzLM"
   },
   {
-    "showID": 8,
+    "showID": 17,
     "dateShow": "2021-08-08T18:30:00",
     "dateDoors": "2021-08-08T17:30:00",
     "dateLots": "",
@@ -216,7 +432,7 @@
     "placesID": "ChIJz6v02FAaiYgRKf7KAfg2p7M"
   },
   {
-    "showID": 9,
+    "showID": 18,
     "dateShow": "2021-08-14T20:30:00",
     "dateDoors": "2021-08-14T19:00:00",
     "dateLots": "",
@@ -240,7 +456,7 @@
     "placesID": "ChIJP6i4fJEys1IRRjMlfzcgua0"
   },
   {
-    "showID": 10,
+    "showID": 19,
     "dateShow": "2021-08-15T19:00:00",
     "dateDoors": "2021-08-15T18:00:00",
     "dateLots": "",
@@ -264,7 +480,7 @@
     "placesID": "ChIJYzVJrK6Z7ocRfAASNemIwuA"
   },
   {
-    "showID": 11,
+    "showID": 20,
     "dateShow": "2021-08-20T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -288,7 +504,7 @@
     "placesID": "a6504349a06cf9077897d78c7aff221e4ed64e01"
   },
   {
-    "showID": 12,
+    "showID": 21,
     "dateShow": "2021-08-21T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -312,7 +528,7 @@
     "placesID": "a6504349a06cf9077897d78c7aff221e4ed64e01"
   },
   {
-    "showID": 13,
+    "showID": 22,
     "dateShow": "2021-08-22T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -336,7 +552,7 @@
     "placesID": "a6504349a06cf9077897d78c7aff221e4ed64e01"
   },
   {
-    "showID": 14,
+    "showID": 23,
     "dateShow": "2021-08-26T20:00:00",
     "dateDoors": "2021-08-26T19:00:00",
     "dateLots": "",
@@ -360,7 +576,7 @@
     "placesID": "ChIJXU6KVdluyYcR-aP2khZGSN0"
   },
   {
-    "showID": 15,
+    "showID": 24,
     "dateShow": "2021-08-27T18:30:00",
     "dateDoors": "2021-08-27T17:30:00",
     "dateLots": "",
@@ -384,7 +600,7 @@
     "placesID": "ChIJ23DXqlxmZIgRNeksJdnFqtM"
   },
   {
-    "showID": 16,
+    "showID": 25,
     "dateShow": "2021-08-28T18:30:00",
     "dateDoors": "2021-08-28T17:30:00",
     "dateLots": "",
@@ -408,7 +624,7 @@
     "placesID": "ChIJq_UW4rBQa4gRdkEYtJWUdCU"
   },
   {
-    "showID": 17,
+    "showID": 26,
     "dateShow": "2021-09-02T20:00:00",
     "dateDoors": "2021-09-02T19:00:00",
     "dateLots": "",
@@ -432,7 +648,7 @@
     "placesID": "c9fcf85f761f29b7999e49d3a78b42b093345818"
   },
   {
-    "showID": 18,
+    "showID": 27,
     "dateShow": "2021-09-03T19:30:00",
     "dateDoors": "2021-09-03T18:30:00",
     "dateLots": "",
@@ -456,7 +672,7 @@
     "placesID": "85ca1e6551b777201734762820899d8d0f6e042f"
   },
   {
-    "showID": 19,
+    "showID": 28,
     "dateShow": "2021-09-04T19:30:00",
     "dateDoors": "2021-09-04T18:30:00",
     "dateLots": "",
@@ -480,7 +696,7 @@
     "placesID": "9d4a9bb2ec2179ce697bde4f513802ef69d03ba5"
   },
   {
-    "showID": 20,
+    "showID": 29,
     "dateShow": "2021-09-05T19:00:00",
     "dateDoors": "2021-09-05T18:00:00",
     "dateLots": "",
@@ -504,7 +720,7 @@
     "placesID": "262e6e634be72d6bb4b33b9bd7a76a3563290940"
   },
   {
-    "showID": 21,
+    "showID": 30,
     "dateShow": "2021-09-09T19:30:00",
     "dateDoors": "2021-09-09T18:30:00",
     "dateLots": "",
@@ -528,7 +744,7 @@
     "placesID": "4d0f1d7f90a5f6096878096c49cf149e28c883e8"
   },
   {
-    "showID": 22,
+    "showID": 31,
     "dateShow": "2021-09-10T19:30:00",
     "dateDoors": "2021-09-10T18:30:00",
     "dateLots": "",
@@ -552,7 +768,7 @@
     "placesID": "4dbe129cbc8f5afafc04fe8e62184025e1dce5fc"
   },
   {
-    "showID": 23,
+    "showID": 32,
     "dateShow": "2021-09-11T19:30:00",
     "dateDoors": "2021-09-11T18:30:00",
     "dateLots": "",
@@ -576,7 +792,7 @@
     "placesID": "9a8ba0ee9c74b4faa701d29e2812e1bac7eb8ed0"
   },
   {
-    "showID": 24,
+    "showID": 33,
     "dateShow": "2021-09-12T19:00:00",
     "dateDoors": "2021-09-12T18:00:00",
     "dateLots": "",
@@ -600,7 +816,7 @@
     "placesID": "037f05f708a9aa6b9b713681ed6942ed930cc939"
   },
   {
-    "showID": 25,
+    "showID": 34,
     "dateShow": "2021-10-08T19:30:00",
     "dateDoors": "2021-10-08T18:00:00",
     "dateLots": "",
@@ -624,7 +840,7 @@
     "placesID": "ae3cfe10b2e969cf16533318f1b13d18b5be178e"
   },
   {
-    "showID": 26,
+    "showID": 35,
     "dateShow": "2021-10-09T19:30:00",
     "dateDoors": "2021-10-09T18:00:00",
     "dateLots": "",
@@ -648,7 +864,7 @@
     "placesID": "ae3cfe10b2e969cf16533318f1b13d18b5be178e"
   },
   {
-    "showID": 27,
+    "showID": 36,
     "dateShow": "2022-07-23T20:00:00",
     "dateDoors": "",
     "dateLots": "",
