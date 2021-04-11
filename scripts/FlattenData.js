@@ -54,7 +54,7 @@ var processItems = function () {
   console.log('\n\nStart Flatten Data for v8 Pass\n'.white.bgMagenta);
   let flattenedData = [];
   // console.log(jsonSource);
-  jsonSource.tours.forEach((item) => {
+  jsonSource.sections.forEach((item) => {
     console.log(item.title);
     item.data.forEach((event) => {
       console.log('🔸', event.dateShow);
