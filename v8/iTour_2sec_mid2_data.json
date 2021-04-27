@@ -514,7 +514,7 @@
       "data": [
         {
           "showID": 18,
-          "dateShow": "2021-12-28T20:00:00",
+          "dateShow": "2020-12-28T20:00:00",
           "dateDoors": "2020-12-28T19:00:00",
           "dateLots": "",
           "timeZone": "America/New_York",
@@ -537,12 +537,12 @@
           "placesID": "ChIJ28DQdm8E9YgRnsZ4YZ94nRo",
           "dateString": "28",
           "monthString": "Dec",
-          "title": "Tue, Dec 28",
-          "YYYYMMDD": "20211228"
+          "title": "Mon, Dec 28",
+          "YYYYMMDD": "20201228"
         },
         {
           "showID": 19,
-          "dateShow": "2021-12-29T20:00:00",
+          "dateShow": "2020-12-29T20:00:00",
           "dateDoors": "2020-12-29T19:00:00",
           "dateLots": "",
           "timeZone": "America/New_York",
@@ -565,12 +565,12 @@
           "placesID": "ChIJ28DQdm8E9YgRnsZ4YZ94nRo",
           "dateString": "29",
           "monthString": "Dec",
-          "title": "Wed, Dec 29",
-          "YYYYMMDD": "20211229"
+          "title": "Tue, Dec 29",
+          "YYYYMMDD": "20201229"
         },
         {
           "showID": 20,
-          "dateShow": "2021-12-30T20:00:00",
+          "dateShow": "2020-12-30T20:00:00",
           "dateDoors": "2020-12-30T19:00:00",
           "dateLots": "",
           "timeZone": "America/New_York",
@@ -593,8 +593,8 @@
           "placesID": "ChIJ28DQdm8E9YgRnsZ4YZ94nRo",
           "dateString": "30",
           "monthString": "Dec",
-          "title": "Thu, Dec 30",
-          "YYYYMMDD": "20211230"
+          "title": "Wed, Dec 30",
+          "YYYYMMDD": "20201230"
         },
         {
           "showID": 21,
@@ -1134,7 +1134,7 @@
     },
     {
       "showID": 18,
-      "dateShow": "2021-12-28T20:00:00",
+      "dateShow": "2020-12-28T20:00:00",
       "dateDoors": "2020-12-28T19:00:00",
       "dateLots": "",
       "timeZone": "America/New_York",
@@ -1157,12 +1157,12 @@
       "placesID": "ChIJ28DQdm8E9YgRnsZ4YZ94nRo",
       "dateString": "28",
       "monthString": "Dec",
-      "title": "Tue, Dec 28",
-      "YYYYMMDD": "20211228"
+      "title": "Mon, Dec 28",
+      "YYYYMMDD": "20201228"
     },
     {
       "showID": 19,
-      "dateShow": "2021-12-29T20:00:00",
+      "dateShow": "2020-12-29T20:00:00",
       "dateDoors": "2020-12-29T19:00:00",
       "dateLots": "",
       "timeZone": "America/New_York",
@@ -1185,12 +1185,12 @@
       "placesID": "ChIJ28DQdm8E9YgRnsZ4YZ94nRo",
       "dateString": "29",
       "monthString": "Dec",
-      "title": "Wed, Dec 29",
-      "YYYYMMDD": "20211229"
+      "title": "Tue, Dec 29",
+      "YYYYMMDD": "20201229"
     },
     {
       "showID": 20,
-      "dateShow": "2021-12-30T20:00:00",
+      "dateShow": "2020-12-30T20:00:00",
       "dateDoors": "2020-12-30T19:00:00",
       "dateLots": "",
       "timeZone": "America/New_York",
@@ -1213,8 +1213,8 @@
       "placesID": "ChIJ28DQdm8E9YgRnsZ4YZ94nRo",
       "dateString": "30",
       "monthString": "Dec",
-      "title": "Thu, Dec 30",
-      "YYYYMMDD": "20211230"
+      "title": "Wed, Dec 30",
+      "YYYYMMDD": "20201230"
     },
     {
       "showID": 21,
