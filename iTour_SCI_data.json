@@ -25,6 +25,126 @@
   },
   {
     "showID": 1,
+    "dateShow": "2021-07-13T18:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Dillon Amphitheater",
+    "altName": "Dillon",
+    "notes": "",
+    "address": "201 W Lodgepole St",
+    "city": "Dillon",
+    "state": "CO",
+    "postal": "80435",
+    "country": "USA",
+    "phoneNbr": "970-468-2403",
+    "venueURL": "https://dillonamphitheater.com/",
+    "setlistURL": "http://friendsofcheese.com/incidents.php?cat=year&year=2021",
+    "seatingURL": "https://dillonamphitheater.com/wp-content/uploads/2019/04/seating-chart-2-ga-1-722x1030.jpg",
+    "lat": "39.6260858",
+    "lng": "-106.0470984",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwJmJEGmcU56zf8hINk0Ty-dW4Naf9pCWqiMwvPP5olY5PKTD-ds6iHuSITuf28DOafmMXBDLo-Z6A90zAmHpMsLd6DZXcGgxhQlotfGkxeYR8_KXuRYYNfuLEEtn8KwumBdDe5tKOwJCA9FWZwGxUCtg7_uE9yjAPSUe07KfS211NPL",
+    "placesID": "ChIJi0KqLZpbaocREM3kWFexM4A"
+  },
+  {
+    "showID": 2,
+    "dateShow": "2021-07-14T18:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Dillon Amphitheater",
+    "altName": "Dillon",
+    "notes": "",
+    "address": "201 W Lodgepole St",
+    "city": "Dillon",
+    "state": "CO",
+    "postal": "80435",
+    "country": "USA",
+    "phoneNbr": "970-468-2403",
+    "venueURL": "https://dillonamphitheater.com/",
+    "setlistURL": "http://friendsofcheese.com/incidents.php?cat=year&year=2021",
+    "seatingURL": "https://dillonamphitheater.com/wp-content/uploads/2019/04/seating-chart-2-ga-1-722x1030.jpg",
+    "lat": "39.6260858",
+    "lng": "-106.0470984",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwIu1YDL2GLel0O70YdfeEg21mKWJuu7hJYQFb6lLmwHd5REj8s1IkGNjx6N0ftmHRV3iSIlL3VEQxxbUOmYDZiOclPPaQCWfayYVB_FSLUphwPwcFI3aE-km5SbaQMh3JcVYV3wrbIu0kVnR0-1l11UMOvI5QOrLS9n4WK62EGYLPwS",
+    "placesID": "ChIJi0KqLZpbaocREM3kWFexM4A"
+  },
+  {
+    "showID": 3,
+    "dateShow": "2021-07-16T19:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Red Rocks Amphitheatre",
+    "altName": "Morrison",
+    "notes": "",
+    "address": "18300 W Alameda Pky",
+    "city": "Morrison",
+    "state": "CO",
+    "postal": "80465",
+    "country": "USA",
+    "phoneNbr": "720-865-2494",
+    "venueURL": "https://www.redrocksonline.com/",
+    "setlistURL": "http://friendsofcheese.com/incidents.php?cat=year&year=2021",
+    "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+    "lat": "39.6655381",
+    "lng": "-105.2052116",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+    "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w"
+  },
+  {
+    "showID": 4,
+    "dateShow": "2021-07-17T19:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Red Rocks Amphitheatre",
+    "altName": "Morrison",
+    "notes": "",
+    "address": "18300 W Alameda Pky",
+    "city": "Morrison",
+    "state": "CO",
+    "postal": "80465",
+    "country": "USA",
+    "phoneNbr": "720-865-2494",
+    "venueURL": "https://www.redrocksonline.com/",
+    "setlistURL": "http://friendsofcheese.com/incidents.php?cat=year&year=2021",
+    "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+    "lat": "39.6655381",
+    "lng": "-105.2052116",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+    "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w"
+  },
+  {
+    "showID": 5,
+    "dateShow": "2021-07-18T18:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Denver",
+    "venue": "Red Rocks Amphitheatre",
+    "altName": "Morrison",
+    "notes": "",
+    "address": "18300 W Alameda Pky",
+    "city": "Morrison",
+    "state": "CO",
+    "postal": "80465",
+    "country": "USA",
+    "phoneNbr": "720-865-2494",
+    "venueURL": "https://www.redrocksonline.com/",
+    "setlistURL": "http://friendsofcheese.com/incidents.php?cat=year&year=2021",
+    "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+    "lat": "39.6655381",
+    "lng": "-105.2052116",
+    "confidence": "1",
+    "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+    "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w"
+  },
+  {
+    "showID": 6,
     "dateShow": "2021-08-28T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -48,7 +168,7 @@
     "placesID": "ChIJMZ6nALPazYcRyxnTNaoissc"
   },
   {
-    "showID": 2,
+    "showID": 7,
     "dateShow": "2021-10-28T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -72,7 +192,7 @@
     "placesID": "ChIJ65dPTq_h7ogRW7QiNYauPTM"
   },
   {
-    "showID": 3,
+    "showID": 8,
     "dateShow": "2021-10-29T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -96,7 +216,7 @@
     "placesID": "ChIJ65dPTq_h7ogRW7QiNYauPTM"
   },
   {
-    "showID": 4,
+    "showID": 9,
     "dateShow": "2021-10-30T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -120,7 +240,7 @@
     "placesID": "ChIJ65dPTq_h7ogRW7QiNYauPTM"
   },
   {
-    "showID": 5,
+    "showID": 10,
     "dateShow": "2021-10-31T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -144,7 +264,7 @@
     "placesID": "ChIJ65dPTq_h7ogRW7QiNYauPTM"
   },
   {
-    "showID": 6,
+    "showID": 11,
     "dateShow": "2022-01-22T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -168,7 +288,7 @@
     "placesID": "ChIJRVnoItlT2o4Rg5YAHN7J-_0"
   },
   {
-    "showID": 7,
+    "showID": 12,
     "dateShow": "2022-01-23T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -192,7 +312,7 @@
     "placesID": "ChIJRVnoItlT2o4Rg5YAHN7J-_0"
   },
   {
-    "showID": 8,
+    "showID": 13,
     "dateShow": "2022-01-24T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -216,7 +336,7 @@
     "placesID": "ChIJRVnoItlT2o4Rg5YAHN7J-_0"
   },
   {
-    "showID": 9,
+    "showID": 14,
     "dateShow": "2022-01-27T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -240,7 +360,7 @@
     "placesID": "ChIJRVnoItlT2o4Rg5YAHN7J-_0"
   },
   {
-    "showID": 10,
+    "showID": 15,
     "dateShow": "2022-01-28T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -264,7 +384,7 @@
     "placesID": "ChIJRVnoItlT2o4Rg5YAHN7J-_0"
   },
   {
-    "showID": 11,
+    "showID": 16,
     "dateShow": "2022-01-29T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -288,7 +408,7 @@
     "placesID": "ChIJRVnoItlT2o4Rg5YAHN7J-_0"
   },
   {
-    "showID": 12,
+    "showID": 17,
     "dateShow": "2022-06-10T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -312,7 +432,7 @@
     "placesID": "39808aa83326831b02830a3326b4dd06aa6c0ef0"
   },
   {
-    "showID": 13,
+    "showID": 18,
     "dateShow": "2021-06-11T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -336,7 +456,7 @@
     "placesID": "39808aa83326831b02830a3326b4dd06aa6c0ef0"
   },
   {
-    "showID": 14,
+    "showID": 19,
     "dateShow": "2021-06-13T20:00:00",
     "dateDoors": "",
     "dateLots": "",
