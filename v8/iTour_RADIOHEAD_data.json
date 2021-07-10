@@ -5,7 +5,7 @@
       "data": [
         {
           "showID": 0,
-          "dateShow": "2021-07-10T19:00:00",
+          "dateShow": "2021-07-10T16:05:00",
           "dateDoors": "2021-07-10T17:30:00",
           "dateLots": "2021-07-10T15:00:00",
           "timeZone": "America/Chicago",
@@ -26,9 +26,9 @@
           "confidence": "1",
           "placesPhotoReference": "ATtYBwIZCQ68Jo7vhmXlRZSRSd0IrjdVtb-4xPL_tnRGcgp_Pzng8Gf2n-FeA7Ilu4H8EfANM134zwfY_oei3m0h7kfoNu5R2GB3AfYKu8nVoByb9oTrA3y49sSSr2RTTJRl7A7t8uLbuAseDOIs_0rUKV--kkaAMaZfiyl3YZqfSnFNsLae",
           "placesID": "ChIJOYU0xw0RyYcRVQ5ZK_iFhjg",
-          "dateString": "28",
+          "dateString": "10",
           "monthString": "Jul",
-          "title": "Wed, Jul 28",
+          "title": "Wed, Jul 10",
           "YYYYMMDD": "20210728"
         },
         {
@@ -1111,7 +1111,7 @@
   "flatData": [
     {
       "showID": 0,
-      "dateShow": "2021-07-10T19:00:00",
+      "dateShow": "2021-07-10T18:05:00",
       "dateDoors": "2021-07-10T17:30:00",
       "dateLots": "2021-07-10T15:00:00",
       "timeZone": "America/Chicago",
