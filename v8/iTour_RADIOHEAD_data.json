@@ -33,7 +33,7 @@
         },
         {
           "showID": 1,
-          "dateShow": "2021-07-10T19:30:00",
+          "dateShow": "2021-07-30T19:30:00",
           "dateDoors": "2021-07-30T18:00:00",
           "dateLots": "2021-07-30T14:00:00",
           "timeZone": "America/Chicago",
@@ -54,10 +54,10 @@
           "confidence": "1",
           "placesPhotoReference": "ATtYBwKHd5IMwXEbU2_BlZsx1i-GGhwyJBUhDs47TvReqRw9_vhBCB3fv45B5WTdDJpqWbsBmomMu66BXGbf6sJbUXxzpRRk3s2uRkvAnoujfUlElCbKBGqwyyt59q2Kd9SOtz06x7x6yXtujOYMeG1g0-nD1U4pQcdVSiaeXHWgGroPPZxP",
           "placesID": "ChIJj-w4QaIjiYgR6Gd3kboq-a4",
-          "dateString": "10",
+          "dateString": "30",
           "monthString": "Jul",
-          "title": "Sat, Jul 10",
-          "YYYYMMDD": "20210710"
+          "title": "Fri, Jul 30",
+          "YYYYMMDD": "20210730"
         },
         {
           "showID": 2,
@@ -1139,7 +1139,7 @@
     },
     {
       "showID": 1,
-      "dateShow": "2021-07-10T19:30:00",
+      "dateShow": "2021-07-30T19:30:00",
       "dateDoors": "2021-07-30T18:00:00",
       "dateLots": "2021-07-30T14:00:00",
       "timeZone": "America/Chicago",
@@ -1160,10 +1160,10 @@
       "confidence": "1",
       "placesPhotoReference": "ATtYBwKHd5IMwXEbU2_BlZsx1i-GGhwyJBUhDs47TvReqRw9_vhBCB3fv45B5WTdDJpqWbsBmomMu66BXGbf6sJbUXxzpRRk3s2uRkvAnoujfUlElCbKBGqwyyt59q2Kd9SOtz06x7x6yXtujOYMeG1g0-nD1U4pQcdVSiaeXHWgGroPPZxP",
       "placesID": "ChIJj-w4QaIjiYgR6Gd3kboq-a4",
-      "dateString": "10",
+      "dateString": "30",
       "monthString": "Jul",
-      "title": "Sat, Jul 10",
-      "YYYYMMDD": "20210710"
+      "title": "Fri, Jul 30",
+      "YYYYMMDD": "20210730"
     },
     {
       "showID": 2,
