@@ -5,7 +5,7 @@
       "data": [
         {
           "showID": 0,
-          "dateShow": "2021-07-10T18:59:00",
+          "dateShow": "2021-07-09T18:59:00",
           "dateDoors": "2021-07-10T17:30:00",
           "dateLots": "2021-07-10T15:00:00",
           "timeZone": "America/Chicago",
@@ -26,14 +26,14 @@
           "confidence": "1",
           "placesPhotoReference": "ATtYBwIZCQ68Jo7vhmXlRZSRSd0IrjdVtb-4xPL_tnRGcgp_Pzng8Gf2n-FeA7Ilu4H8EfANM134zwfY_oei3m0h7kfoNu5R2GB3AfYKu8nVoByb9oTrA3y49sSSr2RTTJRl7A7t8uLbuAseDOIs_0rUKV--kkaAMaZfiyl3YZqfSnFNsLae",
           "placesID": "ChIJOYU0xw0RyYcRVQ5ZK_iFhjg",
-          "dateString": "10",
+          "dateString": "9",
           "monthString": "Jul",
-          "title": "Wed, Jul 10",
-          "YYYYMMDD": "20210728"
+          "title": "Fri, Jul 9",
+          "YYYYMMDD": "20210709"
         },
         {
           "showID": 1,
-          "dateShow": "2021-07-30T19:30:00",
+          "dateShow": "2021-07-10T19:30:00",
           "dateDoors": "2021-07-30T18:00:00",
           "dateLots": "2021-07-30T14:00:00",
           "timeZone": "America/Chicago",
@@ -54,10 +54,10 @@
           "confidence": "1",
           "placesPhotoReference": "ATtYBwKHd5IMwXEbU2_BlZsx1i-GGhwyJBUhDs47TvReqRw9_vhBCB3fv45B5WTdDJpqWbsBmomMu66BXGbf6sJbUXxzpRRk3s2uRkvAnoujfUlElCbKBGqwyyt59q2Kd9SOtz06x7x6yXtujOYMeG1g0-nD1U4pQcdVSiaeXHWgGroPPZxP",
           "placesID": "ChIJj-w4QaIjiYgR6Gd3kboq-a4",
-          "dateString": "30",
+          "dateString": "10",
           "monthString": "Jul",
-          "title": "Fri, Jul 30",
-          "YYYYMMDD": "20210730"
+          "title": "Sat, Jul 10",
+          "YYYYMMDD": "20210710"
         },
         {
           "showID": 2,
@@ -1111,7 +1111,7 @@
   "flatData": [
     {
       "showID": 0,
-      "dateShow": "2021-07-10T18:59:00",
+      "dateShow": "2021-07-09T18:59:00",
       "dateDoors": "2021-07-10T17:30:00",
       "dateLots": "2021-07-10T15:00:00",
       "timeZone": "America/Chicago",
@@ -1132,14 +1132,14 @@
       "confidence": "1",
       "placesPhotoReference": "ATtYBwIZCQ68Jo7vhmXlRZSRSd0IrjdVtb-4xPL_tnRGcgp_Pzng8Gf2n-FeA7Ilu4H8EfANM134zwfY_oei3m0h7kfoNu5R2GB3AfYKu8nVoByb9oTrA3y49sSSr2RTTJRl7A7t8uLbuAseDOIs_0rUKV--kkaAMaZfiyl3YZqfSnFNsLae",
       "placesID": "ChIJOYU0xw0RyYcRVQ5ZK_iFhjg",
-      "dateString": "28",
+      "dateString": "9",
       "monthString": "Jul",
-      "title": "Wed, Jul 28",
-      "YYYYMMDD": "20210728"
+      "title": "Fri, Jul 9",
+      "YYYYMMDD": "20210709"
     },
     {
       "showID": 1,
-      "dateShow": "2021-07-30T19:30:00",
+      "dateShow": "2021-07-10T19:30:00",
       "dateDoors": "2021-07-30T18:00:00",
       "dateLots": "2021-07-30T14:00:00",
       "timeZone": "America/Chicago",
@@ -1160,10 +1160,10 @@
       "confidence": "1",
       "placesPhotoReference": "ATtYBwKHd5IMwXEbU2_BlZsx1i-GGhwyJBUhDs47TvReqRw9_vhBCB3fv45B5WTdDJpqWbsBmomMu66BXGbf6sJbUXxzpRRk3s2uRkvAnoujfUlElCbKBGqwyyt59q2Kd9SOtz06x7x6yXtujOYMeG1g0-nD1U4pQcdVSiaeXHWgGroPPZxP",
       "placesID": "ChIJj-w4QaIjiYgR6Gd3kboq-a4",
-      "dateString": "30",
+      "dateString": "10",
       "monthString": "Jul",
-      "title": "Fri, Jul 30",
-      "YYYYMMDD": "20210730"
+      "title": "Sat, Jul 10",
+      "YYYYMMDD": "20210710"
     },
     {
       "showID": 2,
