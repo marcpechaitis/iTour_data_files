@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# to run, type './LatLngBatch' in terminal
+echo
+echo
+echo
+echo
+echo *~*~*~*Updating iTour App Data Files*~*~*~*
+starttime_total=$(date +%s)
+## declare an array of band names for processing
+## add PEARLJAM once that app has been released!
+declare -a bands=("DEAD" "DMB" "PHISH" "PEARLJAM" "RADIOHEAD" "SCI" "UMPHREYS" "WSP")
+
+## now loop through the bands array
+for band in "${bands[@]}"
+do
+   echo
+   echo "$band" START PROCESSING: $(date)
+   starttime_band=$(date +%s)
+
+   ## invoke LatLng.js to update get Latitude and Longitude of events
+   node LatLng.js iTour_"$band"_data.json
+   echo "$band" processed.
+
+   endtime_band=$(date +%s)
+   echo "$band" END PROCESSING: $(date) total "$(($endtime_band - $starttime_band))" seconds
+   echo
+done
+
+endtime_total=$(date +%s)
+echo "Elapsed time: $(($endtime_total - $starttime_total)) seconds"
+echo *~*~*~*Updating iTour App Data Files COMPLETE*~*~*~*
+echo
+echo
+echo
+echo

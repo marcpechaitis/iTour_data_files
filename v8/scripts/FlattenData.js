@@ -75,7 +75,7 @@ var processItems = function () {
   fs.writeFileSync(`../v8/${outputFilename}`, JSON.stringify(jsonSource));
 
   console.log('\n\nStart Flatten Data for < v8 Pass\n'.white.bgMagenta);
-  fs.writeFileSync(`../${outputFilename}`, JSON.stringify(jsonSource.flatData));
+  fs.writeFileSync(`../${outputFilename}`, JSON.stringify(flattenedData));
   console.log('fin');
 
   // if (i < jsonSource.length) {
