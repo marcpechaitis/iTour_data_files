@@ -49,6 +49,54 @@
   },
   {
     "showID": 2,
+    "dateShow": "2021-10-01T20:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Los_Angeles",
+    "venue": "Doheny State Beach",
+    "altName": "Dana Point",
+    "notes": "Ohana Festival",
+    "address": "25300 Dana Point Harbor Dr",
+    "city": "Dana Point",
+    "state": "CA",
+    "postal": "92629",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.ohanafest.com/",
+    "setlistURL": "https://livefootsteps.org/shows/",
+    "seatingURL": "https://www.ohanafest.com/",
+    "lat": "33.4631511",
+    "lng": "-117.6878769",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAAopKfm1d_N5mSQOkFYi7xj54puYA9SW0IGgoeKbrpSEQhPg8NqUUSlOfMWEuGH3mxFLBIldhgbViykEy6g4-dfWktEV1b9v-Y2lJZhUD90-Dft_Ce-OJurGhhiAng1u_6EhBTVoQ7RDCN6zieAuNOSL-nGhT9h09yyxGremtzYeNYv8Ac-41Eug",
+    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b"
+  },
+  {
+    "showID": 3,
+    "dateShow": "2021-10-02T20:00:00",
+    "dateDoors": "",
+    "dateLots": "",
+    "timeZone": "America/Los_Angeles",
+    "venue": "Doheny State Beach",
+    "altName": "Dana Point",
+    "notes": "Ohana Festival",
+    "address": "25300 Dana Point Harbor Dr",
+    "city": "Dana Point",
+    "state": "CA",
+    "postal": "92629",
+    "country": "USA",
+    "phoneNbr": "",
+    "venueURL": "https://www.ohanafest.com/",
+    "setlistURL": "https://livefootsteps.org/shows/",
+    "seatingURL": "https://www.ohanafest.com/",
+    "lat": "33.4631511",
+    "lng": "-117.6878769",
+    "confidence": "1",
+    "placesPhotoReference": "CmRaAAAAopKfm1d_N5mSQOkFYi7xj54puYA9SW0IGgoeKbrpSEQhPg8NqUUSlOfMWEuGH3mxFLBIldhgbViykEy6g4-dfWktEV1b9v-Y2lJZhUD90-Dft_Ce-OJurGhhiAng1u_6EhBTVoQ7RDCN6zieAuNOSL-nGhT9h09yyxGremtzYeNYv8Ac-41Eug",
+    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b"
+  },
+  {
+    "showID": 4,
     "dateShow": "2022-06-14T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -72,7 +120,7 @@
     "placesID": "64d361d4bc52a58b3469e7288c68401af51b01e5"
   },
   {
-    "showID": 3,
+    "showID": 5,
     "dateShow": "2022-06-15T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -96,7 +144,7 @@
     "placesID": "64d361d4bc52a58b3469e7288c68401af51b01e5"
   },
   {
-    "showID": 4,
+    "showID": 6,
     "dateShow": "2022-06-18T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -120,7 +168,7 @@
     "placesID": "ChIJKfdI_B29wEcRssDtJiA2XDE"
   },
   {
-    "showID": 5,
+    "showID": 7,
     "dateShow": "2022-06-21T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -144,7 +192,7 @@
     "placesID": "8824ff8004828e551c9b89a8837aa464587552ea"
   },
   {
-    "showID": 6,
+    "showID": 8,
     "dateShow": "2022-06-23T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -168,7 +216,7 @@
     "placesID": "b50e10d17137eae52c92f47b9391c664969fe296"
   },
   {
-    "showID": 7,
+    "showID": 9,
     "dateShow": "2022-06-25T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -192,7 +240,7 @@
     "placesID": "dc887b36bcd2c5134352c85351659d818f7140a0"
   },
   {
-    "showID": 8,
+    "showID": 10,
     "dateShow": "2022-06-28T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -216,7 +264,7 @@
     "placesID": "d83f2715d4e610fc947355e3ad48ddef0d4c3f64"
   },
   {
-    "showID": 9,
+    "showID": 11,
     "dateShow": "2022-06-30T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -240,7 +288,7 @@
     "placesID": "165656a11d38180510fecfb20d894f8e1feb907d"
   },
   {
-    "showID": 10,
+    "showID": 12,
     "dateShow": "2022-07-03T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -264,7 +312,7 @@
     "placesID": "3a733b841b2f1097926db9b9c4af4f74329079a8"
   },
   {
-    "showID": 11,
+    "showID": 13,
     "dateShow": "2022-07-05T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -288,7 +336,7 @@
     "placesID": "f3d76f399a7b62d60e578d1e6c1ade1a46afdbb0"
   },
   {
-    "showID": 12,
+    "showID": 14,
     "dateShow": "2022-07-08T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -312,7 +360,7 @@
     "placesID": "3c3e3c627314ff64e57c996a085a4939b52b9cb4"
   },
   {
-    "showID": 13,
+    "showID": 15,
     "dateShow": "2022-07-09T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -336,7 +384,7 @@
     "placesID": "3c3e3c627314ff64e57c996a085a4939b52b9cb4"
   },
   {
-    "showID": 14,
+    "showID": 16,
     "dateShow": "2022-07-12T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -360,7 +408,7 @@
     "placesID": "312f797c3a8c0f76583f1634ba7322dd608cf237"
   },
   {
-    "showID": 15,
+    "showID": 17,
     "dateShow": "2022-07-14T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -384,7 +432,7 @@
     "placesID": "65b9db701114cfdf54a1d397844e23b5f0253f0e"
   },
   {
-    "showID": 16,
+    "showID": 18,
     "dateShow": "2022-07-17T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -408,7 +456,7 @@
     "placesID": "5da35195651821479329e5144c121d5cc180e1a8"
   },
   {
-    "showID": 17,
+    "showID": 19,
     "dateShow": "2022-07-20T20:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -432,7 +480,7 @@
     "placesID": "433569b3b4b26f3cd420c433e408fdecded2ed63"
   },
   {
-    "showID": 19,
+    "showID": 20,
     "dateShow": "2022-07-22T20:00:00",
     "dateDoors": "",
     "dateLots": "",
