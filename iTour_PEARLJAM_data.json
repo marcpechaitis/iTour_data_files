@@ -21,7 +21,11 @@
     "lng": "-73.99858499999999",
     "confidence": "1",
     "placesPhotoReference": "CmRZAAAAbOF9GTuDDhlyLXSslRrWDU4HIO_83wuUEYS9YSZyzw3Dpfpx7YrK3ekRzkyQnHMa7qeX7vO51yAJpp8Hb0s91MESHnMDNWww6_niW33sGwwSxATUaUKMB8rQM44Ec3x0EhBBieSaqdpRQEk-NAdCpTszGhQSHOhVIR5S66k4WYCItegCBSjD2A",
-    "placesID": "fa530eb55a057034d99135e349be73fcbf503387"
+    "placesID": "fa530eb55a057034d99135e349be73fcbf503387",
+    "dateString": "18",
+    "monthString": "Sep",
+    "title": "Sat, Sep 18",
+    "YYYYMMDD": "20210918"
   },
   {
     "showID": 1,
@@ -45,7 +49,11 @@
     "lng": "-117.6878769",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAopKfm1d_N5mSQOkFYi7xj54puYA9SW0IGgoeKbrpSEQhPg8NqUUSlOfMWEuGH3mxFLBIldhgbViykEy6g4-dfWktEV1b9v-Y2lJZhUD90-Dft_Ce-OJurGhhiAng1u_6EhBTVoQ7RDCN6zieAuNOSL-nGhT9h09yyxGremtzYeNYv8Ac-41Eug",
-    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b"
+    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b",
+    "dateString": "26",
+    "monthString": "Sep",
+    "title": "Sun, Sep 26",
+    "YYYYMMDD": "20210926"
   },
   {
     "showID": 2,
@@ -69,7 +77,11 @@
     "lng": "-117.6878769",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAopKfm1d_N5mSQOkFYi7xj54puYA9SW0IGgoeKbrpSEQhPg8NqUUSlOfMWEuGH3mxFLBIldhgbViykEy6g4-dfWktEV1b9v-Y2lJZhUD90-Dft_Ce-OJurGhhiAng1u_6EhBTVoQ7RDCN6zieAuNOSL-nGhT9h09yyxGremtzYeNYv8Ac-41Eug",
-    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b"
+    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b",
+    "dateString": "1",
+    "monthString": "Oct",
+    "title": "Fri, Oct 1",
+    "YYYYMMDD": "20211001"
   },
   {
     "showID": 3,
@@ -93,7 +105,11 @@
     "lng": "-117.6878769",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAopKfm1d_N5mSQOkFYi7xj54puYA9SW0IGgoeKbrpSEQhPg8NqUUSlOfMWEuGH3mxFLBIldhgbViykEy6g4-dfWktEV1b9v-Y2lJZhUD90-Dft_Ce-OJurGhhiAng1u_6EhBTVoQ7RDCN6zieAuNOSL-nGhT9h09yyxGremtzYeNYv8Ac-41Eug",
-    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b"
+    "placesID": "8ea1ea404d36ce8c605e375f9cdb5a599d31e16b",
+    "dateString": "2",
+    "monthString": "Oct",
+    "title": "Sat, Oct 2",
+    "YYYYMMDD": "20211002"
   },
   {
     "showID": 4,
@@ -117,7 +133,11 @@
     "lng": "4.9371732",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAAVcqynKcG9tBOT-btJo6myAVjb7SS0R14kkRqOwxrRjPnu5Xp4Nd7I4ziYA5FTH7SxdOcB1doMTlKk56sMYiplZeEHNoZui89WUN0V0QZNXpJR3Qosoj9TFLoG_y_yYMoEhAhYFC9TaxnV0H-TinfwgsRGhS8hJVlwoawah_c2Kxr1F-P_8RnUg",
-    "placesID": "64d361d4bc52a58b3469e7288c68401af51b01e5"
+    "placesID": "64d361d4bc52a58b3469e7288c68401af51b01e5",
+    "dateString": "14",
+    "monthString": "Jun",
+    "title": "Tue, Jun 14",
+    "YYYYMMDD": "20220614"
   },
   {
     "showID": 5,
@@ -141,7 +161,11 @@
     "lng": "4.9371732",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAAXOUyp82IsPkE08JSCbPYUVWVIV1tBP03h3UIW7uIL07e8koQuQPO1KrEOmQVB03VsXiQX7Zzt7Hc33jkp6URGAqVj91qyO6E6W4dnkRBHwpCEza0czSSN7ugHIfQO5C-EhD8J2mW1-s50RCXvJuolqyCGhTligXduzW9d0u0rwwQBtN41YszSQ",
-    "placesID": "64d361d4bc52a58b3469e7288c68401af51b01e5"
+    "placesID": "64d361d4bc52a58b3469e7288c68401af51b01e5",
+    "dateString": "15",
+    "monthString": "Jun",
+    "title": "Wed, Jun 15",
+    "YYYYMMDD": "20220615"
   },
   {
     "showID": 6,
@@ -165,7 +189,11 @@
     "lng": "6.0232602",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAAgkjqEpSK7jdOl0jji8Pad6OyGOOTRbEDOMEVsrgmyF7n8-t4OyjE16rJBZa5Yz_FN4dsqPot1O65Ceglu1kdDID2rX6fvYMXZtPKlyqw-r-KpAKNRR9NDl4usLgxUaU9EhAX9A8w-cplqnxI2JjtppR4GhRhRg5ByqXHgaTGkDLaDTtQowGI6Q",
-    "placesID": "ChIJKfdI_B29wEcRssDtJiA2XDE"
+    "placesID": "ChIJKfdI_B29wEcRssDtJiA2XDE",
+    "dateString": "18",
+    "monthString": "Jun",
+    "title": "Sat, Jun 18",
+    "YYYYMMDD": "20220618"
   },
   {
     "showID": 7,
@@ -189,7 +217,11 @@
     "lng": "13.2290142",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAwx3wXO2ldQT3huM0oc5J6NXQHjb48pf2eAxXszwbAsDWSyzaC7yTPyhLApDRHAH_3j1pLxGx9KajRDyp6Brwfx0_tS3kCrzBhwsaybFV9glSvPXjd_DZmnXW2wed6h6zEhDr3MhKPB_A3QlDJD2ad6rSGhQmU4T8cRo1saPRsAtgFkvwTLL0UA",
-    "placesID": "8824ff8004828e551c9b89a8837aa464587552ea"
+    "placesID": "8824ff8004828e551c9b89a8837aa464587552ea",
+    "dateString": "21",
+    "monthString": "Jun",
+    "title": "Tue, Jun 21",
+    "YYYYMMDD": "20220621"
   },
   {
     "showID": 8,
@@ -213,7 +245,11 @@
     "lng": "8.5516946",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAnV7OOlMLmSJyN85LLbPTP27CeAevzoKkvUkKTrhkMYf7FkD-SEwz2PWLrVrG9Y5pWtghVeWTohc1h5B6E7xJJzH10V8LZaATPEGxUzrKBIcX8Gyj4mhN7O6qoIMJzuwsEhDkR1l_WqMuoaO5VMzkGjy6GhTXEny5rS_9UKf1bo18J892G2ES1w",
-    "placesID": "b50e10d17137eae52c92f47b9391c664969fe296"
+    "placesID": "b50e10d17137eae52c92f47b9391c664969fe296",
+    "dateString": "23",
+    "monthString": "Jun",
+    "title": "Thu, Jun 23",
+    "YYYYMMDD": "20220623"
   },
   {
     "showID": 9,
@@ -237,7 +273,11 @@
     "lng": "11.719392",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAA-dJ1YliXV0-TEvWHFjeZzHVIRK7dxwBefdBGkbXeSD0EsyCu4U0pa1yqbSxoUqpCS3j2OJcJwPj_2vwzLl1MApTN14P2vhagqFKQG0RcN2uwK8D4FEOUVHwlJK1QuaRnEhC1XIussDMRuT1bjPWGQliYGhQcqfIIr-KMYC4ij_TFc7ht2xP2-Q",
-    "placesID": "dc887b36bcd2c5134352c85351659d818f7140a0"
+    "placesID": "dc887b36bcd2c5134352c85351659d818f7140a0",
+    "dateString": "25",
+    "monthString": "Jun",
+    "title": "Sat, Jun 25",
+    "YYYYMMDD": "20220625"
   },
   {
     "showID": 10,
@@ -261,7 +301,11 @@
     "lng": "8.6508638",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAAqe0vuqC6bd3yHkPbgJeuQBnkHMrQ9-VG-JtyFhDAPKTSjqNG7baVp0Cm1vVtg9LVNcY5UVUCOmOVaqxmzmaqUh_5JHd39DjVfNtJU5PICnwsUWATa-lQcbj87WrbhdC_EhCYAyPSlc9PMCdi-nbnjUNnGhQScJo9tWagRorJAchHJiSNBXaltg",
-    "placesID": "d83f2715d4e610fc947355e3ad48ddef0d4c3f64"
+    "placesID": "d83f2715d4e610fc947355e3ad48ddef0d4c3f64",
+    "dateString": "28",
+    "monthString": "Jun",
+    "title": "Tue, Jun 28",
+    "YYYYMMDD": "20220628"
   },
   {
     "showID": 11,
@@ -285,7 +329,11 @@
     "lng": "4.6865289",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAACH7aYbXBhcHF9CGaCNuDbVIYqBnY9zcAoLILz4qmiuCwF6a9S1FV_lH8IzdnCBYXURhVp3BC6vpUcQzRQceVjqVt9ZGEMzjmCb5kOtYlDB8OsIvg_eoya6TfdMefUP1BEhBNZs7g1sipSFoY3dwjLgdhGhT4qYTKQtIizn3TFJTiFspenspLuA",
-    "placesID": "165656a11d38180510fecfb20d894f8e1feb907d"
+    "placesID": "165656a11d38180510fecfb20d894f8e1feb907d",
+    "dateString": "30",
+    "monthString": "Jun",
+    "title": "Thu, Jun 30",
+    "YYYYMMDD": "20220630"
   },
   {
     "showID": 12,
@@ -309,7 +357,11 @@
     "lng": "18.1177972",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAA59XxnrWIP29WWb6u2kQm0mbnvTiRgPXYoAu1eC48ZMXIC-5o0pJiPyOpv0U6uCWWCLQTh3wP4avwotlgoWOzC_KOYpFbRxb1uLwhBO4vT2CKmHhmYNpSI4wwxSpAVxIKEhBHoqVPGjSg3xMdWD97HGOUGhSiwenJAjfvS1lWJA411JI-xL3M3g",
-    "placesID": "3a733b841b2f1097926db9b9c4af4f74329079a8"
+    "placesID": "3a733b841b2f1097926db9b9c4af4f74329079a8",
+    "dateString": "3",
+    "monthString": "Jul",
+    "title": "Sun, Jul 3",
+    "YYYYMMDD": "20220703"
   },
   {
     "showID": 13,
@@ -333,7 +385,11 @@
     "lng": "12.5737102",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAYj72anXGKDuATOxCc56Jdx4pOBJhdw7Oo3XKliyWAWXVcb3ZCqL6XK6MeEoesy4uxdXTF8SjjoiIOVni4OVKWGQz-pnhQ9AoRINRunSiainV4gxVsKwiC_S42ptWGjIKEhAW72bdSywJDZYuBliEp3NTGhRwhiYuOh2-VZ5H_PqmCO9q1flmvw",
-    "placesID": "f3d76f399a7b62d60e578d1e6c1ade1a46afdbb0"
+    "placesID": "f3d76f399a7b62d60e578d1e6c1ade1a46afdbb0",
+    "dateString": "5",
+    "monthString": "Jul",
+    "title": "Tue, Jul 5",
+    "YYYYMMDD": "20220705"
   },
   {
     "showID": 14,
@@ -357,7 +413,11 @@
     "lng": "-0.1631212",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAArAPglkKCMR5CgH3zLiecvhkOGgtpYEcy2yuaGlUWrMepUQsBOKnPwOkzg4K-V3OVnm_xCZueVFo8fDAJOT3ixun_KiljvYd9h-kEuJvR-CuFQ3WnYdi12WF5eNa-_DhlEhDEpyirBzPALssNUX22YfylGhSyml9iThRfKogB-qx_UQjD74_rbw",
-    "placesID": "3c3e3c627314ff64e57c996a085a4939b52b9cb4"
+    "placesID": "3c3e3c627314ff64e57c996a085a4939b52b9cb4",
+    "dateString": "8",
+    "monthString": "Jul",
+    "title": "Fri, Jul 8",
+    "YYYYMMDD": "20220708"
   },
   {
     "showID": 15,
@@ -381,7 +441,11 @@
     "lng": "-0.1631212",
     "confidence": "0.7",
     "placesPhotoReference": "CmRaAAAArAPglkKCMR5CgH3zLiecvhkOGgtpYEcy2yuaGlUWrMepUQsBOKnPwOkzg4K-V3OVnm_xCZueVFo8fDAJOT3ixun_KiljvYd9h-kEuJvR-CuFQ3WnYdi12WF5eNa-_DhlEhDEpyirBzPALssNUX22YfylGhSyml9iThRfKogB-qx_UQjD74_rbw",
-    "placesID": "3c3e3c627314ff64e57c996a085a4939b52b9cb4"
+    "placesID": "3c3e3c627314ff64e57c996a085a4939b52b9cb4",
+    "dateString": "9",
+    "monthString": "Jul",
+    "title": "Sat, Jul 9",
+    "YYYYMMDD": "20220709"
   },
   {
     "showID": 16,
@@ -405,7 +469,11 @@
     "lng": "19.1057073",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAAeiSqi8GvdyMpOcVnKxmFfYLaT0efqnOPpoxSZGKTCSaLAbczjX42T0vGzrlW-ZawErK2GmVa657PQ1poW2CJy3RKbeJTYEKJXmdQoHg5Y4NT77LpWKL5qdo4P3Q_Fm39EhCCTxIjaK9nJlrA3fdVmTjnGhQ6j3GKpoFnaVMGXmMw_g2LeVuaBw",
-    "placesID": "312f797c3a8c0f76583f1634ba7322dd608cf237"
+    "placesID": "312f797c3a8c0f76583f1634ba7322dd608cf237",
+    "dateString": "12",
+    "monthString": "Jul",
+    "title": "Tue, Jul 12",
+    "YYYYMMDD": "20220712"
   },
   {
     "showID": 17,
@@ -429,7 +497,11 @@
     "lng": "19.9819144",
     "confidence": "1",
     "placesPhotoReference": "CmRZAAAAAQ0VWTBUxhkiOAIXSLgvBmye3yJompUAH2igN104GdErWuHe6xcbIsz1iqbQS7k3CtnEVQ1oEKwn2WYYPqM1fcAIPqKWgZ6nl187WCY02Ga-FWXjBND5TjvhiFzgzV98EhDMhfRzwV0acglpSStY6b-pGhQgP1OfKMQ1OUk4BAosb1022xv5xw",
-    "placesID": "65b9db701114cfdf54a1d397844e23b5f0253f0e"
+    "placesID": "65b9db701114cfdf54a1d397844e23b5f0253f0e",
+    "dateString": "14",
+    "monthString": "Jul",
+    "title": "Thu, Jul 14",
+    "YYYYMMDD": "20220714"
   },
   {
     "showID": 18,
@@ -453,7 +525,11 @@
     "lng": "2.2338287",
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAASjBgHa_NVZiOgpCPEm5QBz5oYAWE-MGwqc4wlni2Cf2IDj4l8knmLDlONwTmxKtHI0olO4A0b8J-LurLg9w2JVN3o9mCjdIPeYuTEvAsdVzCbJ-AoTXBkyadqX7nowPaEhAPvqjsmn-mAgOE5jR_QwSXGhQQy39fHqjQSBEanlQAGNBt29DL_w",
-    "placesID": "5da35195651821479329e5144c121d5cc180e1a8"
+    "placesID": "5da35195651821479329e5144c121d5cc180e1a8",
+    "dateString": "17",
+    "monthString": "Jul",
+    "title": "Sun, Jul 17",
+    "YYYYMMDD": "20220717"
   },
   {
     "showID": 19,
@@ -477,7 +553,11 @@
     "lng": "16.3329201",
     "confidence": "1",
     "placesPhotoReference": "CmRZAAAA7dWqMcy6zdkAvhVCr5EbYGXzjRiZ75okW3lNKaYPX7dFiVULs1DaZ42_b6uvitvWEtsBPuN5YYhJJP9AyiNRkeoH9LMHGdzs6JtYwEFgG81__ZE44eBpp6TmFKOh4pkIEhCILLT43GIUdIQVSQS12Ai-GhQGsSroGWT5RzXlCobWtVo15kW92Q",
-    "placesID": "433569b3b4b26f3cd420c433e408fdecded2ed63"
+    "placesID": "433569b3b4b26f3cd420c433e408fdecded2ed63",
+    "dateString": "20",
+    "monthString": "Jul",
+    "title": "Wed, Jul 20",
+    "YYYYMMDD": "20220720"
   },
   {
     "showID": 20,
@@ -500,6 +580,10 @@
     "lat": "50.1047889",
     "lng": "14.4937748",
     "confidence": "1",
-    "placesPhotoReference": ""
+    "placesPhotoReference": "",
+    "dateString": "22",
+    "monthString": "Jul",
+    "title": "Fri, Jul 22",
+    "YYYYMMDD": "20220722"
   }
 ]
