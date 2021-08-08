@@ -229,8 +229,8 @@
         },
         {
           "showID": 8,
-          "dateShow": "2021-08-08T19:30:00",
-          "dateDoors": "2021-08-08T18:00:00",
+          "dateShow": "2021-08-08T19:00:00",
+          "dateDoors": "2021-08-08T17:30:00",
           "dateLots": "2021-08-08T13:00:00",
           "timeZone": "America/Indianapolis",
           "venue": "Ruoff Music Center",
@@ -1335,8 +1335,8 @@
     },
     {
       "showID": 8,
-      "dateShow": "2021-08-08T19:30:00",
-      "dateDoors": "2021-08-08T18:00:00",
+      "dateShow": "2021-08-08T19:00:00",
+      "dateDoors": "2021-08-08T17:30:00",
       "dateLots": "2021-08-08T13:00:00",
       "timeZone": "America/Indianapolis",
       "venue": "Ruoff Music Center",
