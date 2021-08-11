@@ -20,7 +20,11 @@
     "lat": "-33.4646281",
     "lng": "-70.6106762",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAFu038nCUYtF1RHUzzwGvfE_dGVNWZYx6AJhAHa5BcdIDfaqOcjtZbFu1dWskmsMpLT-wZ7mg9iyruMebAJTe3Z-NOvm41NYV6IvLZ1fMHMCsD9C6Mto8h98DxrouFrsUEhBF8kRrpctOSX6xsTjha7F6GhSqk3cr78w-yqCYIKckmt-6loWbFw"
+    "placesPhotoReference": "CmRaAAAAFu038nCUYtF1RHUzzwGvfE_dGVNWZYx6AJhAHa5BcdIDfaqOcjtZbFu1dWskmsMpLT-wZ7mg9iyruMebAJTe3Z-NOvm41NYV6IvLZ1fMHMCsD9C6Mto8h98DxrouFrsUEhBF8kRrpctOSX6xsTjha7F6GhSqk3cr78w-yqCYIKckmt-6loWbFw",
+    "dateString": "11",
+    "monthString": "Apr",
+    "title": "Wed, Apr 11",
+    "YYYYMMDD": "20180411"
   },
   {
     "showID": 2,
@@ -43,7 +47,11 @@
     "lat": "-34.572614",
     "lng": "-58.487325",
     "confidence": "1",
-    "placesPhotoReference": ""
+    "placesPhotoReference": "",
+    "dateString": "14",
+    "monthString": "Apr",
+    "title": "Sat, Apr 14",
+    "YYYYMMDD": "20180414"
   },
   {
     "showID": 3,
@@ -66,7 +74,11 @@
     "lat": "-12.0672896",
     "lng": "-77.0337292",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAC75IrqcguetSxlCalFGQG_bk50ZM0J3VrnWKcia4CTSvthi3HOM5mVU0HZc5WiC4958dcQ0Tn6PoNgtvhU6DG1ylAwVIbBTTAqpe8Nvq3dcYn_-kJ4snMsmxL-32rw91EhBHIGVgmVYCkYL2sEYrvl7YGhT6Qvam_HBtunxvmnOWHAq3kKPowQ"
+    "placesPhotoReference": "CmRaAAAAC75IrqcguetSxlCalFGQG_bk50ZM0J3VrnWKcia4CTSvthi3HOM5mVU0HZc5WiC4958dcQ0Tn6PoNgtvhU6DG1ylAwVIbBTTAqpe8Nvq3dcYn_-kJ4snMsmxL-32rw91EhBHIGVgmVYCkYL2sEYrvl7YGhT6Qvam_HBtunxvmnOWHAq3kKPowQ",
+    "dateString": "17",
+    "monthString": "Apr",
+    "title": "Tue, Apr 17",
+    "YYYYMMDD": "20180417"
   },
   {
     "showID": 4,
@@ -89,7 +101,11 @@
     "lat": "-22.9778391",
     "lng": "-43.3942273",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAC28uQnTE436XUL_R_gZMk41fZ_U1SGBAjqTbMBvpxV3WMni6Ac72nwQTad_gqTzoSQxtqa2Uz0S4PRLGL85OeKV2m9BwG-oRXQ1TCZULpvNmMdVuFrjILi0EQobkd4yaEhBXt3SCRaAuGRUp43OcTdvTGhTcoQs7MprZ-JiZzn060r-lLG_dUw"
+    "placesPhotoReference": "CmRaAAAAC28uQnTE436XUL_R_gZMk41fZ_U1SGBAjqTbMBvpxV3WMni6Ac72nwQTad_gqTzoSQxtqa2Uz0S4PRLGL85OeKV2m9BwG-oRXQ1TCZULpvNmMdVuFrjILi0EQobkd4yaEhBXt3SCRaAuGRUp43OcTdvTGhTcoQs7MprZ-JiZzn060r-lLG_dUw",
+    "dateString": "20",
+    "monthString": "Apr",
+    "title": "Fri, Apr 20",
+    "YYYYMMDD": "20180420"
   },
   {
     "showID": 5,
@@ -112,7 +128,11 @@
     "lat": "-23.5275868",
     "lng": "-46.6784688",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAvwUleSVf5CCFdkWU4eMh4mNLc2kYfCkUj3iOIHXCBGDU0yuIY3w6--7r5W64bWaEUja6uFbF1XxmYVTd56lNUkRn3lK-sNWtzCa64MHUT3s5saatAnFZCbtwpew444Y6EhBw4jGtvKwrGTRQUhmFZ5HmGhTNjO3HMjeGhpj98YJxLfNOx_ULDw"
+    "placesPhotoReference": "CmRaAAAAvwUleSVf5CCFdkWU4eMh4mNLc2kYfCkUj3iOIHXCBGDU0yuIY3w6--7r5W64bWaEUja6uFbF1XxmYVTd56lNUkRn3lK-sNWtzCa64MHUT3s5saatAnFZCbtwpew444Y6EhBw4jGtvKwrGTRQUhmFZ5HmGhTNjO3HMjeGhpj98YJxLfNOx_ULDw",
+    "dateString": "22",
+    "monthString": "Apr",
+    "title": "Sun, Apr 22",
+    "YYYYMMDD": "20180422"
   },
   {
     "showID": 6,
@@ -135,7 +155,11 @@
     "lat": "4.602568",
     "lng": "-74.0650471",
     "confidence": "1",
-    "placesPhotoReference": ""
+    "placesPhotoReference": "",
+    "dateString": "25",
+    "monthString": "Apr",
+    "title": "Wed, Apr 25",
+    "YYYYMMDD": "20180425"
   },
   {
     "showID": 7,
@@ -158,7 +182,11 @@
     "lat": "41.8806908",
     "lng": "-87.6741759",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAASECPDPxf3zQpM1LMg_Zw3x2-Vt4C0NihnvQelTk7XDMreu06QKp18SW48xyyVmMQBHAOk1Sqc-2fV8Vup4o-U7LPaTUQA_EDdWhU6T7rfkuLKX3tsjFWyTD6ue79ITN6EhB8ya40pMxxNc75Sa_olDLpGhQhIdZy3-r7F-jDWQVR-GQRzWSElA"
+    "placesPhotoReference": "CmRaAAAASECPDPxf3zQpM1LMg_Zw3x2-Vt4C0NihnvQelTk7XDMreu06QKp18SW48xyyVmMQBHAOk1Sqc-2fV8Vup4o-U7LPaTUQA_EDdWhU6T7rfkuLKX3tsjFWyTD6ue79ITN6EhB8ya40pMxxNc75Sa_olDLpGhQhIdZy3-r7F-jDWQVR-GQRzWSElA",
+    "dateString": "7",
+    "monthString": "Jul",
+    "title": "Sat, Jul 7",
+    "YYYYMMDD": "20180707"
   },
   {
     "showID": 8,
@@ -181,7 +209,11 @@
     "lat": "40.7505045",
     "lng": "-73.9934387",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAm02tHdxzDNERcM4zoI_vn1-SYnM61wtHxlP2x6VS-W8A-wBmvVNwl--Ta_A5VDH5ugNrs0PKHKor5QMuF599RWvyA1MUBoa3lE_2o0QaGX2vF2qye76tjBdpyQksMp8ZEhANYy_ygHCvYbv1PovllLNRGhQ-FOalAK4B7TvdFbfWFX15DPddgA"
+    "placesPhotoReference": "CmRaAAAAm02tHdxzDNERcM4zoI_vn1-SYnM61wtHxlP2x6VS-W8A-wBmvVNwl--Ta_A5VDH5ugNrs0PKHKor5QMuF599RWvyA1MUBoa3lE_2o0QaGX2vF2qye76tjBdpyQksMp8ZEhANYy_ygHCvYbv1PovllLNRGhQ-FOalAK4B7TvdFbfWFX15DPddgA",
+    "dateString": "10",
+    "monthString": "Jul",
+    "title": "Tue, Jul 10",
+    "YYYYMMDD": "20180710"
   },
   {
     "showID": 9,
@@ -204,7 +236,11 @@
     "lat": "40.7505045",
     "lng": "-73.9934387",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAAPveMg0QZhTUja-eL1lqstnRgKhdIhOm_8u0YbOeTWAFgfPU4X44kG0KalH0fqnO2V4CRrUKC-Y8A_Moy7zQOD2f1acuFWaljiCXnIhWTGdeBIVpevJUS5Bbg48I_rvDEhCZzZb4Jzy8rQvsPUwzKa4RGhSQ4hNwBNnJmsJ0-Pc_FnHj0vsjFQ"
+    "placesPhotoReference": "CmRaAAAAAPveMg0QZhTUja-eL1lqstnRgKhdIhOm_8u0YbOeTWAFgfPU4X44kG0KalH0fqnO2V4CRrUKC-Y8A_Moy7zQOD2f1acuFWaljiCXnIhWTGdeBIVpevJUS5Bbg48I_rvDEhCZzZb4Jzy8rQvsPUwzKa4RGhSQ4hNwBNnJmsJ0-Pc_FnHj0vsjFQ",
+    "dateString": "11",
+    "monthString": "Jul",
+    "title": "Wed, Jul 11",
+    "YYYYMMDD": "20180711"
   },
   {
     "showID": 10,
@@ -227,7 +263,11 @@
     "lat": "40.7505045",
     "lng": "-73.9934387",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAbkw6XPHxgEIV6Svwz1eHgQQIqVxYl0J1rh7QZGJq8tXZ9Wwf0-ktISycZOdZgmqWFwabrNZLjUvupeSN0wBuNQImYPj_uvU1_z3fw2VIgiUsrgNNcuypRstXn0QE8NIOEhA8Ak2jDTrssRvG5-zvUPGJGhQRj8UBd-UNy4KEDj7riLtMr29XsQ"
+    "placesPhotoReference": "CmRaAAAAbkw6XPHxgEIV6Svwz1eHgQQIqVxYl0J1rh7QZGJq8tXZ9Wwf0-ktISycZOdZgmqWFwabrNZLjUvupeSN0wBuNQImYPj_uvU1_z3fw2VIgiUsrgNNcuypRstXn0QE8NIOEhA8Ak2jDTrssRvG5-zvUPGJGhQRj8UBd-UNy4KEDj7riLtMr29XsQ",
+    "dateString": "13",
+    "monthString": "Jul",
+    "title": "Fri, Jul 13",
+    "YYYYMMDD": "20180713"
   },
   {
     "showID": 11,
@@ -250,7 +290,11 @@
     "lat": "45.4960667",
     "lng": "-73.5693153",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAi409Suvmvk4RbYebV0jrrWOjT9_0A-4RvQeqQTAPFCSuGswcPblSMKqp-c5sa59Lm4p0ayGkkzPJ9lswl_CQ3lCzBC22n0mPw0pt1EjdYCMfE3PxEkY_xGvYWOdebn3cEhB0qMY-0IslFTuN2BiNifUjGhQhc264Pt0HQrm1dKCPwdgDAupLgQ"
+    "placesPhotoReference": "CmRaAAAAi409Suvmvk4RbYebV0jrrWOjT9_0A-4RvQeqQTAPFCSuGswcPblSMKqp-c5sa59Lm4p0ayGkkzPJ9lswl_CQ3lCzBC22n0mPw0pt1EjdYCMfE3PxEkY_xGvYWOdebn3cEhB0qMY-0IslFTuN2BiNifUjGhQhc264Pt0HQrm1dKCPwdgDAupLgQ",
+    "dateString": "16",
+    "monthString": "Jul",
+    "title": "Mon, Jul 16",
+    "YYYYMMDD": "20180716"
   },
   {
     "showID": 12,
@@ -273,7 +317,11 @@
     "lat": "45.4960667",
     "lng": "-73.5693153",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAhS4E8QHbINzqzrqh_XmSJed7c5nQ6MNWl1gff3cq5NrtrjLU7VR25WPO5xwAeA-ZZBmeFXM2qApev6OUk0vUmy6vDIsqbww2nmhoaj-LJRX4Xor-iSQfygyzWFmznHt3EhA-L3wjhwC2RUtGq6JdTWRjGhRrAVznbb5Kt8UTLCVhW0858mQoew"
+    "placesPhotoReference": "CmRaAAAAhS4E8QHbINzqzrqh_XmSJed7c5nQ6MNWl1gff3cq5NrtrjLU7VR25WPO5xwAeA-ZZBmeFXM2qApev6OUk0vUmy6vDIsqbww2nmhoaj-LJRX4Xor-iSQfygyzWFmznHt3EhA-L3wjhwC2RUtGq6JdTWRjGhRrAVznbb5Kt8UTLCVhW0858mQoew",
+    "dateString": "17",
+    "monthString": "Jul",
+    "title": "Tue, Jul 17",
+    "YYYYMMDD": "20180717"
   },
   {
     "showID": 13,
@@ -296,7 +344,11 @@
     "lat": "43.6434661",
     "lng": "-79.3790989",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAQzY0ISsvY1nN-nsZNFuqLYVSE0xypfnoYZ7EnmVVTHB3cAOuNhrKbgOgv7CAvqU-4KcxVZiwF84QKBWE4UPDyWPWKWGYC0rzzmmB4uoEmlI6rHyvslcCWlpKt9YVayotEhBX23i7StPxFe6O2go_d_kuGhS9HAUW-_Gg7rwEIg3wEa2h3IVcqg"
+    "placesPhotoReference": "CmRaAAAAQzY0ISsvY1nN-nsZNFuqLYVSE0xypfnoYZ7EnmVVTHB3cAOuNhrKbgOgv7CAvqU-4KcxVZiwF84QKBWE4UPDyWPWKWGYC0rzzmmB4uoEmlI6rHyvslcCWlpKt9YVayotEhBX23i7StPxFe6O2go_d_kuGhS9HAUW-_Gg7rwEIg3wEa2h3IVcqg",
+    "dateString": "19",
+    "monthString": "Jul",
+    "title": "Thu, Jul 19",
+    "YYYYMMDD": "20180719"
   },
   {
     "showID": 14,
@@ -319,7 +371,11 @@
     "lat": "43.6434661",
     "lng": "-79.3790989",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAA-7M9Eyc-kGDENn1lONnPuPjShP2eSKvOkGWHPs6TFIzLMa2ZEi3OhMqPndNqbuH6rm3LANau5CKfbqnnnneZOqjuK9IZlwqoDQn-w8U-N01ZaAWm9SZmXoAIT_7GxUEdEhDROzpR2Tr5ONSnv0pmhoYyGhQK2l8W0IQU7i6-Txp-Tio772C8ew"
+    "placesPhotoReference": "CmRaAAAA-7M9Eyc-kGDENn1lONnPuPjShP2eSKvOkGWHPs6TFIzLMa2ZEi3OhMqPndNqbuH6rm3LANau5CKfbqnnnneZOqjuK9IZlwqoDQn-w8U-N01ZaAWm9SZmXoAIT_7GxUEdEhDROzpR2Tr5ONSnv0pmhoYyGhQK2l8W0IQU7i6-Txp-Tio772C8ew",
+    "dateString": "20",
+    "monthString": "Jul",
+    "title": "Fri, Jul 20",
+    "YYYYMMDD": "20180720"
   },
   {
     "showID": 15,
@@ -342,7 +398,11 @@
     "lat": "42.3410478",
     "lng": "-83.0551629",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAbESwuOt62uZIRBvzOs-UEn7uFaNsaIR17oet0HpYOqJ2DEL2Cqcnc_pjufrU8aeYdUZ_qcfHQwIkN0FSjBMZ2JP5g_XzQ8VQ5d5Nf8THVBMoRcM5WxtOO_xxGvFOzpNZEhCpYoOILwY8zdn3_PN0_6ofGhQq1M8r_IWlm1MWE9eJq9OwY0bYHQ"
+    "placesPhotoReference": "CmRaAAAAbESwuOt62uZIRBvzOs-UEn7uFaNsaIR17oet0HpYOqJ2DEL2Cqcnc_pjufrU8aeYdUZ_qcfHQwIkN0FSjBMZ2JP5g_XzQ8VQ5d5Nf8THVBMoRcM5WxtOO_xxGvFOzpNZEhCpYoOILwY8zdn3_PN0_6ofGhQq1M8r_IWlm1MWE9eJq9OwY0bYHQ",
+    "dateString": "22",
+    "monthString": "Jul",
+    "title": "Sun, Jul 22",
+    "YYYYMMDD": "20180722"
   },
   {
     "showID": 16,
@@ -365,7 +425,11 @@
     "lat": "40.00766",
     "lng": "-83.0250631",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAA9-gv2gWHQ5heE4L7a3KU5q0iDVYd4vKG97fRdMKmXfJPfdxysGwK415IiibvHf5mkj9MdNamXPeKppGtgyiwvTPIQknCD8oZcz8xMIvwYi3cKLCZ722I-Mag0f-kt4rcEhA13Fh1L9YO6luYoOpddFO8GhSgUNwjINTlSXpyOzquAomcWajy8Q"
+    "placesPhotoReference": "CmRaAAAA9-gv2gWHQ5heE4L7a3KU5q0iDVYd4vKG97fRdMKmXfJPfdxysGwK415IiibvHf5mkj9MdNamXPeKppGtgyiwvTPIQknCD8oZcz8xMIvwYi3cKLCZ722I-Mag0f-kt4rcEhA13Fh1L9YO6luYoOpddFO8GhSgUNwjINTlSXpyOzquAomcWajy8Q",
+    "dateString": "23",
+    "monthString": "Jul",
+    "title": "Mon, Jul 23",
+    "YYYYMMDD": "20180723"
   },
   {
     "showID": 17,
@@ -388,7 +452,11 @@
     "lat": "39.0979906",
     "lng": "-84.50447869999999",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAyrQEpvPpR_o2ZbTzIujX7B8R80GrezEJFZOJdoNZh2JbhowUI_xNSkttTh5eRueG66Z-xT4hhgvejWZ3Y_3X6AgteBW_N4uDcaJ0f8rF1OtfLDV5t3o8xe8YnQfUJQG0EhA1r24zHEZ4fz8PEiCIkziUGhQ6DvhNRhwTiL_ynxu3ORKgCdm2CQ"
+    "placesPhotoReference": "CmRaAAAAyrQEpvPpR_o2ZbTzIujX7B8R80GrezEJFZOJdoNZh2JbhowUI_xNSkttTh5eRueG66Z-xT4hhgvejWZ3Y_3X6AgteBW_N4uDcaJ0f8rF1OtfLDV5t3o8xe8YnQfUJQG0EhA1r24zHEZ4fz8PEiCIkziUGhQ6DvhNRhwTiL_ynxu3ORKgCdm2CQ",
+    "dateString": "25",
+    "monthString": "Jul",
+    "title": "Wed, Jul 25",
+    "YYYYMMDD": "20180725"
   },
   {
     "showID": 18,
@@ -411,7 +479,11 @@
     "lat": "40.4395932",
     "lng": "-79.9893378",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAbhXigJ9YO8VolRYX4aUmEqYhr_X6KY6qeW546rZN78LPF10jhKbLL-P7q8sCYat-15JTHFNT9QeQTTBb6BXSMkTLxJkeeuruxevu1iCqg-2MLyONuuVC0ZnDRssyWKOVEhB_xQYaGv4nBOYbLy5qvLT-GhTwnOtuOeg2cvQX19DTM79c3ICYKw"
+    "placesPhotoReference": "CmRaAAAAbhXigJ9YO8VolRYX4aUmEqYhr_X6KY6qeW546rZN78LPF10jhKbLL-P7q8sCYat-15JTHFNT9QeQTTBb6BXSMkTLxJkeeuruxevu1iCqg-2MLyONuuVC0ZnDRssyWKOVEhB_xQYaGv4nBOYbLy5qvLT-GhTwnOtuOeg2cvQX19DTM79c3ICYKw",
+    "dateString": "26",
+    "monthString": "Jul",
+    "title": "Thu, Jul 26",
+    "YYYYMMDD": "20180726"
   },
   {
     "showID": 19,
@@ -434,7 +506,11 @@
     "lat": "42.366198",
     "lng": "-71.062146",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAqCqs_1th3r4ODTlBxD7yBMCNCOWMb0Auq0IpB7j6_QI_7J8TYvSEs81_PhW6Ynd_ymj-rQACwgM6hxC7R5338rJt-AuvrZEMMJKijpaqtbDjUIk7uov3V1MMOH0f2QnZEhCRGF2JsSBOuCOpMjfPCnctGhTWn06XYV6nX3ZYFP4VUWHYDYYFjQ"
+    "placesPhotoReference": "CmRaAAAAqCqs_1th3r4ODTlBxD7yBMCNCOWMb0Auq0IpB7j6_QI_7J8TYvSEs81_PhW6Ynd_ymj-rQACwgM6hxC7R5338rJt-AuvrZEMMJKijpaqtbDjUIk7uov3V1MMOH0f2QnZEhCRGF2JsSBOuCOpMjfPCnctGhTWn06XYV6nX3ZYFP4VUWHYDYYFjQ",
+    "dateString": "28",
+    "monthString": "Jul",
+    "title": "Sat, Jul 28",
+    "YYYYMMDD": "20180728"
   },
   {
     "showID": 20,
@@ -457,7 +533,11 @@
     "lat": "42.366198",
     "lng": "-71.062146",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAdxN9mchHMN8gdmelPw_cRSEyM_d_HFBm8h2ZxE2XVN4NJKSD_sVEbhT-pAJsk8lbK1KF9VyndHdDx1hwtQj-IaDHSKWDM3fz5nzYjjazkhHLMUHc-hP9CCYdZ6rsOhUVEhDgD-vfFMOI2O-878mO4DLvGhRwKr8Hf1tBoXdxr7-VfhE5SHpSiA"
+    "placesPhotoReference": "CmRaAAAAdxN9mchHMN8gdmelPw_cRSEyM_d_HFBm8h2ZxE2XVN4NJKSD_sVEbhT-pAJsk8lbK1KF9VyndHdDx1hwtQj-IaDHSKWDM3fz5nzYjjazkhHLMUHc-hP9CCYdZ6rsOhUVEhDgD-vfFMOI2O-878mO4DLvGhRwKr8Hf1tBoXdxr7-VfhE5SHpSiA",
+    "dateString": "29",
+    "monthString": "Jul",
+    "title": "Sun, Jul 29",
+    "YYYYMMDD": "20180729"
   },
   {
     "showID": 21,
@@ -480,7 +560,11 @@
     "lat": "39.9012015",
     "lng": "-75.17197949999999",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAA_ChpdtU2yOBccHilc7ZZke_QAlruzxVTtVIuSgDID7chNpa_CtsxN4gUosISAIEazknpby0Dkd_OtwS_GUe7DDpULIM1tp6t0_VktUZ9iaRfYCovej6lAnY3FUApnqTnEhBalJ4FpGRwfJ8GwUX33jiTGhQLVO9846UcLhI3t5ncirvSo_pPpQ"
+    "placesPhotoReference": "CmRaAAAA_ChpdtU2yOBccHilc7ZZke_QAlruzxVTtVIuSgDID7chNpa_CtsxN4gUosISAIEazknpby0Dkd_OtwS_GUe7DDpULIM1tp6t0_VktUZ9iaRfYCovej6lAnY3FUApnqTnEhBalJ4FpGRwfJ8GwUX33jiTGhQLVO9846UcLhI3t5ncirvSo_pPpQ",
+    "dateString": "31",
+    "monthString": "Jul",
+    "title": "Tue, Jul 31",
+    "YYYYMMDD": "20180731"
   },
   {
     "showID": 22,
@@ -503,6 +587,10 @@
     "lat": "39.9012015",
     "lng": "-75.17197949999999",
     "confidence": "1",
-    "placesPhotoReference": "CmRaAAAAMpfA2Ez0suPPezo9_6CgXt7igNjPaNr1O9bq0MXWjZ1SuhHYMBcwhjeDQcW13wLYR0xQyRJX1ZsGBjqFm21SMXvuVeJZQYSZBMGeF1c4xHbjVJsqUAu6ybrWkggJo5gzEhDJQm-hWoFKIqQKZs9IEQQ2GhRmovz96HshBFhQJZUqQhTPzGjKyA"
+    "placesPhotoReference": "CmRaAAAAMpfA2Ez0suPPezo9_6CgXt7igNjPaNr1O9bq0MXWjZ1SuhHYMBcwhjeDQcW13wLYR0xQyRJX1ZsGBjqFm21SMXvuVeJZQYSZBMGeF1c4xHbjVJsqUAu6ybrWkggJo5gzEhDJQm-hWoFKIqQKZs9IEQQ2GhRmovz96HshBFhQJZUqQhTPzGjKyA",
+    "dateString": "1",
+    "monthString": "Aug",
+    "title": "Wed, Aug 1",
+    "YYYYMMDD": "20180801"
   }
 ]
