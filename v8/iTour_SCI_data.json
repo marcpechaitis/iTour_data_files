@@ -229,90 +229,6 @@
         },
         {
           "showID": 8,
-          "dateShow": "2021-08-13T19:00:00",
-          "dateDoors": "2021-08-13T18:00:00",
-          "dateLots": "",
-          "timeZone": "America/Chicago",
-          "venue": "Iroquois Amphitheater",
-          "altName": "Louisville",
-          "notes": "Capacity: 2,348",
-          "address": "1080 Amphitheater Rd",
-          "city": "Louisville",
-          "state": "KY",
-          "postal": "40214",
-          "country": "USA",
-          "phoneNbr": "502-368-5865",
-          "venueURL": "https://iroquoisamphitheater.com/",
-          "setlistURL": "http://friendsofcheese.com/incident.php?id=1736",
-          "seatingURL": "https://maps.seatics.com/IroqoisAmphitheater_EndStage_2016-06-15_2016-03-07_0845_SVGC_tn.gif",
-          "lat": "38.1602039",
-          "lng": "-85.7802337",
-          "confidence": "1",
-          "placesPhotoReference": "Aap_uEBipM2WxorX4UaWzzktqoCa6YLYymdIvfZe8doECJ3qdfv190P4hDiXRqHyqjMlItm57fOySPtQszGu_jGnl_ArwHIBjcKaCTBfE66aqU3jfIjVZWwxPdTtjcM85cQDV_sCQbKZZ3Sap7T6rPF9YTw87whl2XNM2Kn-rH-r2mIy7W31",
-          "placesID": "ChIJgcKSWBwSaYgRt45mEqgWscI",
-          "dateString": "13",
-          "monthString": "Aug",
-          "title": "Fri, Aug 13",
-          "YYYYMMDD": "20210813"
-        },
-        {
-          "showID": 9,
-          "dateShow": "2021-08-14T19:00:00",
-          "dateDoors": "2021-08-14T18:00:00",
-          "dateLots": "",
-          "timeZone": "America/Chicago",
-          "venue": "Iroquois Amphitheater",
-          "altName": "Louisville",
-          "notes": "Capacity: 2,348",
-          "address": "1080 Amphitheater Rd",
-          "city": "Louisville",
-          "state": "KY",
-          "postal": "40214",
-          "country": "USA",
-          "phoneNbr": "502-368-5865",
-          "venueURL": "https://iroquoisamphitheater.com/",
-          "setlistURL": "http://friendsofcheese.com/incident.php?id=1737",
-          "seatingURL": "https://maps.seatics.com/IroqoisAmphitheater_EndStage_2016-06-15_2016-03-07_0845_SVGC_tn.gif",
-          "lat": "38.1602039",
-          "lng": "-85.7802337",
-          "confidence": "1",
-          "placesPhotoReference": "Aap_uEC3RDowXuCFwabN-BhT2KXYmwRcdwF2zeOJy82mX2tcDMiQrqCiHEeFOzuybOdMXkMZjZzqjPLZzQZjlNlmHYoa6yLDRL27YBNKfO8DwSQIP4eZvJheCXSH-hwGHuVFKlfHAE3E8RzKLppuoHC4dfb6qqfXk74-faog9UERJIunr9SU",
-          "placesID": "ChIJgcKSWBwSaYgRt45mEqgWscI",
-          "dateString": "14",
-          "monthString": "Aug",
-          "title": "Sat, Aug 14",
-          "YYYYMMDD": "20210814"
-        },
-        {
-          "showID": 10,
-          "dateShow": "2021-08-15T18:00:00",
-          "dateDoors": "",
-          "dateLots": "",
-          "timeZone": "America/New_York",
-          "venue": "EXPRESS LIVE!",
-          "altName": "Columbus",
-          "notes": "Capacity: 5,200",
-          "address": "405 Neil Ave",
-          "city": "Columbus",
-          "state": "OH",
-          "postal": "43215",
-          "country": "USA",
-          "phoneNbr": "614-461-5483",
-          "venueURL": "https://promowestlive.com/",
-          "setlistURL": "http://friendsofcheese.com/incident.php?id=1738",
-          "seatingURL": "https://static.ticketstoday.com/treytickets/images/pwp_axsmaps_express_outdoor_platinumgachart.jpg",
-          "lat": "39.9697609",
-          "lng": "-83.00981639999999",
-          "confidence": "1",
-          "placesPhotoReference": "Aap_uEBE117AUCHnyB8iZ-D2_B5tH8BrDmDjFjTBEQj8orbC0fqAY-_bswWw2x20zRXgpMSjKCXC92z-g5vgGd6nzYnj-GEElEGDsDniSTqg1ZCI4ENgnjKvTWaNcXHTIeFQ86Ic4BfSioTvVaHGbMeoE3YTmi0E36fQhqSC_fnoBa0JfDtp",
-          "placesID": "ChIJCcOQ6COPOIgRcLEuZixc9Wk",
-          "dateString": "15",
-          "monthString": "Aug",
-          "title": "Sun, Aug 15",
-          "YYYYMMDD": "20210815"
-        },
-        {
-          "showID": 11,
           "dateShow": "2021-08-17T17:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -340,7 +256,7 @@
           "YYYYMMDD": "20210817"
         },
         {
-          "showID": 12,
+          "showID": 9,
           "dateShow": "2021-08-18T17:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -368,7 +284,7 @@
           "YYYYMMDD": "20210818"
         },
         {
-          "showID": 13,
+          "showID": 10,
           "dateShow": "2021-08-19T17:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -396,7 +312,7 @@
           "YYYYMMDD": "20210819"
         },
         {
-          "showID": 14,
+          "showID": 11,
           "dateShow": "2021-08-20T18:00:00",
           "dateDoors": "2021-08-20T17:00:00",
           "dateLots": "",
@@ -424,7 +340,7 @@
           "YYYYMMDD": "20210820"
         },
         {
-          "showID": 15,
+          "showID": 12,
           "dateShow": "2021-08-21T18:00:00",
           "dateDoors": "2021-08-21T17:00:00",
           "dateLots": "",
@@ -452,7 +368,7 @@
           "YYYYMMDD": "20210821"
         },
         {
-          "showID": 16,
+          "showID": 13,
           "dateShow": "2021-08-22T18:00:00",
           "dateDoors": "2021-08-22T17:00:00",
           "dateLots": "",
@@ -480,7 +396,7 @@
           "YYYYMMDD": "20210822"
         },
         {
-          "showID": 17,
+          "showID": 14,
           "dateShow": "2021-08-24T19:00:00",
           "dateDoors": "2021-08-24T18:00:00",
           "dateLots": "",
@@ -508,7 +424,7 @@
           "YYYYMMDD": "20210824"
         },
         {
-          "showID": 18,
+          "showID": 15,
           "dateShow": "2021-08-25T19:00:00",
           "dateDoors": "2021-08-25T18:00:00",
           "dateLots": "",
@@ -536,7 +452,7 @@
           "YYYYMMDD": "20210825"
         },
         {
-          "showID": 19,
+          "showID": 16,
           "dateShow": "2021-08-25T19:00:00",
           "dateDoors": "2021-08-25T18:00:00",
           "dateLots": "",
@@ -564,7 +480,7 @@
           "YYYYMMDD": "20210825"
         },
         {
-          "showID": 20,
+          "showID": 17,
           "dateShow": "2021-08-25T19:00:00",
           "dateDoors": "2021-08-25T18:00:00",
           "dateLots": "",
@@ -592,7 +508,7 @@
           "YYYYMMDD": "20210825"
         },
         {
-          "showID": 21,
+          "showID": 18,
           "dateShow": "2021-08-26T19:00:00",
           "dateDoors": "2021-08-26T18:00:00",
           "dateLots": "",
@@ -620,7 +536,7 @@
           "YYYYMMDD": "20210826"
         },
         {
-          "showID": 22,
+          "showID": 19,
           "dateShow": "2021-08-27T19:00:00",
           "dateDoors": "2021-08-27T18:00:00",
           "dateLots": "",
@@ -648,7 +564,7 @@
           "YYYYMMDD": "20210827"
         },
         {
-          "showID": 23,
+          "showID": 20,
           "dateShow": "2021-08-28T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -681,7 +597,7 @@
       "title": "Fall 2021",
       "data": [
         {
-          "showID": 24,
+          "showID": 21,
           "dateShow": "2021-10-29T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -709,7 +625,7 @@
           "YYYYMMDD": "20211029"
         },
         {
-          "showID": 25,
+          "showID": 22,
           "dateShow": "2021-10-30T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -737,7 +653,7 @@
           "YYYYMMDD": "20211030"
         },
         {
-          "showID": 26,
+          "showID": 23,
           "dateShow": "2021-10-31T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -765,7 +681,7 @@
           "YYYYMMDD": "20211031"
         },
         {
-          "showID": 27,
+          "showID": 24,
           "dateShow": "2021-11-04T19:00:00",
           "dateDoors": "2021-11-04T18:00:00",
           "dateLots": "",
@@ -793,7 +709,7 @@
           "YYYYMMDD": "20211104"
         },
         {
-          "showID": 28,
+          "showID": 25,
           "dateShow": "2021-11-05T19:00:00",
           "dateDoors": "2021-11-05T18:00:00",
           "dateLots": "",
@@ -821,7 +737,7 @@
           "YYYYMMDD": "20211105"
         },
         {
-          "showID": 29,
+          "showID": 26,
           "dateShow": "2021-11-06T19:00:00",
           "dateDoors": "2021-11-06T18:00:00",
           "dateLots": "",
@@ -854,7 +770,7 @@
       "title": "New Years 2021",
       "data": [
         {
-          "showID": 30,
+          "showID": 27,
           "dateShow": "2021-12-30T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -882,7 +798,7 @@
           "YYYYMMDD": "20211230"
         },
         {
-          "showID": 31,
+          "showID": 28,
           "dateShow": "2021-12-31T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -910,7 +826,7 @@
           "YYYYMMDD": "20211231"
         },
         {
-          "showID": 32,
+          "showID": 29,
           "dateShow": "2022-01-01T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -943,7 +859,7 @@
       "title": "Jamaica 2022",
       "data": [
         {
-          "showID": 33,
+          "showID": 30,
           "dateShow": "2022-01-22T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -971,7 +887,7 @@
           "YYYYMMDD": "20220122"
         },
         {
-          "showID": 34,
+          "showID": 31,
           "dateShow": "2022-01-23T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -999,7 +915,7 @@
           "YYYYMMDD": "20220123"
         },
         {
-          "showID": 35,
+          "showID": 32,
           "dateShow": "2022-01-24T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1027,7 +943,7 @@
           "YYYYMMDD": "20220124"
         },
         {
-          "showID": 36,
+          "showID": 33,
           "dateShow": "2022-01-27T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1055,7 +971,7 @@
           "YYYYMMDD": "20220127"
         },
         {
-          "showID": 37,
+          "showID": 34,
           "dateShow": "2022-01-28T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1083,7 +999,7 @@
           "YYYYMMDD": "20220128"
         },
         {
-          "showID": 38,
+          "showID": 35,
           "dateShow": "2022-01-29T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1116,7 +1032,7 @@
       "title": "Summer 2022",
       "data": [
         {
-          "showID": 39,
+          "showID": 36,
           "dateShow": "2022-06-10T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1144,7 +1060,7 @@
           "YYYYMMDD": "20220610"
         },
         {
-          "showID": 40,
+          "showID": 37,
           "dateShow": "2021-06-11T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1172,7 +1088,7 @@
           "YYYYMMDD": "20210611"
         },
         {
-          "showID": 41,
+          "showID": 38,
           "dateShow": "2021-06-13T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1429,90 +1345,6 @@
     },
     {
       "showID": 8,
-      "dateShow": "2021-08-13T19:00:00",
-      "dateDoors": "2021-08-13T18:00:00",
-      "dateLots": "",
-      "timeZone": "America/Chicago",
-      "venue": "Iroquois Amphitheater",
-      "altName": "Louisville",
-      "notes": "Capacity: 2,348",
-      "address": "1080 Amphitheater Rd",
-      "city": "Louisville",
-      "state": "KY",
-      "postal": "40214",
-      "country": "USA",
-      "phoneNbr": "502-368-5865",
-      "venueURL": "https://iroquoisamphitheater.com/",
-      "setlistURL": "http://friendsofcheese.com/incident.php?id=1736",
-      "seatingURL": "https://maps.seatics.com/IroqoisAmphitheater_EndStage_2016-06-15_2016-03-07_0845_SVGC_tn.gif",
-      "lat": "38.1602039",
-      "lng": "-85.7802337",
-      "confidence": "1",
-      "placesPhotoReference": "Aap_uEBipM2WxorX4UaWzzktqoCa6YLYymdIvfZe8doECJ3qdfv190P4hDiXRqHyqjMlItm57fOySPtQszGu_jGnl_ArwHIBjcKaCTBfE66aqU3jfIjVZWwxPdTtjcM85cQDV_sCQbKZZ3Sap7T6rPF9YTw87whl2XNM2Kn-rH-r2mIy7W31",
-      "placesID": "ChIJgcKSWBwSaYgRt45mEqgWscI",
-      "dateString": "13",
-      "monthString": "Aug",
-      "title": "Fri, Aug 13",
-      "YYYYMMDD": "20210813"
-    },
-    {
-      "showID": 9,
-      "dateShow": "2021-08-14T19:00:00",
-      "dateDoors": "2021-08-14T18:00:00",
-      "dateLots": "",
-      "timeZone": "America/Chicago",
-      "venue": "Iroquois Amphitheater",
-      "altName": "Louisville",
-      "notes": "Capacity: 2,348",
-      "address": "1080 Amphitheater Rd",
-      "city": "Louisville",
-      "state": "KY",
-      "postal": "40214",
-      "country": "USA",
-      "phoneNbr": "502-368-5865",
-      "venueURL": "https://iroquoisamphitheater.com/",
-      "setlistURL": "http://friendsofcheese.com/incident.php?id=1737",
-      "seatingURL": "https://maps.seatics.com/IroqoisAmphitheater_EndStage_2016-06-15_2016-03-07_0845_SVGC_tn.gif",
-      "lat": "38.1602039",
-      "lng": "-85.7802337",
-      "confidence": "1",
-      "placesPhotoReference": "Aap_uEC3RDowXuCFwabN-BhT2KXYmwRcdwF2zeOJy82mX2tcDMiQrqCiHEeFOzuybOdMXkMZjZzqjPLZzQZjlNlmHYoa6yLDRL27YBNKfO8DwSQIP4eZvJheCXSH-hwGHuVFKlfHAE3E8RzKLppuoHC4dfb6qqfXk74-faog9UERJIunr9SU",
-      "placesID": "ChIJgcKSWBwSaYgRt45mEqgWscI",
-      "dateString": "14",
-      "monthString": "Aug",
-      "title": "Sat, Aug 14",
-      "YYYYMMDD": "20210814"
-    },
-    {
-      "showID": 10,
-      "dateShow": "2021-08-15T18:00:00",
-      "dateDoors": "",
-      "dateLots": "",
-      "timeZone": "America/New_York",
-      "venue": "EXPRESS LIVE!",
-      "altName": "Columbus",
-      "notes": "Capacity: 5,200",
-      "address": "405 Neil Ave",
-      "city": "Columbus",
-      "state": "OH",
-      "postal": "43215",
-      "country": "USA",
-      "phoneNbr": "614-461-5483",
-      "venueURL": "https://promowestlive.com/",
-      "setlistURL": "http://friendsofcheese.com/incident.php?id=1738",
-      "seatingURL": "https://static.ticketstoday.com/treytickets/images/pwp_axsmaps_express_outdoor_platinumgachart.jpg",
-      "lat": "39.9697609",
-      "lng": "-83.00981639999999",
-      "confidence": "1",
-      "placesPhotoReference": "Aap_uEBE117AUCHnyB8iZ-D2_B5tH8BrDmDjFjTBEQj8orbC0fqAY-_bswWw2x20zRXgpMSjKCXC92z-g5vgGd6nzYnj-GEElEGDsDniSTqg1ZCI4ENgnjKvTWaNcXHTIeFQ86Ic4BfSioTvVaHGbMeoE3YTmi0E36fQhqSC_fnoBa0JfDtp",
-      "placesID": "ChIJCcOQ6COPOIgRcLEuZixc9Wk",
-      "dateString": "15",
-      "monthString": "Aug",
-      "title": "Sun, Aug 15",
-      "YYYYMMDD": "20210815"
-    },
-    {
-      "showID": 11,
       "dateShow": "2021-08-17T17:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1540,7 +1372,7 @@
       "YYYYMMDD": "20210817"
     },
     {
-      "showID": 12,
+      "showID": 9,
       "dateShow": "2021-08-18T17:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1568,7 +1400,7 @@
       "YYYYMMDD": "20210818"
     },
     {
-      "showID": 13,
+      "showID": 10,
       "dateShow": "2021-08-19T17:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1596,7 +1428,7 @@
       "YYYYMMDD": "20210819"
     },
     {
-      "showID": 14,
+      "showID": 11,
       "dateShow": "2021-08-20T18:00:00",
       "dateDoors": "2021-08-20T17:00:00",
       "dateLots": "",
@@ -1624,7 +1456,7 @@
       "YYYYMMDD": "20210820"
     },
     {
-      "showID": 15,
+      "showID": 12,
       "dateShow": "2021-08-21T18:00:00",
       "dateDoors": "2021-08-21T17:00:00",
       "dateLots": "",
@@ -1652,7 +1484,7 @@
       "YYYYMMDD": "20210821"
     },
     {
-      "showID": 16,
+      "showID": 13,
       "dateShow": "2021-08-22T18:00:00",
       "dateDoors": "2021-08-22T17:00:00",
       "dateLots": "",
@@ -1680,7 +1512,7 @@
       "YYYYMMDD": "20210822"
     },
     {
-      "showID": 17,
+      "showID": 14,
       "dateShow": "2021-08-24T19:00:00",
       "dateDoors": "2021-08-24T18:00:00",
       "dateLots": "",
@@ -1708,7 +1540,7 @@
       "YYYYMMDD": "20210824"
     },
     {
-      "showID": 18,
+      "showID": 15,
       "dateShow": "2021-08-25T19:00:00",
       "dateDoors": "2021-08-25T18:00:00",
       "dateLots": "",
@@ -1736,7 +1568,7 @@
       "YYYYMMDD": "20210825"
     },
     {
-      "showID": 19,
+      "showID": 16,
       "dateShow": "2021-08-25T19:00:00",
       "dateDoors": "2021-08-25T18:00:00",
       "dateLots": "",
@@ -1764,7 +1596,7 @@
       "YYYYMMDD": "20210825"
     },
     {
-      "showID": 20,
+      "showID": 17,
       "dateShow": "2021-08-25T19:00:00",
       "dateDoors": "2021-08-25T18:00:00",
       "dateLots": "",
@@ -1792,7 +1624,7 @@
       "YYYYMMDD": "20210825"
     },
     {
-      "showID": 21,
+      "showID": 18,
       "dateShow": "2021-08-26T19:00:00",
       "dateDoors": "2021-08-26T18:00:00",
       "dateLots": "",
@@ -1820,7 +1652,7 @@
       "YYYYMMDD": "20210826"
     },
     {
-      "showID": 22,
+      "showID": 19,
       "dateShow": "2021-08-27T19:00:00",
       "dateDoors": "2021-08-27T18:00:00",
       "dateLots": "",
@@ -1848,7 +1680,7 @@
       "YYYYMMDD": "20210827"
     },
     {
-      "showID": 23,
+      "showID": 20,
       "dateShow": "2021-08-28T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1876,7 +1708,7 @@
       "YYYYMMDD": "20210828"
     },
     {
-      "showID": 24,
+      "showID": 21,
       "dateShow": "2021-10-29T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1904,7 +1736,7 @@
       "YYYYMMDD": "20211029"
     },
     {
-      "showID": 25,
+      "showID": 22,
       "dateShow": "2021-10-30T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1932,7 +1764,7 @@
       "YYYYMMDD": "20211030"
     },
     {
-      "showID": 26,
+      "showID": 23,
       "dateShow": "2021-10-31T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1960,7 +1792,7 @@
       "YYYYMMDD": "20211031"
     },
     {
-      "showID": 27,
+      "showID": 24,
       "dateShow": "2021-11-04T19:00:00",
       "dateDoors": "2021-11-04T18:00:00",
       "dateLots": "",
@@ -1988,7 +1820,7 @@
       "YYYYMMDD": "20211104"
     },
     {
-      "showID": 28,
+      "showID": 25,
       "dateShow": "2021-11-05T19:00:00",
       "dateDoors": "2021-11-05T18:00:00",
       "dateLots": "",
@@ -2016,7 +1848,7 @@
       "YYYYMMDD": "20211105"
     },
     {
-      "showID": 29,
+      "showID": 26,
       "dateShow": "2021-11-06T19:00:00",
       "dateDoors": "2021-11-06T18:00:00",
       "dateLots": "",
@@ -2044,7 +1876,7 @@
       "YYYYMMDD": "20211106"
     },
     {
-      "showID": 30,
+      "showID": 27,
       "dateShow": "2021-12-30T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2072,7 +1904,7 @@
       "YYYYMMDD": "20211230"
     },
     {
-      "showID": 31,
+      "showID": 28,
       "dateShow": "2021-12-31T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2100,7 +1932,7 @@
       "YYYYMMDD": "20211231"
     },
     {
-      "showID": 32,
+      "showID": 29,
       "dateShow": "2022-01-01T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2128,7 +1960,7 @@
       "YYYYMMDD": "20220101"
     },
     {
-      "showID": 33,
+      "showID": 30,
       "dateShow": "2022-01-22T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2156,7 +1988,7 @@
       "YYYYMMDD": "20220122"
     },
     {
-      "showID": 34,
+      "showID": 31,
       "dateShow": "2022-01-23T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2184,7 +2016,7 @@
       "YYYYMMDD": "20220123"
     },
     {
-      "showID": 35,
+      "showID": 32,
       "dateShow": "2022-01-24T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2212,7 +2044,7 @@
       "YYYYMMDD": "20220124"
     },
     {
-      "showID": 36,
+      "showID": 33,
       "dateShow": "2022-01-27T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2240,7 +2072,7 @@
       "YYYYMMDD": "20220127"
     },
     {
-      "showID": 37,
+      "showID": 34,
       "dateShow": "2022-01-28T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2268,7 +2100,7 @@
       "YYYYMMDD": "20220128"
     },
     {
-      "showID": 38,
+      "showID": 35,
       "dateShow": "2022-01-29T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2296,7 +2128,7 @@
       "YYYYMMDD": "20220129"
     },
     {
-      "showID": 39,
+      "showID": 36,
       "dateShow": "2022-06-10T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2324,7 +2156,7 @@
       "YYYYMMDD": "20220610"
     },
     {
-      "showID": 40,
+      "showID": 37,
       "dateShow": "2021-06-11T20:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2352,7 +2184,7 @@
       "YYYYMMDD": "20210611"
     },
     {
-      "showID": 41,
+      "showID": 38,
       "dateShow": "2021-06-13T20:00:00",
       "dateDoors": "",
       "dateLots": "",
