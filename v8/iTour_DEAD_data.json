@@ -383,7 +383,7 @@
           "country": "USA",
           "phoneNbr": "",
           "venueURL": "https://www.riverbend.org/",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/riverbend-music-center-cincinnati-oh-238c1497.html",
           "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/1600576E9D8142A6/staticImage?type=png&systemId=HOST",
           "lat": "39.05205830000001",
           "lng": "-84.4188258",
@@ -411,7 +411,7 @@
           "country": "USA",
           "phoneNbr": "314-298-9944",
           "venueURL": "http://thehollywoodcasinoamphitheatre.com/",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/hollywood-casino-amphitheatre-maryland-heights-mo-b8c053a.html",
           "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/0600584396F24E67/staticImage?type=png&systemId=HOST",
           "lat": "38.7501106",
           "lng": "-90.4717788",
@@ -439,7 +439,7 @@
           "country": "USA",
           "phoneNbr": "",
           "venueURL": "https://www.livenation.com/venue/KovZpvEk7A/ruoff-music-center-events",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/ruoff-home-mortgage-music-center-noblesville-in-538c7b49.html",
           "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/05005835AF1B49A8/staticImage?type=png&systemId=HOST",
           "lat": "40.0037361",
           "lng": "-85.9342873",
@@ -467,7 +467,7 @@
           "country": "USA",
           "phoneNbr": "",
           "venueURL": "https://www.mlb.com/cubs/tickets/concerts/dead-and-company",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/wrigley-field-chicago-il-738c6e75.html",
           "seatingURL": "http://resale.ticketmaster.com.au/akamai-content/graphics/TMResale/2/VenueMaps/1905-340-2-0-wrigleyfield_greenday.png",
           "lat": "41.9484384",
           "lng": "-87.6553327",
@@ -495,7 +495,7 @@
           "country": "USA",
           "phoneNbr": "",
           "venueURL": "https://www.mlb.com/cubs/tickets/concerts/dead-and-company",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "setlistURL": "hhttps://www.setlist.fm/setlist/dead-and-company/2021/wrigley-field-chicago-il-438c670f.html",
           "seatingURL": "http://resale.ticketmaster.com.au/akamai-content/graphics/TMResale/2/VenueMaps/1905-340-2-0-wrigleyfield_greenday.png",
           "lat": "41.9484384",
           "lng": "-87.6553327",
@@ -682,6 +682,62 @@
         },
         {
           "showID": 24,
+          "dateShow": "2021-10-19T19:00:00",
+          "dateDoors": "",
+          "dateLots": "",
+          "timeZone": "America/Denver",
+          "venue": "Red Rocks Amphitheatre",
+          "altName": "Morrison",
+          "notes": "",
+          "address": "18300 W Alameda Pky",
+          "city": "Morrison",
+          "state": "CO",
+          "postal": "80465",
+          "country": "USA",
+          "phoneNbr": "720-865-2494",
+          "venueURL": "https://www.redrocksonline.com/",
+          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+          "lat": "39.6655381",
+          "lng": "-105.2052116",
+          "confidence": "1",
+          "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+          "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w",
+          "dateString": "19",
+          "monthString": "Oct",
+          "title": "Tue, Oct 19",
+          "YYYYMMDD": "20211019"
+        },
+        {
+          "showID": 25,
+          "dateShow": "2021-10-20T19:00:00",
+          "dateDoors": "",
+          "dateLots": "",
+          "timeZone": "America/Denver",
+          "venue": "Red Rocks Amphitheatre",
+          "altName": "Morrison",
+          "notes": "",
+          "address": "18300 W Alameda Pky",
+          "city": "Morrison",
+          "state": "CO",
+          "postal": "80465",
+          "country": "USA",
+          "phoneNbr": "720-865-2494",
+          "venueURL": "https://www.redrocksonline.com/",
+          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+          "lat": "39.6655381",
+          "lng": "-105.2052116",
+          "confidence": "1",
+          "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+          "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w",
+          "dateString": "20",
+          "monthString": "Oct",
+          "title": "Wed, Oct 20",
+          "YYYYMMDD": "20211020"
+        },
+        {
+          "showID": 26,
           "dateShow": "2021-10-22T18:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -709,7 +765,7 @@
           "YYYYMMDD": "20211022"
         },
         {
-          "showID": 25,
+          "showID": 27,
           "dateShow": "2021-10-23T18:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -737,7 +793,7 @@
           "YYYYMMDD": "20211023"
         },
         {
-          "showID": 26,
+          "showID": 28,
           "dateShow": "2021-10-25T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -765,7 +821,7 @@
           "YYYYMMDD": "20211025"
         },
         {
-          "showID": 27,
+          "showID": 29,
           "dateShow": "2021-10-27T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -793,7 +849,7 @@
           "YYYYMMDD": "20211027"
         },
         {
-          "showID": 28,
+          "showID": 30,
           "dateShow": "2021-10-29T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -821,7 +877,7 @@
           "YYYYMMDD": "20211029"
         },
         {
-          "showID": 29,
+          "showID": 31,
           "dateShow": "2021-10-30T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -849,7 +905,7 @@
           "YYYYMMDD": "20211030"
         },
         {
-          "showID": 30,
+          "showID": 32,
           "dateShow": "2021-10-31T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -882,7 +938,7 @@
       "title": "Mexico 2022",
       "data": [
         {
-          "showID": 31,
+          "showID": 33,
           "dateShow": "2022-01-07T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -910,7 +966,7 @@
           "YYYYMMDD": "20220107"
         },
         {
-          "showID": 32,
+          "showID": 34,
           "dateShow": "2022-01-08T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -938,7 +994,7 @@
           "YYYYMMDD": "20220108"
         },
         {
-          "showID": 33,
+          "showID": 35,
           "dateShow": "2022-01-09T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -966,7 +1022,7 @@
           "YYYYMMDD": "20220109"
         },
         {
-          "showID": 34,
+          "showID": 36,
           "dateShow": "2022-01-10T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -994,7 +1050,7 @@
           "YYYYMMDD": "20220110"
         },
         {
-          "showID": 35,
+          "showID": 37,
           "dateShow": "2022-01-13T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1022,7 +1078,7 @@
           "YYYYMMDD": "20220113"
         },
         {
-          "showID": 36,
+          "showID": 38,
           "dateShow": "2022-01-14T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1050,7 +1106,7 @@
           "YYYYMMDD": "20220114"
         },
         {
-          "showID": 37,
+          "showID": 39,
           "dateShow": "2022-01-15T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1078,7 +1134,7 @@
           "YYYYMMDD": "20220115"
         },
         {
-          "showID": 38,
+          "showID": 40,
           "dateShow": "2022-01-16T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1489,7 +1545,7 @@
       "country": "USA",
       "phoneNbr": "",
       "venueURL": "https://www.riverbend.org/",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/riverbend-music-center-cincinnati-oh-238c1497.html",
       "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/1600576E9D8142A6/staticImage?type=png&systemId=HOST",
       "lat": "39.05205830000001",
       "lng": "-84.4188258",
@@ -1517,7 +1573,7 @@
       "country": "USA",
       "phoneNbr": "314-298-9944",
       "venueURL": "http://thehollywoodcasinoamphitheatre.com/",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/hollywood-casino-amphitheatre-maryland-heights-mo-b8c053a.html",
       "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/0600584396F24E67/staticImage?type=png&systemId=HOST",
       "lat": "38.7501106",
       "lng": "-90.4717788",
@@ -1545,7 +1601,7 @@
       "country": "USA",
       "phoneNbr": "",
       "venueURL": "https://www.livenation.com/venue/KovZpvEk7A/ruoff-music-center-events",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/ruoff-home-mortgage-music-center-noblesville-in-538c7b49.html",
       "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/05005835AF1B49A8/staticImage?type=png&systemId=HOST",
       "lat": "40.0037361",
       "lng": "-85.9342873",
@@ -1573,7 +1629,7 @@
       "country": "USA",
       "phoneNbr": "",
       "venueURL": "https://www.mlb.com/cubs/tickets/concerts/dead-and-company",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "setlistURL": "https://www.setlist.fm/setlist/dead-and-company/2021/wrigley-field-chicago-il-738c6e75.html",
       "seatingURL": "http://resale.ticketmaster.com.au/akamai-content/graphics/TMResale/2/VenueMaps/1905-340-2-0-wrigleyfield_greenday.png",
       "lat": "41.9484384",
       "lng": "-87.6553327",
@@ -1601,7 +1657,7 @@
       "country": "USA",
       "phoneNbr": "",
       "venueURL": "https://www.mlb.com/cubs/tickets/concerts/dead-and-company",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "setlistURL": "hhttps://www.setlist.fm/setlist/dead-and-company/2021/wrigley-field-chicago-il-438c670f.html",
       "seatingURL": "http://resale.ticketmaster.com.au/akamai-content/graphics/TMResale/2/VenueMaps/1905-340-2-0-wrigleyfield_greenday.png",
       "lat": "41.9484384",
       "lng": "-87.6553327",
@@ -1783,6 +1839,62 @@
     },
     {
       "showID": 24,
+      "dateShow": "2021-10-19T19:00:00",
+      "dateDoors": "",
+      "dateLots": "",
+      "timeZone": "America/Denver",
+      "venue": "Red Rocks Amphitheatre",
+      "altName": "Morrison",
+      "notes": "",
+      "address": "18300 W Alameda Pky",
+      "city": "Morrison",
+      "state": "CO",
+      "postal": "80465",
+      "country": "USA",
+      "phoneNbr": "720-865-2494",
+      "venueURL": "https://www.redrocksonline.com/",
+      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+      "lat": "39.6655381",
+      "lng": "-105.2052116",
+      "confidence": "1",
+      "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+      "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w",
+      "dateString": "19",
+      "monthString": "Oct",
+      "title": "Tue, Oct 19",
+      "YYYYMMDD": "20211019"
+    },
+    {
+      "showID": 25,
+      "dateShow": "2021-10-20T19:00:00",
+      "dateDoors": "",
+      "dateLots": "",
+      "timeZone": "America/Denver",
+      "venue": "Red Rocks Amphitheatre",
+      "altName": "Morrison",
+      "notes": "",
+      "address": "18300 W Alameda Pky",
+      "city": "Morrison",
+      "state": "CO",
+      "postal": "80465",
+      "country": "USA",
+      "phoneNbr": "720-865-2494",
+      "venueURL": "https://www.redrocksonline.com/",
+      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "seatingURL": "http://www.theredrocksamphitheater.com/wp-content/uploads/2014/11/85fe6621-e32d-49ac-921c-37961233cb47.jpg",
+      "lat": "39.6655381",
+      "lng": "-105.2052116",
+      "confidence": "1",
+      "placesPhotoReference": "ATtYBwIyBemplEJKFiYS08XgoOgPcIOqCwI89CvP0y2F4TFz3LeRdPd4djXxQqiBA9JGodDfUMbSLgoUEK7PcR6xo0XtUIJQyGrQIhh1JozMJzR-jEayO4iUsEe34gx4YjQrn5sRGbmJlAaDuLQh_fwslYR6J2tuLfkPcC4vfscPX47NQZqo",
+      "placesID": "ChIJ18hsDtqCa4cRrdYsOQfng3w",
+      "dateString": "20",
+      "monthString": "Oct",
+      "title": "Wed, Oct 20",
+      "YYYYMMDD": "20211020"
+    },
+    {
+      "showID": 26,
       "dateShow": "2021-10-22T18:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1810,7 +1922,7 @@
       "YYYYMMDD": "20211022"
     },
     {
-      "showID": 25,
+      "showID": 27,
       "dateShow": "2021-10-23T18:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1838,7 +1950,7 @@
       "YYYYMMDD": "20211023"
     },
     {
-      "showID": 26,
+      "showID": 28,
       "dateShow": "2021-10-25T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1866,7 +1978,7 @@
       "YYYYMMDD": "20211025"
     },
     {
-      "showID": 27,
+      "showID": 29,
       "dateShow": "2021-10-27T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1894,7 +2006,7 @@
       "YYYYMMDD": "20211027"
     },
     {
-      "showID": 28,
+      "showID": 30,
       "dateShow": "2021-10-29T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1922,7 +2034,7 @@
       "YYYYMMDD": "20211029"
     },
     {
-      "showID": 29,
+      "showID": 31,
       "dateShow": "2021-10-30T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1950,7 +2062,7 @@
       "YYYYMMDD": "20211030"
     },
     {
-      "showID": 30,
+      "showID": 32,
       "dateShow": "2021-10-31T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1978,7 +2090,7 @@
       "YYYYMMDD": "20211031"
     },
     {
-      "showID": 31,
+      "showID": 33,
       "dateShow": "2022-01-07T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2006,7 +2118,7 @@
       "YYYYMMDD": "20220107"
     },
     {
-      "showID": 32,
+      "showID": 34,
       "dateShow": "2022-01-08T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2034,7 +2146,7 @@
       "YYYYMMDD": "20220108"
     },
     {
-      "showID": 33,
+      "showID": 35,
       "dateShow": "2022-01-09T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2062,7 +2174,7 @@
       "YYYYMMDD": "20220109"
     },
     {
-      "showID": 34,
+      "showID": 36,
       "dateShow": "2022-01-10T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2090,7 +2202,7 @@
       "YYYYMMDD": "20220110"
     },
     {
-      "showID": 35,
+      "showID": 37,
       "dateShow": "2022-01-13T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2118,7 +2230,7 @@
       "YYYYMMDD": "20220113"
     },
     {
-      "showID": 36,
+      "showID": 38,
       "dateShow": "2022-01-14T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2146,7 +2258,7 @@
       "YYYYMMDD": "20220114"
     },
     {
-      "showID": 37,
+      "showID": 39,
       "dateShow": "2022-01-15T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2174,7 +2286,7 @@
       "YYYYMMDD": "20220115"
     },
     {
-      "showID": 38,
+      "showID": 40,
       "dateShow": "2022-01-16T19:00:00",
       "dateDoors": "",
       "dateLots": "",
