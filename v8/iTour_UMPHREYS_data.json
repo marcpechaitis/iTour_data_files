@@ -346,6 +346,34 @@
         },
         {
           "showID": 20,
+          "dateShow": "2021-10-01T19:00:00",
+          "dateDoors": "",
+          "dateLots": "",
+          "timeZone": "America/Los_Angeles",
+          "venue": "Huntington City Beach",
+          "altName": "Huntington Beach",
+          "notes": "Afterburner Music Festival",
+          "address": "21529 Pacific Coast Hwy",
+          "city": "Huntington Beac",
+          "state": "CA",
+          "postal": "92648",
+          "country": "USA",
+          "phoneNbr": "",
+          "venueURL": "https://www.afterburnermusicfestival.com/",
+          "setlistURL": "http://allthings.umphreys.com/setlists/",
+          "seatingURL": "https://www.afterburnermusicfestival.com/",
+          "lat": "33.6380444",
+          "lng": "-117.9736122",
+          "confidence": "1",
+          "placesPhotoReference": "Aap_uEBIMZ00pyIgVoPx00-R0JSOOQs7O2WxT9_kW0s4CtlHEACOzwJShLjRJZLmwZC9yCQz3lzAPKmuBksjg9a-BuFM73KOxyHp-Hv0-dypu5wM_-PGueKf2KpeJo4EaHXBMjUm-EIWvj6zlyaMY-GVMG2UppP_mJp6NAdGM9LiIyoF1lmV",
+          "placesID": "",
+          "dateString": "1",
+          "monthString": "Oct",
+          "title": "Fri, Oct 1",
+          "YYYYMMDD": "20211001"
+        },
+        {
+          "showID": 21,
           "dateShow": "2021-10-08T19:30:00",
           "dateDoors": "2021-10-08T18:00:00",
           "dateLots": "",
@@ -373,7 +401,7 @@
           "YYYYMMDD": "20211008"
         },
         {
-          "showID": 21,
+          "showID": 22,
           "dateShow": "2021-10-09T19:30:00",
           "dateDoors": "2021-10-09T18:00:00",
           "dateLots": "",
@@ -401,7 +429,7 @@
           "YYYYMMDD": "20211009"
         },
         {
-          "showID": 22,
+          "showID": 23,
           "dateShow": "2021-11-11T19:30:00",
           "dateDoors": "2021-11-11T18:30:00",
           "dateLots": "",
@@ -429,7 +457,7 @@
           "YYYYMMDD": "20211111"
         },
         {
-          "showID": 23,
+          "showID": 24,
           "dateShow": "2021-11-12T19:00:00",
           "dateDoors": "2021-11-12T18:00:00",
           "dateLots": "",
@@ -457,7 +485,7 @@
           "YYYYMMDD": "20211112"
         },
         {
-          "showID": 24,
+          "showID": 25,
           "dateShow": "2021-11-13T19:00:00",
           "dateDoors": "2021-11-13T18:00:00",
           "dateLots": "",
@@ -485,7 +513,7 @@
           "YYYYMMDD": "20211113"
         },
         {
-          "showID": 25,
+          "showID": 26,
           "dateShow": "2021-11-14T19:30:00",
           "dateDoors": "2021-11-14T18:30:00",
           "dateLots": "",
@@ -513,7 +541,7 @@
           "YYYYMMDD": "20211114"
         },
         {
-          "showID": 26,
+          "showID": 27,
           "dateShow": "2021-11-18T19:00:00",
           "dateDoors": "2021-11-18T18:00:00",
           "dateLots": "",
@@ -541,7 +569,7 @@
           "YYYYMMDD": "20211118"
         },
         {
-          "showID": 27,
+          "showID": 28,
           "dateShow": "2021-11-19T19:00:00",
           "dateDoors": "2021-11-19T18:00:00",
           "dateLots": "",
@@ -569,7 +597,7 @@
           "YYYYMMDD": "20211119"
         },
         {
-          "showID": 28,
+          "showID": 29,
           "dateShow": "2021-11-20T19:00:00",
           "dateDoors": "2021-11-20T18:00:00",
           "dateLots": "",
@@ -602,7 +630,7 @@
       "title": "Mexico 2022",
       "data": [
         {
-          "showID": 29,
+          "showID": 30,
           "dateShow": "2021-12-04T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -630,7 +658,7 @@
           "YYYYMMDD": "20211204"
         },
         {
-          "showID": 30,
+          "showID": 31,
           "dateShow": "2021-12-05T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -658,7 +686,7 @@
           "YYYYMMDD": "20211205"
         },
         {
-          "showID": 31,
+          "showID": 32,
           "dateShow": "2021-12-06T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -691,7 +719,7 @@
       "title": "Röckjavik 2022",
       "data": [
         {
-          "showID": 32,
+          "showID": 33,
           "dateShow": "2022-03-25T19:00:00",
           "dateDoors": "2022-03-25T18:00:00",
           "dateLots": "",
@@ -719,7 +747,7 @@
           "YYYYMMDD": "20220325"
         },
         {
-          "showID": 33,
+          "showID": 34,
           "dateShow": "2022-03-26T19:00:00",
           "dateDoors": "2022-03-26T18:00:00",
           "dateLots": "",
@@ -747,7 +775,7 @@
           "YYYYMMDD": "20220326"
         },
         {
-          "showID": 34,
+          "showID": 35,
           "dateShow": "2022-03-27T19:00:00",
           "dateDoors": "2022-03-27T18:00:00",
           "dateLots": "",
@@ -780,7 +808,7 @@
       "title": "Summer 2022",
       "data": [
         {
-          "showID": 35,
+          "showID": 36,
           "dateShow": "2022-07-23T20:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1149,6 +1177,34 @@
     },
     {
       "showID": 20,
+      "dateShow": "2021-10-01T19:00:00",
+      "dateDoors": "",
+      "dateLots": "",
+      "timeZone": "America/Los_Angeles",
+      "venue": "Huntington City Beach",
+      "altName": "Huntington Beach",
+      "notes": "Afterburner Music Festival",
+      "address": "21529 Pacific Coast Hwy",
+      "city": "Huntington Beac",
+      "state": "CA",
+      "postal": "92648",
+      "country": "USA",
+      "phoneNbr": "",
+      "venueURL": "https://www.afterburnermusicfestival.com/",
+      "setlistURL": "http://allthings.umphreys.com/setlists/",
+      "seatingURL": "https://www.afterburnermusicfestival.com/",
+      "lat": "33.6380444",
+      "lng": "-117.9736122",
+      "confidence": "1",
+      "placesPhotoReference": "Aap_uEBIMZ00pyIgVoPx00-R0JSOOQs7O2WxT9_kW0s4CtlHEACOzwJShLjRJZLmwZC9yCQz3lzAPKmuBksjg9a-BuFM73KOxyHp-Hv0-dypu5wM_-PGueKf2KpeJo4EaHXBMjUm-EIWvj6zlyaMY-GVMG2UppP_mJp6NAdGM9LiIyoF1lmV",
+      "placesID": "",
+      "dateString": "1",
+      "monthString": "Oct",
+      "title": "Fri, Oct 1",
+      "YYYYMMDD": "20211001"
+    },
+    {
+      "showID": 21,
       "dateShow": "2021-10-08T19:30:00",
       "dateDoors": "2021-10-08T18:00:00",
       "dateLots": "",
@@ -1176,7 +1232,7 @@
       "YYYYMMDD": "20211008"
     },
     {
-      "showID": 21,
+      "showID": 22,
       "dateShow": "2021-10-09T19:30:00",
       "dateDoors": "2021-10-09T18:00:00",
       "dateLots": "",
@@ -1204,7 +1260,7 @@
       "YYYYMMDD": "20211009"
     },
     {
-      "showID": 22,
+      "showID": 23,
       "dateShow": "2021-11-11T19:30:00",
       "dateDoors": "2021-11-11T18:30:00",
       "dateLots": "",
@@ -1232,7 +1288,7 @@
       "YYYYMMDD": "20211111"
     },
     {
-      "showID": 23,
+      "showID": 24,
       "dateShow": "2021-11-12T19:00:00",
       "dateDoors": "2021-11-12T18:00:00",
       "dateLots": "",
@@ -1260,7 +1316,7 @@
       "YYYYMMDD": "20211112"
     },
     {
-      "showID": 24,
+      "showID": 25,
       "dateShow": "2021-11-13T19:00:00",
       "dateDoors": "2021-11-13T18:00:00",
       "dateLots": "",
@@ -1288,7 +1344,7 @@
       "YYYYMMDD": "20211113"
     },
     {
-      "showID": 25,
+      "showID": 26,
       "dateShow": "2021-11-14T19:30:00",
       "dateDoors": "2021-11-14T18:30:00",
       "dateLots": "",
@@ -1316,7 +1372,7 @@
       "YYYYMMDD": "20211114"
     },
     {
-      "showID": 26,
+      "showID": 27,
       "dateShow": "2021-11-18T19:00:00",
       "dateDoors": "2021-11-18T18:00:00",
       "dateLots": "",
@@ -1344,7 +1400,7 @@
       "YYYYMMDD": "20211118"
     },
     {
-      "showID": 27,
+      "showID": 28,
       "dateShow": "2021-11-19T19:00:00",
       "dateDoors": "2021-11-19T18:00:00",
       "dateLots": "",
@@ -1372,7 +1428,7 @@
       "YYYYMMDD": "20211119"
     },
     {
-      "showID": 28,
+      "showID": 29,
       "dateShow": "2021-11-20T19:00:00",
       "dateDoors": "2021-11-20T18:00:00",
       "dateLots": "",
@@ -1400,7 +1456,7 @@
       "YYYYMMDD": "20211120"
     },
     {
-      "showID": 29,
+      "showID": 30,
       "dateShow": "2021-12-04T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1428,7 +1484,7 @@
       "YYYYMMDD": "20211204"
     },
     {
-      "showID": 30,
+      "showID": 31,
       "dateShow": "2021-12-05T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1456,7 +1512,7 @@
       "YYYYMMDD": "20211205"
     },
     {
-      "showID": 31,
+      "showID": 32,
       "dateShow": "2021-12-06T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1484,7 +1540,7 @@
       "YYYYMMDD": "20211206"
     },
     {
-      "showID": 32,
+      "showID": 33,
       "dateShow": "2022-03-25T19:00:00",
       "dateDoors": "2022-03-25T18:00:00",
       "dateLots": "",
@@ -1512,7 +1568,7 @@
       "YYYYMMDD": "20220325"
     },
     {
-      "showID": 33,
+      "showID": 34,
       "dateShow": "2022-03-26T19:00:00",
       "dateDoors": "2022-03-26T18:00:00",
       "dateLots": "",
@@ -1540,7 +1596,7 @@
       "YYYYMMDD": "20220326"
     },
     {
-      "showID": 34,
+      "showID": 35,
       "dateShow": "2022-03-27T19:00:00",
       "dateDoors": "2022-03-27T18:00:00",
       "dateLots": "",
@@ -1568,7 +1624,7 @@
       "YYYYMMDD": "20220327"
     },
     {
-      "showID": 35,
+      "showID": 36,
       "dateShow": "2022-07-23T20:00:00",
       "dateDoors": "",
       "dateLots": "",
