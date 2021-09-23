@@ -422,7 +422,12 @@
           "monthString": "Nov",
           "title": "Fri, Nov 19",
           "YYYYMMDD": "20211119"
-        },
+        }
+      ]
+    },
+    {
+      "title": "New Years 2021",
+      "data": [
         {
           "showID": 16,
           "dateShow": "2021-12-28T20:00:00",
@@ -450,12 +455,7 @@
           "monthString": "Dec",
           "title": "Tue, Dec 28",
           "YYYYMMDD": "20211228"
-        }
-      ]
-    },
-    {
-      "title": "New Years 2021",
-      "data": [
+        },
         {
           "showID": 17,
           "dateShow": "2021-12-29T20:00:00",
