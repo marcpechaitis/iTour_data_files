@@ -505,62 +505,6 @@
   },
   {
     "showID": 18,
-    "dateShow": "2021-10-06T19:30:00",
-    "dateDoors": "",
-    "dateLots": "",
-    "timeZone": "America/New_York",
-    "venue": "iTHINK Financial Amphitheatre",
-    "altName": "West Palm Beach",
-    "notes": "Capacity: 20,000",
-    "address": "601-7 Sansburys Way",
-    "city": "West Palm Beach",
-    "state": "FL",
-    "postal": "33411",
-    "country": "USA",
-    "phoneNbr": "561-795-8883",
-    "venueURL": "https://www.livenation.com/venue/KovZpZAEkvEA/ithink-financial-amphitheatre-events",
-    "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-    "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/0D005830DE1DD0C3/staticImage?type=png&systemId=HOST",
-    "lat": "26.685477",
-    "lng": "-80.186736",
-    "confidence": "1",
-    "placesPhotoReference": "ATtYBwLOgFf1BTQG_n2B-utCDE4JFVPkF7VtLZxyeCzbFi1hj4Z35eP7Pw__RAuLN0atzwz8AtU998mn__apkHH6HNmmEDFXU3I52ScNxRnbPYQJmLXRT-fqepCtJUuz2D6fjreV7hlcy0v2SfPb_LBDSBbjE-tORjGtA7DYQcUp3LQerH6m",
-    "placesID": "ChIJAcmTWtMo2YgRF6cgWf68cF4",
-    "dateString": "6",
-    "monthString": "Oct",
-    "title": "Wed, Oct 6",
-    "YYYYMMDD": "20211006"
-  },
-  {
-    "showID": 19,
-    "dateShow": "2021-10-07T19:30:00",
-    "dateDoors": "",
-    "dateLots": "",
-    "timeZone": "America/New_York",
-    "venue": "MIDFLORIDA Credit Union Amphitheatre",
-    "altName": "Tampa",
-    "notes": "Capacity: 20,000",
-    "address": "4802 US-301",
-    "city": "Tampa",
-    "state": "FL",
-    "postal": "33610",
-    "country": "USA",
-    "phoneNbr": "",
-    "venueURL": "https://www.livenation.com/venue/KovZpZAEkA7A/midflorida-credit-union-amphitheatre-at-the-fl-state-fairgrounds-events",
-    "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-    "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/01005830D5CF5A4A/staticImage?type=png&systemId=HOST",
-    "lat": "27.9931978",
-    "lng": "-82.3650637",
-    "confidence": "1",
-    "placesPhotoReference": "ATtYBwLsz7IHv_hi5RgzjHVUbIQz0RhyS9089WRVjjXiO1ZdMFvwJQ_MFKKJZHcENwNb394tux9dAoX-BuW1CYSZdWlGFRvsNRZHFeB6wt9pt3ExG0NnbQtZuEDA--7aZ5DzRquwd0kSQ5kuSB9iDRsor6jlyXuSh8G62TqEf-7lXkT7lJ-m",
-    "placesID": "ChIJ2SRxszPPwogRXZsoxbmqmVg",
-    "dateString": "7",
-    "monthString": "Oct",
-    "title": "Thu, Oct 7",
-    "YYYYMMDD": "20211007"
-  },
-  {
-    "showID": 20,
     "dateShow": "2021-10-11T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -588,7 +532,7 @@
     "YYYYMMDD": "20211011"
   },
   {
-    "showID": 21,
+    "showID": 19,
     "dateShow": "2021-10-12T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -616,7 +560,7 @@
     "YYYYMMDD": "20211012"
   },
   {
-    "showID": 22,
+    "showID": 20,
     "dateShow": "2021-10-14T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -644,7 +588,7 @@
     "YYYYMMDD": "20211014"
   },
   {
-    "showID": 23,
+    "showID": 21,
     "dateShow": "2021-10-15T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -672,7 +616,7 @@
     "YYYYMMDD": "20211015"
   },
   {
-    "showID": 24,
+    "showID": 22,
     "dateShow": "2021-10-19T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -700,7 +644,7 @@
     "YYYYMMDD": "20211019"
   },
   {
-    "showID": 25,
+    "showID": 23,
     "dateShow": "2021-10-20T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -728,7 +672,7 @@
     "YYYYMMDD": "20211020"
   },
   {
-    "showID": 26,
+    "showID": 24,
     "dateShow": "2021-10-22T18:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -756,7 +700,7 @@
     "YYYYMMDD": "20211022"
   },
   {
-    "showID": 27,
+    "showID": 25,
     "dateShow": "2021-10-23T18:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -784,7 +728,7 @@
     "YYYYMMDD": "20211023"
   },
   {
-    "showID": 28,
+    "showID": 26,
     "dateShow": "2021-10-25T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -812,7 +756,7 @@
     "YYYYMMDD": "20211025"
   },
   {
-    "showID": 29,
+    "showID": 27,
     "dateShow": "2021-10-27T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -840,7 +784,7 @@
     "YYYYMMDD": "20211027"
   },
   {
-    "showID": 30,
+    "showID": 28,
     "dateShow": "2021-10-29T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -868,7 +812,7 @@
     "YYYYMMDD": "20211029"
   },
   {
-    "showID": 31,
+    "showID": 29,
     "dateShow": "2021-10-30T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -896,7 +840,7 @@
     "YYYYMMDD": "20211030"
   },
   {
-    "showID": 32,
+    "showID": 30,
     "dateShow": "2021-10-31T19:30:00",
     "dateDoors": "",
     "dateLots": "",
@@ -924,7 +868,7 @@
     "YYYYMMDD": "20211031"
   },
   {
-    "showID": 33,
+    "showID": 31,
     "dateShow": "2022-01-07T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -952,7 +896,7 @@
     "YYYYMMDD": "20220107"
   },
   {
-    "showID": 34,
+    "showID": 32,
     "dateShow": "2022-01-08T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -980,7 +924,7 @@
     "YYYYMMDD": "20220108"
   },
   {
-    "showID": 35,
+    "showID": 33,
     "dateShow": "2022-01-09T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -1008,7 +952,7 @@
     "YYYYMMDD": "20220109"
   },
   {
-    "showID": 36,
+    "showID": 34,
     "dateShow": "2022-01-10T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -1036,7 +980,7 @@
     "YYYYMMDD": "20220110"
   },
   {
-    "showID": 37,
+    "showID": 35,
     "dateShow": "2022-01-13T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -1064,7 +1008,7 @@
     "YYYYMMDD": "20220113"
   },
   {
-    "showID": 38,
+    "showID": 36,
     "dateShow": "2022-01-14T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -1092,7 +1036,7 @@
     "YYYYMMDD": "20220114"
   },
   {
-    "showID": 39,
+    "showID": 37,
     "dateShow": "2022-01-15T19:00:00",
     "dateDoors": "",
     "dateLots": "",
@@ -1120,7 +1064,7 @@
     "YYYYMMDD": "20220115"
   },
   {
-    "showID": 40,
+    "showID": 38,
     "dateShow": "2022-01-16T19:00:00",
     "dateDoors": "",
     "dateLots": "",
