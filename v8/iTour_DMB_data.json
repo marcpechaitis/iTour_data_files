@@ -1586,7 +1586,7 @@
       "dateDoors": "",
       "dateLots": "",
       "timeZone": "America/Chicago",
-      "venue": "Orion Amphitheater",
+      "venue": "Orion Amphitheatre",
       "altName": "Huntsville",
       "notes": "",
       "address": "710 Amphitheater Dr NW",
@@ -1601,13 +1601,13 @@
       "lat": "34.7342847",
       "lng": "-86.6679872",
       "confidence": "1",
-      "placesPhotoReference": "",
-      "placesID": "ChIJAXYbu31pYogRVyWSS_8IuB0",
+      "placesPhotoReference": "Aap_uEBBdRV4H1FNpTRPgcOZr3WHtGcUfr1cwypbbe9QJ8YBXGKp0Z7BHZuoV3iDUQFA0Qo573U-QNMJfpOkxZOF8o0P7QVwGeAoWn9FAeiVL291qguAwrt3czpf0JepAdSlHXmCD27UB7W3KyqbP487gFxSY471M7Tzmv6kq-6yVJcsXHSL",
+      "placesID": "ChIJjYmizWdrYogRa1YEyIl-LJo",
       "dateString": "18",
       "monthString": "May",
       "title": "Wed, May 18",
       "YYYYMMDD": "20220518"
-    },
+    }
     {
       "showID": 8,
       "dateShow": "2022-05-20T19:30:00",
