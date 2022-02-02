@@ -281,7 +281,7 @@
   },
   {
     "showID": 10,
-    "dateShow": "2022-05-21T19:30:00",
+    "dateShow": "2022-05-25T19:30:00",
     "dateDoors": "",
     "dateLots": "",
     "timeZone": "America/New_York",
@@ -302,10 +302,10 @@
     "confidence": "1",
     "placesPhotoReference": "CmRaAAAA8krRQcVYFcgxcYMGSKu9l1EZrEEYJflrDPl-zjSROemI5Grjl-QwGhjzbdyd9gsTOJvyTyZAfxxCqpMujIwzAqt77ZyHNDKEGRYdZPcSBI8Nif3LZiLii4pD4PMFy58iEhAXu7DJCPW27Re4yVvR5PhqGhTEGneIhu0EPreJiSq8qe6FI17Cmw",
     "placesID": "c5527130a3e90c392b7c065b87b3f34f877011bf",
-    "dateString": "21",
+    "dateString": "25",
     "monthString": "May",
-    "title": "Sat, May 21",
-    "YYYYMMDD": "20220521"
+    "title": "Wed, May 25",
+    "YYYYMMDD": "20220525"
   },
   {
     "showID": 11,
@@ -482,7 +482,7 @@
     "dateLots": "",
     "timeZone": "America/New_York",
     "venue": "Blossom Music Center",
-    "altName": "Blossom",
+    "altName": "Cuyahoga Falls",
     "notes": "Capacity: 23,000",
     "address": "1145 W Steels Corners Rd",
     "city": "Cuyahoga Falls",
