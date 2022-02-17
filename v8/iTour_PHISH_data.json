@@ -681,9 +681,9 @@
           "placesPhotoReference": "Aap_uECoAqfgGU-mjsRzfetgjKQxDEx_NIDnoF37Uj_Abr8oesneXqLzvAfPR0wyvzH9iPSUBRt2asCaYGSz3QMfyCQowO4vly4yy8fdT-FKdNzQVR84Lit5lV02CJOlxoONZZij2gXpnkjSjlSfmqA3vb4lVPJVvZ7KxUosP5d7zq576nlm",
           "placesID": "ChIJB_ak6YVU5okR_i_zav1c1Y0",
           "dateString": "24",
-          "monthString": "Jun",
-          "title": "Fri, Jun 24",
-          "YYYYMMDD": "20220624"
+          "monthString": "Jul",
+          "title": "Sun, Jul 24",
+          "YYYYMMDD": "20220724"
         },
         {
           "showID": 208,
@@ -855,6 +855,34 @@
         },
         {
           "showID": 214,
+          "dateShow": "2022-08-03T19:00:00",
+          "dateDoors": "2022-08-03T17:30:00",
+          "dateLots": "",
+          "timeZone": "America/New_York",
+          "venue": "Pine Knob Music Theatre",
+          "altName": "Clarkston",
+          "notes": "Capacity: 15,040",
+          "address": "33 Bob Seger Dr",
+          "city": "Village of Clarkston",
+          "state": "MI",
+          "postal": "48348",
+          "country": "USA",
+          "phoneNbr": "313-471-7000",
+          "venueURL": "https://www.313presents.com/venue/pine-knob-music-theatre",
+          "setlistURL": "http://phish.net/setlists/?d=2022-08-02",
+          "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/08005C3B369365CE/staticImage?type=png&systemId=HOST",
+          "lat": "42.745146",
+          "lng": "-83.3722868",
+          "confidence": "1",
+          "placesPhotoReference": "Aap_uEA4GtOEEDmmTdlWbyCjwJR0hpXpAGoTXP4m2QSF4zX-vhpG2mQabcgxxSJk-fVCe0RwEl95v4Akewztp9Ue6mHd4vp6zs_SI3no0OLaLUSPpC91vaBpt-GzstjjuQaTWLK36Ll063MnG0d4UJqDp04Vqzihpdecop1gcSofyTYVlaq5",
+          "placesID": "ChIJq6TuBC2RJIgRURBAkMedCOY",
+          "dateString": "3",
+          "monthString": "Aug",
+          "title": "Wed, Aug 3",
+          "YYYYMMDD": "20220803"
+        },
+        {
+          "showID": 215,
           "dateShow": "2022-08-05T19:30:00",
           "dateDoors": "2022-08-05T17:30:00",
           "dateLots": "",
@@ -882,7 +910,7 @@
           "YYYYMMDD": "20220805"
         },
         {
-          "showID": 215,
+          "showID": 216,
           "dateShow": "2022-08-06T19:30:00",
           "dateDoors": "2022-08-06T17:30:00",
           "dateLots": "",
@@ -910,7 +938,7 @@
           "YYYYMMDD": "20220806"
         },
         {
-          "showID": 216,
+          "showID": 217,
           "dateShow": "2022-08-07T19:30:00",
           "dateDoors": "2022-08-07T17:30:00",
           "dateLots": "",
@@ -938,7 +966,7 @@
           "YYYYMMDD": "20220807"
         },
         {
-          "showID": 217,
+          "showID": 218,
           "dateShow": "2022-08-10T19:00:00",
           "dateDoors": "2022-08-10T17:30:00",
           "dateLots": "",
@@ -966,7 +994,7 @@
           "YYYYMMDD": "20220810"
         },
         {
-          "showID": 218,
+          "showID": 219,
           "dateShow": "2022-08-12T19:00:00",
           "dateDoors": "2022-08-12T17:30:00",
           "dateLots": "",
@@ -994,7 +1022,7 @@
           "YYYYMMDD": "20220812"
         },
         {
-          "showID": 219,
+          "showID": 220,
           "dateShow": "2022-08-13T19:00:00",
           "dateDoors": "2022-08-13T17:30:00",
           "dateLots": "",
@@ -1022,7 +1050,7 @@
           "YYYYMMDD": "20220813"
         },
         {
-          "showID": 220,
+          "showID": 221,
           "dateShow": "2022-08-14T19:00:00",
           "dateDoors": "2022-08-14T17:30:00",
           "dateLots": "",
@@ -1050,7 +1078,7 @@
           "YYYYMMDD": "20220814"
         },
         {
-          "showID": 221,
+          "showID": 222,
           "dateShow": "2022-09-01T19:30:00",
           "dateDoors": "2022-09-01T18:00:00",
           "dateLots": "",
@@ -1078,7 +1106,7 @@
           "YYYYMMDD": "20220901"
         },
         {
-          "showID": 222,
+          "showID": 223,
           "dateShow": "2022-09-02T19:30:00",
           "dateDoors": "2022-09-02T18:00:00",
           "dateLots": "",
@@ -1106,7 +1134,7 @@
           "YYYYMMDD": "20220902"
         },
         {
-          "showID": 223,
+          "showID": 224,
           "dateShow": "2022-09-03T19:30:00",
           "dateDoors": "2022-09-03T18:00:00",
           "dateLots": "",
@@ -1134,7 +1162,7 @@
           "YYYYMMDD": "20220903"
         },
         {
-          "showID": 224,
+          "showID": 225,
           "dateShow": "2022-09-04T19:30:00",
           "dateDoors": "2022-09-04T18:00:00",
           "dateLots": "",
@@ -1833,9 +1861,9 @@
       "placesPhotoReference": "Aap_uECoAqfgGU-mjsRzfetgjKQxDEx_NIDnoF37Uj_Abr8oesneXqLzvAfPR0wyvzH9iPSUBRt2asCaYGSz3QMfyCQowO4vly4yy8fdT-FKdNzQVR84Lit5lV02CJOlxoONZZij2gXpnkjSjlSfmqA3vb4lVPJVvZ7KxUosP5d7zq576nlm",
       "placesID": "ChIJB_ak6YVU5okR_i_zav1c1Y0",
       "dateString": "24",
-      "monthString": "Jun",
-      "title": "Fri, Jun 24",
-      "YYYYMMDD": "20220624"
+      "monthString": "Jul",
+      "title": "Sun, Jul 24",
+      "YYYYMMDD": "20220724"
     },
     {
       "showID": 208,
@@ -2007,6 +2035,34 @@
     },
     {
       "showID": 214,
+      "dateShow": "2022-08-03T19:00:00",
+      "dateDoors": "2022-08-03T17:30:00",
+      "dateLots": "",
+      "timeZone": "America/New_York",
+      "venue": "Pine Knob Music Theatre",
+      "altName": "Clarkston",
+      "notes": "Capacity: 15,040",
+      "address": "33 Bob Seger Dr",
+      "city": "Village of Clarkston",
+      "state": "MI",
+      "postal": "48348",
+      "country": "USA",
+      "phoneNbr": "313-471-7000",
+      "venueURL": "https://www.313presents.com/venue/pine-knob-music-theatre",
+      "setlistURL": "http://phish.net/setlists/?d=2022-08-02",
+      "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/08005C3B369365CE/staticImage?type=png&systemId=HOST",
+      "lat": "42.745146",
+      "lng": "-83.3722868",
+      "confidence": "1",
+      "placesPhotoReference": "Aap_uEA4GtOEEDmmTdlWbyCjwJR0hpXpAGoTXP4m2QSF4zX-vhpG2mQabcgxxSJk-fVCe0RwEl95v4Akewztp9Ue6mHd4vp6zs_SI3no0OLaLUSPpC91vaBpt-GzstjjuQaTWLK36Ll063MnG0d4UJqDp04Vqzihpdecop1gcSofyTYVlaq5",
+      "placesID": "ChIJq6TuBC2RJIgRURBAkMedCOY",
+      "dateString": "3",
+      "monthString": "Aug",
+      "title": "Wed, Aug 3",
+      "YYYYMMDD": "20220803"
+    },
+    {
+      "showID": 215,
       "dateShow": "2022-08-05T19:30:00",
       "dateDoors": "2022-08-05T17:30:00",
       "dateLots": "",
@@ -2034,7 +2090,7 @@
       "YYYYMMDD": "20220805"
     },
     {
-      "showID": 215,
+      "showID": 216,
       "dateShow": "2022-08-06T19:30:00",
       "dateDoors": "2022-08-06T17:30:00",
       "dateLots": "",
@@ -2062,7 +2118,7 @@
       "YYYYMMDD": "20220806"
     },
     {
-      "showID": 216,
+      "showID": 217,
       "dateShow": "2022-08-07T19:30:00",
       "dateDoors": "2022-08-07T17:30:00",
       "dateLots": "",
@@ -2090,7 +2146,7 @@
       "YYYYMMDD": "20220807"
     },
     {
-      "showID": 217,
+      "showID": 218,
       "dateShow": "2022-08-10T19:00:00",
       "dateDoors": "2022-08-10T17:30:00",
       "dateLots": "",
@@ -2118,7 +2174,7 @@
       "YYYYMMDD": "20220810"
     },
     {
-      "showID": 218,
+      "showID": 219,
       "dateShow": "2022-08-12T19:00:00",
       "dateDoors": "2022-08-12T17:30:00",
       "dateLots": "",
@@ -2146,7 +2202,7 @@
       "YYYYMMDD": "20220812"
     },
     {
-      "showID": 219,
+      "showID": 220,
       "dateShow": "2022-08-13T19:00:00",
       "dateDoors": "2022-08-13T17:30:00",
       "dateLots": "",
@@ -2174,7 +2230,7 @@
       "YYYYMMDD": "20220813"
     },
     {
-      "showID": 220,
+      "showID": 221,
       "dateShow": "2022-08-14T19:00:00",
       "dateDoors": "2022-08-14T17:30:00",
       "dateLots": "",
@@ -2202,7 +2258,7 @@
       "YYYYMMDD": "20220814"
     },
     {
-      "showID": 221,
+      "showID": 222,
       "dateShow": "2022-09-01T19:30:00",
       "dateDoors": "2022-09-01T18:00:00",
       "dateLots": "",
@@ -2230,7 +2286,7 @@
       "YYYYMMDD": "20220901"
     },
     {
-      "showID": 222,
+      "showID": 223,
       "dateShow": "2022-09-02T19:30:00",
       "dateDoors": "2022-09-02T18:00:00",
       "dateLots": "",
@@ -2258,7 +2314,7 @@
       "YYYYMMDD": "20220902"
     },
     {
-      "showID": 223,
+      "showID": 224,
       "dateShow": "2022-09-03T19:30:00",
       "dateDoors": "2022-09-03T18:00:00",
       "dateLots": "",
@@ -2286,7 +2342,7 @@
       "YYYYMMDD": "20220903"
     },
     {
-      "showID": 224,
+      "showID": 225,
       "dateShow": "2022-09-04T19:30:00",
       "dateDoors": "2022-09-04T18:00:00",
       "dateLots": "",
