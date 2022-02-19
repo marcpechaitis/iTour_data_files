@@ -1,13 +1,13 @@
 [
   {
     "showID": 0,
-    "dateShow": "2022-02-24T19:30:00",
-    "dateDoors": "",
+    "dateShow": "2022-02-24T20:30:00",
+    "dateDoors": "2022-02-24T19:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
     "altName": "Riviera Maya",
-    "notes": "",
+    "notes": "One Set",
     "address": "Cancun-Chetumal km 36.5",
     "city": "Alfredo Bonfil",
     "state": "77500 Cancún",
@@ -30,7 +30,7 @@
   {
     "showID": 1,
     "dateShow": "2022-02-25T19:30:00",
-    "dateDoors": "",
+    "dateDoors": "2022-02-25T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -58,7 +58,7 @@
   {
     "showID": 2,
     "dateShow": "2022-02-26T19:30:00",
-    "dateDoors": "",
+    "dateDoors": "2022-02-26T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -85,8 +85,8 @@
   },
   {
     "showID": 3,
-    "dateShow": "2022-02-27T19:30:00",
-    "dateDoors": "",
+    "dateShow": "2022-02-27T17:00:00",
+    "dateDoors": "2022-02-27T15:30:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
