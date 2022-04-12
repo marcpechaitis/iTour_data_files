@@ -771,7 +771,7 @@
         },
         {
           "showID": 201,
-          "dateShow": "2022-03-20T19:30:00",
+          "dateShow": "2022-09-03T19:30:00",
           "dateDoors": "",
           "dateLots": "",
           "timeZone": "America/Toronto",
@@ -791,10 +791,10 @@
           "lng": "-75.926823",
           "placesPhotoReference": "Aap_uEDgMIsnP3Ad6gzDBko__kyzxAg34DKpanj-Sx7Mn4bDY86vdKJq4fR05XdLytkwhGSmIYtexP95pL_NYAPfpvM5BhkmFwKH1RLJquOW7g-VDDQbIb5MjA400N49XpcHCD0ZNEdlctwREeCBth2NeV8SvCbzxt5-13xdH3ViHrZ3NUM9",
           "placesID": "ChIJG5pEf4gA0kwR8RnzF8RqT6Y",
-          "dateString": "20",
-          "monthString": "Mar",
-          "title": "Sun, Mar 20",
-          "YYYYMMDD": "20220320",
+          "dateString": "3",
+          "monthString": "Sep",
+          "title": "Sat, Sep 3",
+          "YYYYMMDD": "20220903",
           "confidence": "1"
         },
         {
@@ -995,7 +995,7 @@
         },
         {
           "showID": 209,
-          "dateShow": "2022-04-06T20:00:00",
+          "dateShow": "2022-09-20T19:30:00",
           "dateDoors": "",
           "dateLots": "",
           "timeZone": "America/Chicago",
@@ -1015,10 +1015,10 @@
           "lng": "-97.5151138",
           "placesPhotoReference": "Aap_uEBxNkryTVoPkL_gKIqjCZZW3nsaIZ8Fojjc3_Wh5w2M1M2xELCLR3upOKe4s15url3uPD82F-9wFwIaeRlUKjVwdH7SdSYWuz4E7izqFKEtC7Awi-7BUHFA_X3VfHO9d73kJVJtNjIJ6gTNfqiLROIq-F4NIdaAzC4IEy5w2WSaWlXY",
           "placesID": "ChIJmW2-HCgXsocRRZQdZbReN6U",
-          "dateString": "6",
-          "monthString": "Apr",
-          "title": "Wed, Apr 6",
-          "YYYYMMDD": "20220406",
+          "dateString": "20",
+          "monthString": "Sep",
+          "title": "Tue, Sep 20",
+          "YYYYMMDD": "20220920",
           "confidence": "1"
         },
         {
@@ -1811,7 +1811,7 @@
     },
     {
       "showID": 201,
-      "dateShow": "2022-03-20T19:30:00",
+      "dateShow": "2022-09-03T19:30:00",
       "dateDoors": "",
       "dateLots": "",
       "timeZone": "America/Toronto",
@@ -1831,10 +1831,10 @@
       "lng": "-75.926823",
       "placesPhotoReference": "Aap_uEDgMIsnP3Ad6gzDBko__kyzxAg34DKpanj-Sx7Mn4bDY86vdKJq4fR05XdLytkwhGSmIYtexP95pL_NYAPfpvM5BhkmFwKH1RLJquOW7g-VDDQbIb5MjA400N49XpcHCD0ZNEdlctwREeCBth2NeV8SvCbzxt5-13xdH3ViHrZ3NUM9",
       "placesID": "ChIJG5pEf4gA0kwR8RnzF8RqT6Y",
-      "dateString": "20",
-      "monthString": "Mar",
-      "title": "Sun, Mar 20",
-      "YYYYMMDD": "20220320",
+      "dateString": "3",
+      "monthString": "Sep",
+      "title": "Sat, Sep 3",
+      "YYYYMMDD": "20220903",
       "confidence": "1"
     },
     {
@@ -2035,7 +2035,7 @@
     },
     {
       "showID": 209,
-      "dateShow": "2022-04-06T20:00:00",
+      "dateShow": "2022-09-20T19:30:00",
       "dateDoors": "",
       "dateLots": "",
       "timeZone": "America/Chicago",
@@ -2055,10 +2055,10 @@
       "lng": "-97.5151138",
       "placesPhotoReference": "Aap_uEBxNkryTVoPkL_gKIqjCZZW3nsaIZ8Fojjc3_Wh5w2M1M2xELCLR3upOKe4s15url3uPD82F-9wFwIaeRlUKjVwdH7SdSYWuz4E7izqFKEtC7Awi-7BUHFA_X3VfHO9d73kJVJtNjIJ6gTNfqiLROIq-F4NIdaAzC4IEy5w2WSaWlXY",
       "placesID": "ChIJmW2-HCgXsocRRZQdZbReN6U",
-      "dateString": "6",
-      "monthString": "Apr",
-      "title": "Wed, Apr 6",
-      "YYYYMMDD": "20220406",
+      "dateString": "20",
+      "monthString": "Sep",
+      "title": "Tue, Sep 20",
+      "YYYYMMDD": "20220920",
       "confidence": "1"
     },
     {
