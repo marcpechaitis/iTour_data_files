@@ -202,7 +202,7 @@
         {
           "showID": 107,
           "dateShow": "2022-06-05T19:00:00",
-          "dateDoors": "2022-06-05T15:30:00",
+          "dateDoors": "2022-06-05T17:30:00",
           "dateLots": "",
           "timeZone": "America/Indianapolis",
           "venue": "Ruoff Music Center",
@@ -1163,7 +1163,7 @@
     {
       "showID": 107,
       "dateShow": "2022-06-05T19:00:00",
-      "dateDoors": "2022-06-05T15:30:00",
+      "dateDoors": "2022-06-05T17:30:00",
       "dateLots": "",
       "timeZone": "America/Indianapolis",
       "venue": "Ruoff Music Center",
