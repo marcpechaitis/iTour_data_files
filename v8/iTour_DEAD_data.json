@@ -1,99 +1,66 @@
 {
   "sections": [
     {
-      "title": "México 2023",
-      "data": [
-        {
-          "showID": 0,
-          "dateShow": "2023-01-14T19:00:00",
-          "dateDoors": "",
-          "dateLots": "",
-          "timeZone": "America/Cancun",
-          "venue": "Moon Palace",
-          "altName": "Riviera Maya",
-          "notes": "Playing in the Sand",
-          "address": "Cancun-Chetumal km 36.5",
-          "city": "Alfredo Bonfil",
-          "state": "77500 Cancún",
-          "postal": "Q.R.",
-          "country": "Mexico",
-          "phoneNbr": "+52 800 262 9008",
-          "venueURL": "https://www.moonpalace.com/en",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-          "seatingURL": "https://playinginthesand.com/",
-          "lat": "20.98886",
-          "lng": "-86.82904649999999",
-          "confidence": "1",
-          "placesPhotoReference": "AW30NDxHB1II0824eym7jsDW1gBiB2N_Th19zoa2U4_tq_-CToBT2WnMjUXYUJJDFVM9Oyz9yyePJwfcFzKPmHXcmz1laBp3iKodlIKWnebD2ciz6iC0LrPRHpR4YpEbAyx7Dl9yFLy8HwaPFXCo585yYrNPtJOGOLaMX5rcHKo_HwvcUPMw",
-          "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
-          "dateString": "14",
-          "monthString": "Jan",
-          "title": "Sat, Jan 14",
-          "YYYYMMDD": "20230114"
-        },
-        {
-          "showID": 1,
-          "dateShow": "2023-01-15T19:00:00",
-          "dateDoors": "",
-          "dateLots": "",
-          "timeZone": "America/Cancun",
-          "venue": "Moon Palace",
-          "altName": "Riviera Maya",
-          "notes": "Playing in the Sand",
-          "address": "Cancun-Chetumal km 36.5",
-          "city": "Alfredo Bonfil",
-          "state": "77500 Cancún",
-          "postal": "Q.R.",
-          "country": "Mexico",
-          "phoneNbr": "+52 800 262 9008",
-          "venueURL": "https://www.moonpalace.com/en",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-          "seatingURL": "https://playinginthesand.com/",
-          "lat": "20.98886",
-          "lng": "-86.82904649999999",
-          "confidence": "1",
-          "placesPhotoReference": "AW30NDzCpF8mEsSJgZ4SBd6kBxYswXWiiUAiWXdHnQr2UDHvNuab8hUkc3Q9DfrhPpiOld8J7Kz3YJbhw_Sw03nhyid-61R2gtqASfsaBl7lxuGBVZuf1pIdiDp6desUlfBTs1xMHWPkzw5OEKfN2JYqVCHpXvtIhAZX7IHfkBQ02WTyR3v4",
-          "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
-          "dateString": "15",
-          "monthString": "Jan",
-          "title": "Sun, Jan 15",
-          "YYYYMMDD": "20230115"
-        },
-        {
-          "showID": 2,
-          "dateShow": "2023-01-16T19:00:00",
-          "dateDoors": "",
-          "dateLots": "",
-          "timeZone": "America/Cancun",
-          "venue": "Moon Palace",
-          "altName": "Riviera Maya",
-          "notes": "Playing in the Sand",
-          "address": "Cancun-Chetumal km 36.5",
-          "city": "Alfredo Bonfil",
-          "state": "77500 Cancún",
-          "postal": "Q.R.",
-          "country": "Mexico",
-          "phoneNbr": "+52 800 262 9008",
-          "venueURL": "https://www.moonpalace.com/en",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-          "seatingURL": "https://playinginthesand.com/",
-          "lat": "20.98886",
-          "lng": "-86.82904649999999",
-          "confidence": "1",
-          "placesPhotoReference": "AW30NDwv3XEXUu29dY3mfH5z4pWg7YAzIVihH2mp33h5tNrSQaGsBTXyzsDbLUaJNGDwhnKEaPe1VVFy_UyN3z4gtmjy3urfNR6fJr4b0ADxGLAwknMaRs6GEZWV3i6cmVCQcdmVai56HYXv9OzYTYaxC_VwWvFG1xtzcLWk-fAVZplfl2rv",
-          "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
-          "dateString": "16",
-          "monthString": "Jan",
-          "title": "Mon, Jan 16",
-          "YYYYMMDD": "20230116"
-        }
-      ]
-    },
-    {
       "title": "Summer 2023",
       "data": [
         {
-          "showID": 100,
+          "showID": 0,
+          "dateShow": "2023-05-06T19:00:00",
+          "dateDoors": "",
+          "dateLots": "",
+          "timeZone": "America/Chicago",
+          "venue": "Fair Grounds Race Course",
+          "altName": "New Orleans",
+          "notes": "Jazz & Heritage Festival",
+          "address": "1751 Gentilly Blvd",
+          "city": "New Orleans",
+          "state": "NO",
+          "postal": "70119",
+          "country": "USA",
+          "phoneNbr": "",
+          "venueURL": "https://www.nojazzfest.com/",
+          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "seatingURL": "https://www.nojazzfest.com/",
+          "lat": "29.9821061",
+          "lng": "-90.0785327",
+          "confidence": "1",
+          "placesPhotoReference": "AfLeUgNWtQRfotS8l3dO3DO0vnxGIzvmnl22mWbCo7Fcfd0ZtTOWngG2N_28iimVnhpt_rN6-XYVkSuFIPEABNXjo_hde5N288pY138iZFKqFd9Ah60HvWc7C0_Fos3C3ZNtn-rY9as5JOhNVsIU6G8VSfcai1_Wx8Yg-Qn0i5PkUO7A9dmq",
+          "placesID": "ChIJZUuU0VGvIIYRCS7xq2cFLzo",
+          "dateString": "6",
+          "monthString": "May",
+          "title": "Sat, May 6",
+          "YYYYMMDD": "20230506"
+        },
+        {
+          "showID": 1,
+          "dateShow": "2023-05-08T19:00:00",
+          "dateDoors": "",
+          "dateLots": "",
+          "timeZone": "America/New_York",
+          "venue": "Barton Hall",
+          "altName": "Ithaca",
+          "notes": "Benefit for MusicCares & The Cornell 2023 Project",
+          "address": "117 Statler Dr",
+          "city": "Ithaca",
+          "state": "NY",
+          "postal": "14853",
+          "country": "USA",
+          "phoneNbr": "607-255-7775",
+          "venueURL": "https://www.cornell.edu/",
+          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "seatingURL": "http://theitourapp.com/data/GA.png",
+          "lat": "42.4459411",
+          "lng": "-76.4807287",
+          "confidence": "1",
+          "placesPhotoReference": "AfLeUgMqMIK9Mo-6v3mDoWeiauyRtA8-HRdsQZ0tQnW3vkajo9hnYm08XJxR0lU2gNYL2-bTvtmX57JhjNnFL5aCQEsGmo_yOivf9CIAzbdIcSyGeTXhR8Zzif-3mBsh08B9qDe-wxpxNZIGG4XTbCTsQbEna61uamdjqb9Zc-QiQMwZxCvX",
+          "placesID": "ChIJE-feRouB0IkRgKS5JDCCY04",
+          "dateString": "8",
+          "monthString": "May",
+          "title": "Mon, May 8",
+          "YYYYMMDD": "20230508"
+        },
+        {
+          "showID": 2,
           "dateShow": "2023-05-19T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -121,7 +88,7 @@
           "YYYYMMDD": "20230519"
         },
         {
-          "showID": 101,
+          "showID": 3,
           "dateShow": "2023-05-20T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -149,12 +116,12 @@
           "YYYYMMDD": "20230520"
         },
         {
-          "showID": 102,
+          "showID": 4,
           "dateShow": "2023-05-23T19:00:00",
           "dateDoors": "",
           "dateLots": "",
           "timeZone": "America/Phoenix",
-          "venue": "Ak-Chin Pavilion",
+          "venue": "Talking Stick Resort Amphitheatre",
           "altName": "Phoenix",
           "notes": "Capacity: 20,106",
           "address": "2121 N 83rd Ave",
@@ -163,7 +130,7 @@
           "postal": "85035",
           "country": "USA",
           "phoneNbr": "602-254-7200",
-          "venueURL": "https://www.livenation.com/venue/KovZpZAE6vJA/ak-chin-pavilion-events?utm_source=GMBlisting&utm_medium=organic",
+          "venueURL": "https://www.livenation.com/venue/KovZpZAE6vJA/talking-stick-resort-amphitheatre-events",
           "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
           "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/19005D45DEEE36F3/staticImage?type=png&systemId=HOST",
           "lat": "33.4715155",
@@ -177,7 +144,7 @@
           "YYYYMMDD": "20230523"
         },
         {
-          "showID": 103,
+          "showID": 5,
           "dateShow": "2023-05-26T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -205,7 +172,7 @@
           "YYYYMMDD": "20230526"
         },
         {
-          "showID": 104,
+          "showID": 6,
           "dateShow": "2023-05-28T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -233,7 +200,7 @@
           "YYYYMMDD": "20230528"
         },
         {
-          "showID": 105,
+          "showID": 7,
           "dateShow": "2023-05-30T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -261,7 +228,7 @@
           "YYYYMMDD": "20230530"
         },
         {
-          "showID": 106,
+          "showID": 8,
           "dateShow": "2023-06-01T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -289,7 +256,7 @@
           "YYYYMMDD": "20230601"
         },
         {
-          "showID": 107,
+          "showID": 9,
           "dateShow": "2023-06-03T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -317,7 +284,7 @@
           "YYYYMMDD": "20230603"
         },
         {
-          "showID": 108,
+          "showID": 10,
           "dateShow": "2023-06-05T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -345,7 +312,7 @@
           "YYYYMMDD": "20230605"
         },
         {
-          "showID": 109,
+          "showID": 11,
           "dateShow": "2023-06-07T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -373,7 +340,7 @@
           "YYYYMMDD": "20230607"
         },
         {
-          "showID": 110,
+          "showID": 12,
           "dateShow": "2023-06-09T18:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -401,7 +368,7 @@
           "YYYYMMDD": "20230609"
         },
         {
-          "showID": 111,
+          "showID": 13,
           "dateShow": "2023-06-10T18:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -429,7 +396,7 @@
           "YYYYMMDD": "20230610"
         },
         {
-          "showID": 112,
+          "showID": 14,
           "dateShow": "2023-06-13T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -457,7 +424,7 @@
           "YYYYMMDD": "20230613"
         },
         {
-          "showID": 113,
+          "showID": 15,
           "dateShow": "2023-06-15T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -485,7 +452,7 @@
           "YYYYMMDD": "20230615"
         },
         {
-          "showID": 114,
+          "showID": 16,
           "dateShow": "2023-06-17T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -513,7 +480,7 @@
           "YYYYMMDD": "20230617"
         },
         {
-          "showID": 115,
+          "showID": 17,
           "dateShow": "2023-06-18T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -541,7 +508,7 @@
           "YYYYMMDD": "20230618"
         },
         {
-          "showID": 116,
+          "showID": 18,
           "dateShow": "2023-06-21T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -569,7 +536,7 @@
           "YYYYMMDD": "20230621"
         },
         {
-          "showID": 117,
+          "showID": 19,
           "dateShow": "2023-06-22T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -597,7 +564,7 @@
           "YYYYMMDD": "20230622"
         },
         {
-          "showID": 118,
+          "showID": 20,
           "dateShow": "2023-06-24T18:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -625,7 +592,7 @@
           "YYYYMMDD": "20230624"
         },
         {
-          "showID": 119,
+          "showID": 21,
           "dateShow": "2023-06-25T18:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -653,7 +620,7 @@
           "YYYYMMDD": "20230625"
         },
         {
-          "showID": 120,
+          "showID": 22,
           "dateShow": "2023-06-27T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -681,7 +648,7 @@
           "YYYYMMDD": "20230627"
         },
         {
-          "showID": 121,
+          "showID": 23,
           "dateShow": "2023-07-01T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -709,7 +676,7 @@
           "YYYYMMDD": "20230701"
         },
         {
-          "showID": 122,
+          "showID": 24,
           "dateShow": "2023-07-02T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -737,7 +704,7 @@
           "YYYYMMDD": "20230702"
         },
         {
-          "showID": 123,
+          "showID": 25,
           "dateShow": "2023-07-03T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -765,7 +732,7 @@
           "YYYYMMDD": "20230703"
         },
         {
-          "showID": 124,
+          "showID": 26,
           "dateShow": "2023-07-07T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -793,7 +760,7 @@
           "YYYYMMDD": "20230707"
         },
         {
-          "showID": 125,
+          "showID": 27,
           "dateShow": "2023-07-08T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -821,7 +788,7 @@
           "YYYYMMDD": "20230708"
         },
         {
-          "showID": 126,
+          "showID": 28,
           "dateShow": "2023-07-14T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -849,7 +816,7 @@
           "YYYYMMDD": "20230714"
         },
         {
-          "showID": 127,
+          "showID": 29,
           "dateShow": "2023-07-15T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -877,7 +844,7 @@
           "YYYYMMDD": "20230715"
         },
         {
-          "showID": 128,
+          "showID": 30,
           "dateShow": "2023-07-16T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1215,7 +1182,7 @@
           "YYYYMMDD": "20230629"
         },
         {
-          "showID": 11,
+          "showID": 1,
           "dateShow": "2023-07-01T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1243,7 +1210,7 @@
           "YYYYMMDD": "20230701"
         },
         {
-          "showID": 12,
+          "showID": 2,
           "dateShow": "2023-07-02T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1271,7 +1238,7 @@
           "YYYYMMDD": "20230702"
         },
         {
-          "showID": 13,
+          "showID": 3,
           "dateShow": "2023-07-05T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1299,7 +1266,7 @@
           "YYYYMMDD": "20230705"
         },
         {
-          "showID": 15,
+          "showID": 5,
           "dateShow": "2023-07-08T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1327,7 +1294,7 @@
           "YYYYMMDD": "20230708"
         },
         {
-          "showID": 16,
+          "showID": 6,
           "dateShow": "2023-07-10T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1355,7 +1322,7 @@
           "YYYYMMDD": "20230710"
         },
         {
-          "showID": 17,
+          "showID": 7,
           "dateShow": "2023-07-12T19:00:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1383,7 +1350,7 @@
           "YYYYMMDD": "20230712"
         },
         {
-          "showID": 18,
+          "showID": 8,
           "dateShow": "2023-07-15T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1411,7 +1378,7 @@
           "YYYYMMDD": "20230715"
         },
         {
-          "showID": 19,
+          "showID": 9,
           "dateShow": "2023-07-16T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1444,90 +1411,62 @@
   "flatData": [
     {
       "showID": 0,
-      "dateShow": "2023-01-14T19:00:00",
+      "dateShow": "2023-05-06T19:00:00",
       "dateDoors": "",
       "dateLots": "",
-      "timeZone": "America/Cancun",
-      "venue": "Moon Palace",
-      "altName": "Riviera Maya",
-      "notes": "Playing in the Sand",
-      "address": "Cancun-Chetumal km 36.5",
-      "city": "Alfredo Bonfil",
-      "state": "77500 Cancún",
-      "postal": "Q.R.",
-      "country": "Mexico",
-      "phoneNbr": "+52 800 262 9008",
-      "venueURL": "https://www.moonpalace.com/en",
+      "timeZone": "America/Chicago",
+      "venue": "Fair Grounds Race Course",
+      "altName": "New Orleans",
+      "notes": "Jazz & Heritage Festival",
+      "address": "1751 Gentilly Blvd",
+      "city": "New Orleans",
+      "state": "NO",
+      "postal": "70119",
+      "country": "USA",
+      "phoneNbr": "",
+      "venueURL": "https://www.nojazzfest.com/",
       "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-      "seatingURL": "https://playinginthesand.com/",
-      "lat": "20.98886",
-      "lng": "-86.82904649999999",
+      "seatingURL": "https://www.nojazzfest.com/",
+      "lat": "29.9821061",
+      "lng": "-90.0785327",
       "confidence": "1",
-      "placesPhotoReference": "AW30NDxHB1II0824eym7jsDW1gBiB2N_Th19zoa2U4_tq_-CToBT2WnMjUXYUJJDFVM9Oyz9yyePJwfcFzKPmHXcmz1laBp3iKodlIKWnebD2ciz6iC0LrPRHpR4YpEbAyx7Dl9yFLy8HwaPFXCo585yYrNPtJOGOLaMX5rcHKo_HwvcUPMw",
-      "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
-      "dateString": "14",
-      "monthString": "Jan",
-      "title": "Sat, Jan 14",
-      "YYYYMMDD": "20230114"
+      "placesPhotoReference": "AfLeUgNWtQRfotS8l3dO3DO0vnxGIzvmnl22mWbCo7Fcfd0ZtTOWngG2N_28iimVnhpt_rN6-XYVkSuFIPEABNXjo_hde5N288pY138iZFKqFd9Ah60HvWc7C0_Fos3C3ZNtn-rY9as5JOhNVsIU6G8VSfcai1_Wx8Yg-Qn0i5PkUO7A9dmq",
+      "placesID": "ChIJZUuU0VGvIIYRCS7xq2cFLzo",
+      "dateString": "6",
+      "monthString": "May",
+      "title": "Sat, May 6",
+      "YYYYMMDD": "20230506"
     },
     {
       "showID": 1,
-      "dateShow": "2023-01-15T19:00:00",
+      "dateShow": "2023-05-08T19:00:00",
       "dateDoors": "",
       "dateLots": "",
-      "timeZone": "America/Cancun",
-      "venue": "Moon Palace",
-      "altName": "Riviera Maya",
-      "notes": "Playing in the Sand",
-      "address": "Cancun-Chetumal km 36.5",
-      "city": "Alfredo Bonfil",
-      "state": "77500 Cancún",
-      "postal": "Q.R.",
-      "country": "Mexico",
-      "phoneNbr": "+52 800 262 9008",
-      "venueURL": "https://www.moonpalace.com/en",
+      "timeZone": "America/New_York",
+      "venue": "Barton Hall",
+      "altName": "Ithaca",
+      "notes": "Benefit for MusicCares & The Cornell 2023 Project",
+      "address": "117 Statler Dr",
+      "city": "Ithaca",
+      "state": "NY",
+      "postal": "14853",
+      "country": "USA",
+      "phoneNbr": "607-255-7775",
+      "venueURL": "https://www.cornell.edu/",
       "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-      "seatingURL": "https://playinginthesand.com/",
-      "lat": "20.98886",
-      "lng": "-86.82904649999999",
+      "seatingURL": "http://theitourapp.com/data/GA.png",
+      "lat": "42.4459411",
+      "lng": "-76.4807287",
       "confidence": "1",
-      "placesPhotoReference": "AW30NDzCpF8mEsSJgZ4SBd6kBxYswXWiiUAiWXdHnQr2UDHvNuab8hUkc3Q9DfrhPpiOld8J7Kz3YJbhw_Sw03nhyid-61R2gtqASfsaBl7lxuGBVZuf1pIdiDp6desUlfBTs1xMHWPkzw5OEKfN2JYqVCHpXvtIhAZX7IHfkBQ02WTyR3v4",
-      "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
-      "dateString": "15",
-      "monthString": "Jan",
-      "title": "Sun, Jan 15",
-      "YYYYMMDD": "20230115"
+      "placesPhotoReference": "AfLeUgMqMIK9Mo-6v3mDoWeiauyRtA8-HRdsQZ0tQnW3vkajo9hnYm08XJxR0lU2gNYL2-bTvtmX57JhjNnFL5aCQEsGmo_yOivf9CIAzbdIcSyGeTXhR8Zzif-3mBsh08B9qDe-wxpxNZIGG4XTbCTsQbEna61uamdjqb9Zc-QiQMwZxCvX",
+      "placesID": "ChIJE-feRouB0IkRgKS5JDCCY04",
+      "dateString": "8",
+      "monthString": "May",
+      "title": "Mon, May 8",
+      "YYYYMMDD": "20230508"
     },
     {
       "showID": 2,
-      "dateShow": "2023-01-16T19:00:00",
-      "dateDoors": "",
-      "dateLots": "",
-      "timeZone": "America/Cancun",
-      "venue": "Moon Palace",
-      "altName": "Riviera Maya",
-      "notes": "Playing in the Sand",
-      "address": "Cancun-Chetumal km 36.5",
-      "city": "Alfredo Bonfil",
-      "state": "77500 Cancún",
-      "postal": "Q.R.",
-      "country": "Mexico",
-      "phoneNbr": "+52 800 262 9008",
-      "venueURL": "https://www.moonpalace.com/en",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-      "seatingURL": "https://playinginthesand.com/",
-      "lat": "20.98886",
-      "lng": "-86.82904649999999",
-      "confidence": "1",
-      "placesPhotoReference": "AW30NDwv3XEXUu29dY3mfH5z4pWg7YAzIVihH2mp33h5tNrSQaGsBTXyzsDbLUaJNGDwhnKEaPe1VVFy_UyN3z4gtmjy3urfNR6fJr4b0ADxGLAwknMaRs6GEZWV3i6cmVCQcdmVai56HYXv9OzYTYaxC_VwWvFG1xtzcLWk-fAVZplfl2rv",
-      "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
-      "dateString": "16",
-      "monthString": "Jan",
-      "title": "Mon, Jan 16",
-      "YYYYMMDD": "20230116"
-    },
-    {
-      "showID": 100,
       "dateShow": "2023-05-19T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1555,7 +1494,7 @@
       "YYYYMMDD": "20230519"
     },
     {
-      "showID": 101,
+      "showID": 3,
       "dateShow": "2023-05-20T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1583,12 +1522,12 @@
       "YYYYMMDD": "20230520"
     },
     {
-      "showID": 102,
+      "showID": 4,
       "dateShow": "2023-05-23T19:00:00",
       "dateDoors": "",
       "dateLots": "",
       "timeZone": "America/Phoenix",
-      "venue": "Ak-Chin Pavilion",
+      "venue": "Talking Stick Resort Amphitheatre",
       "altName": "Phoenix",
       "notes": "Capacity: 20,106",
       "address": "2121 N 83rd Ave",
@@ -1597,7 +1536,7 @@
       "postal": "85035",
       "country": "USA",
       "phoneNbr": "602-254-7200",
-      "venueURL": "https://www.livenation.com/venue/KovZpZAE6vJA/ak-chin-pavilion-events?utm_source=GMBlisting&utm_medium=organic",
+      "venueURL": "https://www.livenation.com/venue/KovZpZAE6vJA/talking-stick-resort-amphitheatre-events",
       "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
       "seatingURL": "https://maps.ticketmaster.com/maps/geometry/3/event/19005D45DEEE36F3/staticImage?type=png&systemId=HOST",
       "lat": "33.4715155",
@@ -1611,7 +1550,7 @@
       "YYYYMMDD": "20230523"
     },
     {
-      "showID": 103,
+      "showID": 5,
       "dateShow": "2023-05-26T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1639,7 +1578,7 @@
       "YYYYMMDD": "20230526"
     },
     {
-      "showID": 104,
+      "showID": 6,
       "dateShow": "2023-05-28T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1667,7 +1606,7 @@
       "YYYYMMDD": "20230528"
     },
     {
-      "showID": 105,
+      "showID": 7,
       "dateShow": "2023-05-30T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1695,7 +1634,7 @@
       "YYYYMMDD": "20230530"
     },
     {
-      "showID": 106,
+      "showID": 8,
       "dateShow": "2023-06-01T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1723,7 +1662,7 @@
       "YYYYMMDD": "20230601"
     },
     {
-      "showID": 107,
+      "showID": 9,
       "dateShow": "2023-06-03T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1751,7 +1690,7 @@
       "YYYYMMDD": "20230603"
     },
     {
-      "showID": 108,
+      "showID": 10,
       "dateShow": "2023-06-05T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1779,7 +1718,7 @@
       "YYYYMMDD": "20230605"
     },
     {
-      "showID": 109,
+      "showID": 11,
       "dateShow": "2023-06-07T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1807,7 +1746,7 @@
       "YYYYMMDD": "20230607"
     },
     {
-      "showID": 110,
+      "showID": 12,
       "dateShow": "2023-06-09T18:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1835,7 +1774,7 @@
       "YYYYMMDD": "20230609"
     },
     {
-      "showID": 111,
+      "showID": 13,
       "dateShow": "2023-06-10T18:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1863,7 +1802,7 @@
       "YYYYMMDD": "20230610"
     },
     {
-      "showID": 112,
+      "showID": 14,
       "dateShow": "2023-06-13T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1891,7 +1830,7 @@
       "YYYYMMDD": "20230613"
     },
     {
-      "showID": 113,
+      "showID": 15,
       "dateShow": "2023-06-15T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1919,7 +1858,7 @@
       "YYYYMMDD": "20230615"
     },
     {
-      "showID": 114,
+      "showID": 16,
       "dateShow": "2023-06-17T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1947,7 +1886,7 @@
       "YYYYMMDD": "20230617"
     },
     {
-      "showID": 115,
+      "showID": 17,
       "dateShow": "2023-06-18T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1975,7 +1914,7 @@
       "YYYYMMDD": "20230618"
     },
     {
-      "showID": 116,
+      "showID": 18,
       "dateShow": "2023-06-21T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2003,7 +1942,7 @@
       "YYYYMMDD": "20230621"
     },
     {
-      "showID": 117,
+      "showID": 19,
       "dateShow": "2023-06-22T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2031,7 +1970,7 @@
       "YYYYMMDD": "20230622"
     },
     {
-      "showID": 118,
+      "showID": 20,
       "dateShow": "2023-06-24T18:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2059,7 +1998,7 @@
       "YYYYMMDD": "20230624"
     },
     {
-      "showID": 119,
+      "showID": 21,
       "dateShow": "2023-06-25T18:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2087,7 +2026,7 @@
       "YYYYMMDD": "20230625"
     },
     {
-      "showID": 120,
+      "showID": 22,
       "dateShow": "2023-06-27T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2115,7 +2054,7 @@
       "YYYYMMDD": "20230627"
     },
     {
-      "showID": 121,
+      "showID": 23,
       "dateShow": "2023-07-01T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2143,7 +2082,7 @@
       "YYYYMMDD": "20230701"
     },
     {
-      "showID": 122,
+      "showID": 24,
       "dateShow": "2023-07-02T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2171,7 +2110,7 @@
       "YYYYMMDD": "20230702"
     },
     {
-      "showID": 123,
+      "showID": 25,
       "dateShow": "2023-07-03T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2199,7 +2138,7 @@
       "YYYYMMDD": "20230703"
     },
     {
-      "showID": 124,
+      "showID": 26,
       "dateShow": "2023-07-07T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2227,7 +2166,7 @@
       "YYYYMMDD": "20230707"
     },
     {
-      "showID": 125,
+      "showID": 27,
       "dateShow": "2023-07-08T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2255,7 +2194,7 @@
       "YYYYMMDD": "20230708"
     },
     {
-      "showID": 126,
+      "showID": 28,
       "dateShow": "2023-07-14T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2283,7 +2222,7 @@
       "YYYYMMDD": "20230714"
     },
     {
-      "showID": 127,
+      "showID": 29,
       "dateShow": "2023-07-15T19:00:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2311,7 +2250,7 @@
       "YYYYMMDD": "20230715"
     },
     {
-      "showID": 128,
+      "showID": 30,
       "dateShow": "2023-07-16T19:00:00",
       "dateDoors": "",
       "dateLots": "",
