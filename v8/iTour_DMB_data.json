@@ -210,35 +210,7 @@
           "YYYYMMDD": "20230523"
         },
         {
-          "showID": 204,
-          "dateShow": "2023-05-23T19:30:00",
-          "dateDoors": "",
-          "dateLots": "",
-          "timeZone": "America/Chicago",
-          "venue": "Walmart AMP",
-          "altName": "Rogers",
-          "notes": "Capacity: 9,500",
-          "address": "5079 W Northgate Rd",
-          "city": "Rogers",
-          "state": "AR",
-          "postal": "72758",
-          "country": "USA",
-          "phoneNbr": "",
-          "venueURL": "https://waltonartscenter.org/amp/",
-          "setlistURL": "https://www.antsmarching.org/tour/ViewShow.php?ShowID=5076",
-          "seatingURL": "https://waltonartscenter.org/globalassets/wac/tnew-images/fy21/amp/seatmap_steelydan.jpg",
-          "lat": "36.302676",
-          "lng": "-94.183726",
-          "confidence": "1",
-          "placesPhotoReference": "AfLeUgPv3ulLxsyQ_sklpe04R8KMHMdFgbdiO98iCSR2zhX5mzsHqJ1mVcGWvO4ClJU2ugiDzWaoq1-d9leN4eqCHgRShy4BVq9JKwv3k9Uhhyi-41Zsz_iokhCQkQeyeP2M8FBSDhg06YaBYbqLHGY_fpSARKRQYmk4jc5IQ_WygdHkr9BH",
-          "placesID": "ChIJOYU0xw0RyYcRVQ5ZK_iFhjg",
-          "dateString": "23",
-          "monthString": "May",
-          "title": "Tue, May 23",
-          "YYYYMMDD": "20230523"
-        },
-        {
-          "showID": 205,
+          "showID": 203,
           "dateShow": "2023-05-24T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -266,7 +238,7 @@
           "YYYYMMDD": "20230524"
         },
         {
-          "showID": 206,
+          "showID": 204,
           "dateShow": "2023-05-26T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -294,7 +266,7 @@
           "YYYYMMDD": "20230526"
         },
         {
-          "showID": 207,
+          "showID": 205,
           "dateShow": "2023-05-27T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -322,7 +294,7 @@
           "YYYYMMDD": "20230527"
         },
         {
-          "showID": 208,
+          "showID": 206,
           "dateShow": "2023-05-30T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -350,7 +322,7 @@
           "YYYYMMDD": "20230530"
         },
         {
-          "showID": 209,
+          "showID": 207,
           "dateShow": "2023-05-31T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -378,7 +350,7 @@
           "YYYYMMDD": "20230531"
         },
         {
-          "showID": 210,
+          "showID": 208,
           "dateShow": "2023-06-02T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -406,7 +378,7 @@
           "YYYYMMDD": "20230602"
         },
         {
-          "showID": 211,
+          "showID": 209,
           "dateShow": "2023-06-03T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -434,7 +406,7 @@
           "YYYYMMDD": "20230603"
         },
         {
-          "showID": 212,
+          "showID": 210,
           "dateShow": "2023-06-09T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -462,7 +434,7 @@
           "YYYYMMDD": "20230609"
         },
         {
-          "showID": 213,
+          "showID": 211,
           "dateShow": "2023-06-10T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -490,7 +462,7 @@
           "YYYYMMDD": "20230610"
         },
         {
-          "showID": 214,
+          "showID": 212,
           "dateShow": "2023-06-11T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -518,7 +490,7 @@
           "YYYYMMDD": "20230611"
         },
         {
-          "showID": 215,
+          "showID": 213,
           "dateShow": "2023-06-14T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -546,7 +518,7 @@
           "YYYYMMDD": "20230614"
         },
         {
-          "showID": 216,
+          "showID": 214,
           "dateShow": "2023-06-16T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -574,7 +546,7 @@
           "YYYYMMDD": "20230616"
         },
         {
-          "showID": 217,
+          "showID": 215,
           "dateShow": "2023-06-17T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -602,7 +574,7 @@
           "YYYYMMDD": "20230617"
         },
         {
-          "showID": 218,
+          "showID": 216,
           "dateShow": "2023-06-23T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -630,7 +602,7 @@
           "YYYYMMDD": "20230623"
         },
         {
-          "showID": 219,
+          "showID": 217,
           "dateShow": "2023-06-24T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -658,7 +630,7 @@
           "YYYYMMDD": "20230624"
         },
         {
-          "showID": 220,
+          "showID": 218,
           "dateShow": "2023-06-27T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -686,7 +658,7 @@
           "YYYYMMDD": "20230627"
         },
         {
-          "showID": 221,
+          "showID": 219,
           "dateShow": "2023-06-29T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -714,7 +686,7 @@
           "YYYYMMDD": "20230629"
         },
         {
-          "showID": 222,
+          "showID": 220,
           "dateShow": "2023-06-30T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -742,7 +714,7 @@
           "YYYYMMDD": "20230630"
         },
         {
-          "showID": 222,
+          "showID": 221,
           "dateShow": "2023-07-01T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -770,7 +742,7 @@
           "YYYYMMDD": "20230701"
         },
         {
-          "showID": 223,
+          "showID": 222,
           "dateShow": "2023-07-07T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -826,7 +798,7 @@
           "YYYYMMDD": "20230708"
         },
         {
-          "showID": 223,
+          "showID": 224,
           "dateShow": "2023-07-11T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -854,7 +826,7 @@
           "YYYYMMDD": "20230711"
         },
         {
-          "showID": 224,
+          "showID": 225,
           "dateShow": "2023-07-12T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -882,7 +854,7 @@
           "YYYYMMDD": "20230712"
         },
         {
-          "showID": 225,
+          "showID": 226,
           "dateShow": "2023-07-14T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -910,7 +882,7 @@
           "YYYYMMDD": "20230714"
         },
         {
-          "showID": 226,
+          "showID": 227,
           "dateShow": "2023-07-15T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -938,7 +910,7 @@
           "YYYYMMDD": "20230715"
         },
         {
-          "showID": 227,
+          "showID": 228,
           "dateShow": "2023-07-18T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -966,7 +938,7 @@
           "YYYYMMDD": "20230718"
         },
         {
-          "showID": 228,
+          "showID": 229,
           "dateShow": "2023-07-19T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -994,7 +966,7 @@
           "YYYYMMDD": "20230719"
         },
         {
-          "showID": 229,
+          "showID": 230,
           "dateShow": "2023-07-21T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1022,7 +994,7 @@
           "YYYYMMDD": "20230721"
         },
         {
-          "showID": 230,
+          "showID": 232,
           "dateShow": "2023-07-22T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1050,7 +1022,7 @@
           "YYYYMMDD": "20230722"
         },
         {
-          "showID": 231,
+          "showID": 233,
           "dateShow": "2023-07-25T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1078,7 +1050,7 @@
           "YYYYMMDD": "20230725"
         },
         {
-          "showID": 232,
+          "showID": 234,
           "dateShow": "2023-07-26T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1106,7 +1078,7 @@
           "YYYYMMDD": "20230726"
         },
         {
-          "showID": 233,
+          "showID": 235,
           "dateShow": "2023-07-28T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1134,7 +1106,7 @@
           "YYYYMMDD": "20230728"
         },
         {
-          "showID": 235,
+          "showID": 236,
           "dateShow": "2023-07-29T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1162,7 +1134,7 @@
           "YYYYMMDD": "20230729"
         },
         {
-          "showID": 236,
+          "showID": 237,
           "dateShow": "2023-08-24T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1190,7 +1162,7 @@
           "YYYYMMDD": "20230824"
         },
         {
-          "showID": 237,
+          "showID": 238,
           "dateShow": "2023-08-25T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1218,7 +1190,7 @@
           "YYYYMMDD": "20230825"
         },
         {
-          "showID": 238,
+          "showID": 239,
           "dateShow": "2023-08-26T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1246,7 +1218,7 @@
           "YYYYMMDD": "20230826"
         },
         {
-          "showID": 239,
+          "showID": 240,
           "dateShow": "2023-08-29T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1274,7 +1246,7 @@
           "YYYYMMDD": "20230829"
         },
         {
-          "showID": 240,
+          "showID": 241,
           "dateShow": "2023-09-01T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1302,7 +1274,7 @@
           "YYYYMMDD": "20230901"
         },
         {
-          "showID": 241,
+          "showID": 242,
           "dateShow": "2023-09-02T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1330,7 +1302,7 @@
           "YYYYMMDD": "20230902"
         },
         {
-          "showID": 242,
+          "showID": 243,
           "dateShow": "2023-09-03T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -1558,35 +1530,7 @@
       "YYYYMMDD": "20230523"
     },
     {
-      "showID": 204,
-      "dateShow": "2023-05-23T19:30:00",
-      "dateDoors": "",
-      "dateLots": "",
-      "timeZone": "America/Chicago",
-      "venue": "Walmart AMP",
-      "altName": "Rogers",
-      "notes": "Capacity: 9,500",
-      "address": "5079 W Northgate Rd",
-      "city": "Rogers",
-      "state": "AR",
-      "postal": "72758",
-      "country": "USA",
-      "phoneNbr": "",
-      "venueURL": "https://waltonartscenter.org/amp/",
-      "setlistURL": "https://www.antsmarching.org/tour/ViewShow.php?ShowID=5076",
-      "seatingURL": "https://waltonartscenter.org/globalassets/wac/tnew-images/fy21/amp/seatmap_steelydan.jpg",
-      "lat": "36.302676",
-      "lng": "-94.183726",
-      "confidence": "1",
-      "placesPhotoReference": "AfLeUgPv3ulLxsyQ_sklpe04R8KMHMdFgbdiO98iCSR2zhX5mzsHqJ1mVcGWvO4ClJU2ugiDzWaoq1-d9leN4eqCHgRShy4BVq9JKwv3k9Uhhyi-41Zsz_iokhCQkQeyeP2M8FBSDhg06YaBYbqLHGY_fpSARKRQYmk4jc5IQ_WygdHkr9BH",
-      "placesID": "ChIJOYU0xw0RyYcRVQ5ZK_iFhjg",
-      "dateString": "23",
-      "monthString": "May",
-      "title": "Tue, May 23",
-      "YYYYMMDD": "20230523"
-    },
-    {
-      "showID": 205,
+      "showID": 203,
       "dateShow": "2023-05-24T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1614,7 +1558,7 @@
       "YYYYMMDD": "20230524"
     },
     {
-      "showID": 206,
+      "showID": 204,
       "dateShow": "2023-05-26T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1642,7 +1586,7 @@
       "YYYYMMDD": "20230526"
     },
     {
-      "showID": 207,
+      "showID": 205,
       "dateShow": "2023-05-27T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1670,7 +1614,7 @@
       "YYYYMMDD": "20230527"
     },
     {
-      "showID": 208,
+      "showID": 206,
       "dateShow": "2023-05-30T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1698,7 +1642,7 @@
       "YYYYMMDD": "20230530"
     },
     {
-      "showID": 209,
+      "showID": 207,
       "dateShow": "2023-05-31T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1726,7 +1670,7 @@
       "YYYYMMDD": "20230531"
     },
     {
-      "showID": 210,
+      "showID": 208,
       "dateShow": "2023-06-02T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1754,7 +1698,7 @@
       "YYYYMMDD": "20230602"
     },
     {
-      "showID": 211,
+      "showID": 209,
       "dateShow": "2023-06-03T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1782,7 +1726,7 @@
       "YYYYMMDD": "20230603"
     },
     {
-      "showID": 212,
+      "showID": 210,
       "dateShow": "2023-06-09T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1810,7 +1754,7 @@
       "YYYYMMDD": "20230609"
     },
     {
-      "showID": 213,
+      "showID": 211,
       "dateShow": "2023-06-10T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1838,7 +1782,7 @@
       "YYYYMMDD": "20230610"
     },
     {
-      "showID": 214,
+      "showID": 212,
       "dateShow": "2023-06-11T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1866,7 +1810,7 @@
       "YYYYMMDD": "20230611"
     },
     {
-      "showID": 215,
+      "showID": 213,
       "dateShow": "2023-06-14T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1894,7 +1838,7 @@
       "YYYYMMDD": "20230614"
     },
     {
-      "showID": 216,
+      "showID": 214,
       "dateShow": "2023-06-16T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1922,7 +1866,7 @@
       "YYYYMMDD": "20230616"
     },
     {
-      "showID": 217,
+      "showID": 215,
       "dateShow": "2023-06-17T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1950,7 +1894,7 @@
       "YYYYMMDD": "20230617"
     },
     {
-      "showID": 218,
+      "showID": 216,
       "dateShow": "2023-06-23T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -1978,7 +1922,7 @@
       "YYYYMMDD": "20230623"
     },
     {
-      "showID": 219,
+      "showID": 217,
       "dateShow": "2023-06-24T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2006,7 +1950,7 @@
       "YYYYMMDD": "20230624"
     },
     {
-      "showID": 220,
+      "showID": 218,
       "dateShow": "2023-06-27T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2034,7 +1978,7 @@
       "YYYYMMDD": "20230627"
     },
     {
-      "showID": 221,
+      "showID": 219,
       "dateShow": "2023-06-29T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2062,7 +2006,7 @@
       "YYYYMMDD": "20230629"
     },
     {
-      "showID": 222,
+      "showID": 220,
       "dateShow": "2023-06-30T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2090,7 +2034,7 @@
       "YYYYMMDD": "20230630"
     },
     {
-      "showID": 222,
+      "showID": 221,
       "dateShow": "2023-07-01T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2118,7 +2062,7 @@
       "YYYYMMDD": "20230701"
     },
     {
-      "showID": 223,
+      "showID": 222,
       "dateShow": "2023-07-07T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2174,7 +2118,7 @@
       "YYYYMMDD": "20230708"
     },
     {
-      "showID": 223,
+      "showID": 224,
       "dateShow": "2023-07-11T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2202,7 +2146,7 @@
       "YYYYMMDD": "20230711"
     },
     {
-      "showID": 224,
+      "showID": 225,
       "dateShow": "2023-07-12T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2230,7 +2174,7 @@
       "YYYYMMDD": "20230712"
     },
     {
-      "showID": 225,
+      "showID": 226,
       "dateShow": "2023-07-14T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2258,7 +2202,7 @@
       "YYYYMMDD": "20230714"
     },
     {
-      "showID": 226,
+      "showID": 227,
       "dateShow": "2023-07-15T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2286,7 +2230,7 @@
       "YYYYMMDD": "20230715"
     },
     {
-      "showID": 227,
+      "showID": 228,
       "dateShow": "2023-07-18T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2314,7 +2258,7 @@
       "YYYYMMDD": "20230718"
     },
     {
-      "showID": 228,
+      "showID": 229,
       "dateShow": "2023-07-19T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2342,7 +2286,7 @@
       "YYYYMMDD": "20230719"
     },
     {
-      "showID": 229,
+      "showID": 230,
       "dateShow": "2023-07-21T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2370,7 +2314,7 @@
       "YYYYMMDD": "20230721"
     },
     {
-      "showID": 230,
+      "showID": 232,
       "dateShow": "2023-07-22T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2398,7 +2342,7 @@
       "YYYYMMDD": "20230722"
     },
     {
-      "showID": 231,
+      "showID": 233,
       "dateShow": "2023-07-25T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2426,7 +2370,7 @@
       "YYYYMMDD": "20230725"
     },
     {
-      "showID": 232,
+      "showID": 234,
       "dateShow": "2023-07-26T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2454,7 +2398,7 @@
       "YYYYMMDD": "20230726"
     },
     {
-      "showID": 233,
+      "showID": 235,
       "dateShow": "2023-07-28T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2482,7 +2426,7 @@
       "YYYYMMDD": "20230728"
     },
     {
-      "showID": 235,
+      "showID": 236,
       "dateShow": "2023-07-29T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2510,7 +2454,7 @@
       "YYYYMMDD": "20230729"
     },
     {
-      "showID": 236,
+      "showID": 237,
       "dateShow": "2023-08-24T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2538,7 +2482,7 @@
       "YYYYMMDD": "20230824"
     },
     {
-      "showID": 237,
+      "showID": 238,
       "dateShow": "2023-08-25T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2566,7 +2510,7 @@
       "YYYYMMDD": "20230825"
     },
     {
-      "showID": 238,
+      "showID": 239,
       "dateShow": "2023-08-26T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2594,7 +2538,7 @@
       "YYYYMMDD": "20230826"
     },
     {
-      "showID": 239,
+      "showID": 240,
       "dateShow": "2023-08-29T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2622,7 +2566,7 @@
       "YYYYMMDD": "20230829"
     },
     {
-      "showID": 240,
+      "showID": 241,
       "dateShow": "2023-09-01T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2650,7 +2594,7 @@
       "YYYYMMDD": "20230901"
     },
     {
-      "showID": 241,
+      "showID": 242,
       "dateShow": "2023-09-02T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -2678,7 +2622,7 @@
       "YYYYMMDD": "20230902"
     },
     {
-      "showID": 242,
+      "showID": 243,
       "dateShow": "2023-09-03T19:30:00",
       "dateDoors": "",
       "dateLots": "",
