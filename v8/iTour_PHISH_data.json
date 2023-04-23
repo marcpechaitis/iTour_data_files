@@ -318,8 +318,8 @@
         },
         {
           "showID": 107,
-          "dateShow": "2023-04-23T19:00:00",
-          "dateDoors": "2023-04-23T17:00:00",
+          "dateShow": "2023-04-23T18:30:00",
+          "dateDoors": "2023-04-23T16:30:00",
           "dateLots": "",
           "timeZone": "America/Los_Angeles",
           "venue": "Hollywood Bowl",
@@ -1307,8 +1307,8 @@
     },
     {
       "showID": 107,
-      "dateShow": "2023-04-23T19:00:00",
-      "dateDoors": "2023-04-23T17:00:00",
+      "dateShow": "2023-04-23T18:30:00",
+      "dateDoors": "2023-04-23T16:30:00",
       "dateLots": "",
       "timeZone": "America/Los_Angeles",
       "venue": "Hollywood Bowl",
