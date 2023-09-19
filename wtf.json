@@ -1,0 +1,30 @@
+[
+  {
+    "showID": 203,
+    "dateShow": "2024-02-24T20:30:00",
+    "dateDoors": "2024-02-24T19:00:00",
+    "dateLots": "",
+    "timeZone": "America/Cancun",
+    "venue": "Moon Palace",
+    "altName": "Riviera Maya",
+    "notes": "One Set",
+    "address": "Cancun-Chetumal km 36.5",
+    "city": "Alfredo Bonfil",
+    "state": "77500 Cancún",
+    "postal": "Q.R.",
+    "country": "Mexico",
+    "phoneNbr": "+52 800 262 9008",
+    "venueURL": "https://www.moonpalace.com/en",
+    "setlistURL": "http://phish.net/setlists/?d=2024-02-24",
+    "seatingURL": "https://www.phishrivieramaya.com/activity-schedule/",
+    "lat": "18.5001889",
+    "lng": "-88.296146",
+    "confidence": "0.5",
+    "placesPhotoReference": "ATJ83zg8U676-WOGt47JYKBMabMD381ndQDqUNmqFBX6I-aOh7fKRIvC5w6qOnUbMiHjUwQh018DgkzfjGNfaZe44U8NiTZl3yHDzQkP5MHgA8Wp_YZVnbRzkvVRICk1KUVO5TgecPjbXy717BmOeXp3rRxMSVLwjJaiuBcjpOa_vPixugM",
+    "placesID": "",
+    "dateString": "24",
+    "monthString": "Feb",
+    "title": "Sat, Feb 24",
+    "YYYYMMDD": "20240224"
+  }
+]
