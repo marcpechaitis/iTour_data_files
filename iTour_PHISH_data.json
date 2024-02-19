@@ -1,7 +1,7 @@
 [
   {
     "showID": 0,
-    "dateShow": "2024-02-21T20:30:00",
+    "dateShow": "2024-02-21T21:00:00",
     "dateDoors": "2024-02-21T19:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
@@ -29,8 +29,8 @@
   },
   {
     "showID": 1,
-    "dateShow": "2024-02-22T20:30:00",
-    "dateDoors": "2024-02-22T19:00:00",
+    "dateShow": "2024-02-22T19:30:00",
+    "dateDoors": "2024-02-22T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -57,8 +57,8 @@
   },
   {
     "showID": 2,
-    "dateShow": "2024-02-23T20:30:00",
-    "dateDoors": "2024-02-23T19:00:00",
+    "dateShow": "2024-02-23T19:30:00",
+    "dateDoors": "2024-02-23T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -85,8 +85,8 @@
   },
   {
     "showID": 3,
-    "dateShow": "2024-02-24T20:30:00",
-    "dateDoors": "2024-02-24T19:00:00",
+    "dateShow": "2024-02-24T18:00:00",
+    "dateDoors": "2024-02-24T16:30:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
