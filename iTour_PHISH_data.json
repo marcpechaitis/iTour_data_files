@@ -1,117 +1,5 @@
 [
   {
-    "showID": 0,
-    "dateShow": "2024-04-18T19:30:00",
-    "dateDoors": "2024-02-18T18:00:00",
-    "dateLots": "",
-    "timeZone": "America/Los_Angeles",
-    "venue": "Sphere",
-    "altName": "Las Vegas",
-    "notes": "Capacity: 18,600",
-    "address": "255 Sands Ave",
-    "city": "Las Vegas",
-    "state": "NV",
-    "postal": "89169",
-    "country": "USA",
-    "phoneNbr": "725-258-0001",
-    "venueURL": "https://www.thespherevegas.com/",
-    "setlistURL": "http://phish.net/setlists/?d=2024-04-18",
-    "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
-    "lat": "36.121217",
-    "lng": "-115.1620404",
-    "confidence": "1",
-    "placesPhotoReference": "AWU5eFi_TmvYCvQpGgnH6DQk9dMej9iQ9OSMAREKTIwIZG7IOnyzNXeWe_VEEQn5JTgnZCgYS4aTqU6TdQgUI1-Kla8lFmTq1rT9JhWwS7LgeEulVILAfYG_iis4bN8UBRcbHI7gsRf37kzemGfC8m0bfvA_O7LX8tLyCXHCn4aMfJ3V1B98",
-    "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
-    "dateString": "18",
-    "monthString": "Apr",
-    "title": "Thu, Apr 18",
-    "YYYYMMDD": "20240418"
-  },
-  {
-    "showID": 1,
-    "dateShow": "2024-04-19T19:30:00",
-    "dateDoors": "2024-02-19T18:00:00",
-    "dateLots": "",
-    "timeZone": "America/Los_Angeles",
-    "venue": "Sphere",
-    "altName": "Las Vegas",
-    "notes": "Capacity: 18,600",
-    "address": "255 Sands Ave",
-    "city": "Las Vegas",
-    "state": "NV",
-    "postal": "89169",
-    "country": "USA",
-    "phoneNbr": "725-258-0001",
-    "venueURL": "https://www.thespherevegas.com/",
-    "setlistURL": "http://phish.net/setlists/?d=2024-04-19",
-    "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
-    "lat": "36.121217",
-    "lng": "-115.1620404",
-    "confidence": "1",
-    "placesPhotoReference": "AWU5eFi9DR9YLOHX3GNbjJnRqfFquobt8kHPxt9LRIoP7N7DmBrYrAbwIVNX1eJHvyg9jhh3DXWomsh98BGlWnL7NXI13Gd2rvne9pP8eBQF2HH5cqwhjX1UWWSf2p2X7F5_1r-0-G9oAPKiblxcgNCuleNFCiJRjlsOHYa033fmkLkPrxm9",
-    "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
-    "dateString": "19",
-    "monthString": "Apr",
-    "title": "Fri, Apr 19",
-    "YYYYMMDD": "20240419"
-  },
-  {
-    "showID": 2,
-    "dateShow": "2024-04-20T19:30:00",
-    "dateDoors": "2024-02-20T18:00:00",
-    "dateLots": "",
-    "timeZone": "America/Los_Angeles",
-    "venue": "Sphere",
-    "altName": "Las Vegas",
-    "notes": "Capacity: 18,600",
-    "address": "255 Sands Ave",
-    "city": "Las Vegas",
-    "state": "NV",
-    "postal": "89169",
-    "country": "USA",
-    "phoneNbr": "725-258-0001",
-    "venueURL": "https://www.thespherevegas.com/",
-    "setlistURL": "http://phish.net/setlists/?d=2024-04-20",
-    "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
-    "lat": "36.121217",
-    "lng": "-115.1620404",
-    "confidence": "1",
-    "placesPhotoReference": "AWU5eFifpf2p-aMFc9jM7h1NJoPk87nolu1nhPIuTBF_F-lghEXSew4hVzCRwrlnYhQASKUcqDwzkbnsgGNFtixL_CVV1JQEO6LCKtttUDFuOuAU7bzD3m0eay_Q_Uv0c72Cif6MF8ppVIBac_ED4nLFHavL5mrCw_NDgNc5NgrypAH0-ctv",
-    "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
-    "dateString": "20",
-    "monthString": "Apr",
-    "title": "Sat, Apr 20",
-    "YYYYMMDD": "20240420"
-  },
-  {
-    "showID": 3,
-    "dateShow": "2024-04-21T19:30:00",
-    "dateDoors": "2024-02-21T18:00:00",
-    "dateLots": "",
-    "timeZone": "America/Los_Angeles",
-    "venue": "Sphere",
-    "altName": "Las Vegas",
-    "notes": "Capacity: 18,600",
-    "address": "255 Sands Ave",
-    "city": "Las Vegas",
-    "state": "NV",
-    "postal": "89169",
-    "country": "USA",
-    "phoneNbr": "725-258-0001",
-    "venueURL": "https://www.thespherevegas.com/",
-    "setlistURL": "http://phish.net/setlists/?d=2024-04-21",
-    "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
-    "lat": "36.121217",
-    "lng": "-115.1620404",
-    "confidence": "1",
-    "placesPhotoReference": "AWU5eFifpf2p-aMFc9jM7h1NJoPk87nolu1nhPIuTBF_F-lghEXSew4hVzCRwrlnYhQASKUcqDwzkbnsgGNFtixL_CVV1JQEO6LCKtttUDFuOuAU7bzD3m0eay_Q_Uv0c72Cif6MF8ppVIBac_ED4nLFHavL5mrCw_NDgNc5NgrypAH0-ctv",
-    "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
-    "dateString": "21",
-    "monthString": "Apr",
-    "title": "Sun, Apr 21",
-    "YYYYMMDD": "20240421"
-  },
-  {
     "showID": 100,
     "dateShow": "2024-07-19T19:30:00",
     "dateDoors": "2024-07-19T18:00:00",
@@ -168,7 +56,7 @@
     "YYYYMMDD": "20240720"
   },
   {
-    "showID": 101,
+    "showID": 102,
     "dateShow": "2024-07-21T19:30:00",
     "dateDoors": "2024-07-21T18:00:00",
     "dateLots": "",
@@ -196,7 +84,7 @@
     "YYYYMMDD": "20240721"
   },
   {
-    "showID": 102,
+    "showID": 103,
     "dateShow": "2024-07-23T19:30:00",
     "dateDoors": "2024-07-23T18:00:00",
     "dateLots": "",
@@ -224,7 +112,7 @@
     "YYYYMMDD": "20240723"
   },
   {
-    "showID": 103,
+    "showID": 104,
     "dateShow": "2024-07-24T19:30:00",
     "dateDoors": "2024-07-24T18:00:00",
     "dateLots": "",
@@ -252,7 +140,7 @@
     "YYYYMMDD": "20240724"
   },
   {
-    "showID": 104,
+    "showID": 105,
     "dateShow": "2024-07-26T19:30:00",
     "dateDoors": "2024-07-26T18:00:00",
     "dateLots": "",
@@ -280,7 +168,7 @@
     "YYYYMMDD": "20240726"
   },
   {
-    "showID": 105,
+    "showID": 106,
     "dateShow": "2024-07-27T19:30:00",
     "dateDoors": "2024-07-27T18:00:00",
     "dateLots": "",
@@ -308,7 +196,7 @@
     "YYYYMMDD": "20240727"
   },
   {
-    "showID": 106,
+    "showID": 107,
     "dateShow": "2024-07-28T19:30:00",
     "dateDoors": "2024-07-28T18:00:00",
     "dateLots": "",
@@ -336,7 +224,7 @@
     "YYYYMMDD": "20240728"
   },
   {
-    "showID": 107,
+    "showID": 108,
     "dateShow": "2024-07-30T19:30:00",
     "dateDoors": "2024-07-30T18:00:00",
     "dateLots": "",
@@ -364,7 +252,7 @@
     "YYYYMMDD": "20240730"
   },
   {
-    "showID": 108,
+    "showID": 109,
     "dateShow": "2024-07-31T19:30:00",
     "dateDoors": "2024-07-31T18:00:00",
     "dateLots": "",
@@ -392,7 +280,7 @@
     "YYYYMMDD": "20240731"
   },
   {
-    "showID": 109,
+    "showID": 110,
     "dateShow": "2024-08-02T19:30:00",
     "dateDoors": "2024-08-02T18:00:00",
     "dateLots": "",
@@ -420,7 +308,7 @@
     "YYYYMMDD": "20240802"
   },
   {
-    "showID": 110,
+    "showID": 111,
     "dateShow": "2024-08-03T19:30:00",
     "dateDoors": "2024-08-03T18:00:00",
     "dateLots": "",
@@ -448,7 +336,7 @@
     "YYYYMMDD": "20240803"
   },
   {
-    "showID": 111,
+    "showID": 112,
     "dateShow": "2024-08-04T19:30:00",
     "dateDoors": "2024-08-04T18:00:00",
     "dateLots": "",
@@ -476,7 +364,7 @@
     "YYYYMMDD": "20240804"
   },
   {
-    "showID": 112,
+    "showID": 113,
     "dateShow": "2024-08-06T19:30:00",
     "dateDoors": "2024-08-06T18:00:00",
     "dateLots": "",
@@ -504,7 +392,7 @@
     "YYYYMMDD": "20240806"
   },
   {
-    "showID": 113,
+    "showID": 114,
     "dateShow": "2024-08-07T19:30:00",
     "dateDoors": "2024-08-07T18:00:00",
     "dateLots": "",
@@ -532,7 +420,7 @@
     "YYYYMMDD": "20240807"
   },
   {
-    "showID": 114,
+    "showID": 115,
     "dateShow": "2024-08-09T19:30:00",
     "dateDoors": "2024-08-09T18:00:00",
     "dateLots": "",
@@ -560,7 +448,7 @@
     "YYYYMMDD": "20240809"
   },
   {
-    "showID": 115,
+    "showID": 116,
     "dateShow": "2024-08-10T19:30:00",
     "dateDoors": "2024-08-10T18:00:00",
     "dateLots": "",
@@ -588,7 +476,7 @@
     "YYYYMMDD": "20240810"
   },
   {
-    "showID": 116,
+    "showID": 117,
     "dateShow": "2024-08-11T19:30:00",
     "dateDoors": "2024-08-11T18:00:00",
     "dateLots": "",
@@ -616,7 +504,7 @@
     "YYYYMMDD": "20240811"
   },
   {
-    "showID": 117,
+    "showID": 118,
     "dateShow": "2024-08-15T19:30:00",
     "dateDoors": "2024-08-15T18:00:00",
     "dateLots": "",
@@ -644,7 +532,7 @@
     "YYYYMMDD": "20240815"
   },
   {
-    "showID": 118,
+    "showID": 119,
     "dateShow": "2024-08-16T19:30:00",
     "dateDoors": "2024-08-16T18:00:00",
     "dateLots": "",
@@ -672,7 +560,7 @@
     "YYYYMMDD": "20240816"
   },
   {
-    "showID": 119,
+    "showID": 120,
     "dateShow": "2024-08-17T19:30:00",
     "dateDoors": "2024-08-17T18:00:00",
     "dateLots": "",
@@ -700,7 +588,7 @@
     "YYYYMMDD": "20240817"
   },
   {
-    "showID": 120,
+    "showID": 121,
     "dateShow": "2024-08-18T19:30:00",
     "dateDoors": "2024-08-18T18:00:00",
     "dateLots": "",
@@ -728,7 +616,7 @@
     "YYYYMMDD": "20240818"
   },
   {
-    "showID": 121,
+    "showID": 122,
     "dateShow": "2024-08-29T19:30:00",
     "dateDoors": "2024-08-29T18:00:00",
     "dateLots": "",
@@ -756,7 +644,7 @@
     "YYYYMMDD": "20240829"
   },
   {
-    "showID": 122,
+    "showID": 123,
     "dateShow": "2024-08-30T19:30:00",
     "dateDoors": "2024-08-30T18:00:00",
     "dateLots": "",
@@ -784,7 +672,7 @@
     "YYYYMMDD": "20240830"
   },
   {
-    "showID": 123,
+    "showID": 124,
     "dateShow": "2024-08-31T19:30:00",
     "dateDoors": "2024-08-31T18:00:00",
     "dateLots": "",
@@ -812,7 +700,7 @@
     "YYYYMMDD": "20240831"
   },
   {
-    "showID": 124,
+    "showID": 125,
     "dateShow": "2024-09-01T19:30:00",
     "dateDoors": "2024-09-01T18:00:00",
     "dateLots": "",
