@@ -593,8 +593,8 @@
         },
         {
           "showID": 121,
-          "dateShow": "2024-08-18T18:30:00",
-          "dateDoors": "2024-08-18T17:00:00",
+          "dateShow": "2024-08-18T13:00:00",
+          "dateDoors": "2024-08-18T11:30:00",
           "dateLots": "",
           "timeZone": "America/New_York",
           "venue": "The Woodlands",
@@ -1325,8 +1325,8 @@
     },
     {
       "showID": 121,
-      "dateShow": "2024-08-18T18:30:00",
-      "dateDoors": "2024-08-18T17:00:00",
+      "dateShow": "2024-08-18T13:00:00",
+      "dateDoors": "2024-08-18T11:30:00",
       "dateLots": "",
       "timeZone": "America/New_York",
       "venue": "The Woodlands",
