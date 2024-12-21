@@ -145,34 +145,6 @@
         },
         {
           "showID": 5,
-          "dateShow": "2025-03-28T19:30:00",
-          "dateDoors": "",
-          "dateLots": "",
-          "timeZone": "America/Los_Angeles",
-          "venue": "Sphere",
-          "altName": "Las Vegas",
-          "notes": "Capacity: 18,600",
-          "address": "255 Sands Ave",
-          "city": "Las Vegas",
-          "state": "NV",
-          "postal": "89169",
-          "country": "USA",
-          "phoneNbr": "725-258-0001",
-          "venueURL": "https://www.thespherevegas.com/",
-          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-          "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
-          "lat": "36.121217",
-          "lng": "-115.1620404",
-          "confidence": "1",
-          "placesPhotoReference": "AWYs27xrVRVUXLaweLwjK84mdmB3uhAF78XuUXqlFLkjPOh2Py8mCSVHzUzt2gy-aCvuxOdAj1S-GkzWISLPA2sbmwYHQpKKX3reALvbHIFy2-LYa5Pr5ao67xalICyyjCwzNRLxjK6_mIuMzAYuva_PkdAkyMroQ95sGDeh4sWK3-ePVfd_",
-          "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
-          "dateString": "28",
-          "monthString": "Mar",
-          "title": "Fri, Mar 28",
-          "YYYYMMDD": "20250328"
-        },
-        {
-          "showID": 6,
           "dateShow": "2025-03-29T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -200,7 +172,7 @@
           "YYYYMMDD": "20250329"
         },
         {
-          "showID": 7,
+          "showID": 6,
           "dateShow": "2025-04-17T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -228,7 +200,7 @@
           "YYYYMMDD": "20250417"
         },
         {
-          "showID": 8,
+          "showID": 7,
           "dateShow": "2025-04-18T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -256,7 +228,7 @@
           "YYYYMMDD": "20250418"
         },
         {
-          "showID": 9,
+          "showID": 8,
           "dateShow": "2025-04-19T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -284,7 +256,7 @@
           "YYYYMMDD": "20250419"
         },
         {
-          "showID": 10,
+          "showID": 9,
           "dateShow": "2025-04-24T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -312,7 +284,7 @@
           "YYYYMMDD": "20250424"
         },
         {
-          "showID": 11,
+          "showID": 10,
           "dateShow": "2025-04-25T19:30:00",
           "dateDoors": "",
           "dateLots": "",
@@ -338,6 +310,34 @@
           "monthString": "Apr",
           "title": "Fri, Apr 25",
           "YYYYMMDD": "20250425"
+        },
+        {
+          "showID": 11,
+          "dateShow": "2025-04-26T19:30:00",
+          "dateDoors": "",
+          "dateLots": "",
+          "timeZone": "America/Los_Angeles",
+          "venue": "Sphere",
+          "altName": "Las Vegas",
+          "notes": "Capacity: 18,600",
+          "address": "255 Sands Ave",
+          "city": "Las Vegas",
+          "state": "NV",
+          "postal": "89169",
+          "country": "USA",
+          "phoneNbr": "725-258-0001",
+          "venueURL": "https://www.thespherevegas.com/",
+          "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+          "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
+          "lat": "36.121217",
+          "lng": "-115.1620404",
+          "confidence": "1",
+          "placesPhotoReference": "AWYs27xrVRVUXLaweLwjK84mdmB3uhAF78XuUXqlFLkjPOh2Py8mCSVHzUzt2gy-aCvuxOdAj1S-GkzWISLPA2sbmwYHQpKKX3reALvbHIFy2-LYa5Pr5ao67xalICyyjCwzNRLxjK6_mIuMzAYuva_PkdAkyMroQ95sGDeh4sWK3-ePVfd_",
+          "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
+          "dateString": "26",
+          "monthString": "Apr",
+          "title": "Sat, Apr 26",
+          "YYYYMMDD": "20250426"
         },
         {
           "showID": 12,
@@ -653,34 +653,6 @@
     },
     {
       "showID": 5,
-      "dateShow": "2025-03-28T19:30:00",
-      "dateDoors": "",
-      "dateLots": "",
-      "timeZone": "America/Los_Angeles",
-      "venue": "Sphere",
-      "altName": "Las Vegas",
-      "notes": "Capacity: 18,600",
-      "address": "255 Sands Ave",
-      "city": "Las Vegas",
-      "state": "NV",
-      "postal": "89169",
-      "country": "USA",
-      "phoneNbr": "725-258-0001",
-      "venueURL": "https://www.thespherevegas.com/",
-      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
-      "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
-      "lat": "36.121217",
-      "lng": "-115.1620404",
-      "confidence": "1",
-      "placesPhotoReference": "AWYs27xrVRVUXLaweLwjK84mdmB3uhAF78XuUXqlFLkjPOh2Py8mCSVHzUzt2gy-aCvuxOdAj1S-GkzWISLPA2sbmwYHQpKKX3reALvbHIFy2-LYa5Pr5ao67xalICyyjCwzNRLxjK6_mIuMzAYuva_PkdAkyMroQ95sGDeh4sWK3-ePVfd_",
-      "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
-      "dateString": "28",
-      "monthString": "Mar",
-      "title": "Fri, Mar 28",
-      "YYYYMMDD": "20250328"
-    },
-    {
-      "showID": 6,
       "dateShow": "2025-03-29T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -708,7 +680,7 @@
       "YYYYMMDD": "20250329"
     },
     {
-      "showID": 7,
+      "showID": 6,
       "dateShow": "2025-04-17T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -736,7 +708,7 @@
       "YYYYMMDD": "20250417"
     },
     {
-      "showID": 8,
+      "showID": 7,
       "dateShow": "2025-04-18T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -764,7 +736,7 @@
       "YYYYMMDD": "20250418"
     },
     {
-      "showID": 9,
+      "showID": 8,
       "dateShow": "2025-04-19T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -792,7 +764,7 @@
       "YYYYMMDD": "20250419"
     },
     {
-      "showID": 10,
+      "showID": 9,
       "dateShow": "2025-04-24T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -820,7 +792,7 @@
       "YYYYMMDD": "20250424"
     },
     {
-      "showID": 11,
+      "showID": 10,
       "dateShow": "2025-04-25T19:30:00",
       "dateDoors": "",
       "dateLots": "",
@@ -846,6 +818,34 @@
       "monthString": "Apr",
       "title": "Fri, Apr 25",
       "YYYYMMDD": "20250425"
+    },
+    {
+      "showID": 11,
+      "dateShow": "2025-04-26T19:30:00",
+      "dateDoors": "",
+      "dateLots": "",
+      "timeZone": "America/Los_Angeles",
+      "venue": "Sphere",
+      "altName": "Las Vegas",
+      "notes": "Capacity: 18,600",
+      "address": "255 Sands Ave",
+      "city": "Las Vegas",
+      "state": "NV",
+      "postal": "89169",
+      "country": "USA",
+      "phoneNbr": "725-258-0001",
+      "venueURL": "https://www.thespherevegas.com/",
+      "setlistURL": "https://www.setlist.fm/setlists/dead-and-company-2bc42076.html",
+      "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
+      "lat": "36.121217",
+      "lng": "-115.1620404",
+      "confidence": "1",
+      "placesPhotoReference": "AWYs27xrVRVUXLaweLwjK84mdmB3uhAF78XuUXqlFLkjPOh2Py8mCSVHzUzt2gy-aCvuxOdAj1S-GkzWISLPA2sbmwYHQpKKX3reALvbHIFy2-LYa5Pr5ao67xalICyyjCwzNRLxjK6_mIuMzAYuva_PkdAkyMroQ95sGDeh4sWK3-ePVfd_",
+      "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
+      "dateString": "26",
+      "monthString": "Apr",
+      "title": "Sat, Apr 26",
+      "YYYYMMDD": "20250426"
     },
     {
       "showID": 12,
