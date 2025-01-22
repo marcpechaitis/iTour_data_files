@@ -89,8 +89,8 @@
         },
         {
           "showID": 3,
-          "dateShow": "2025-02-01T19:30:00",
-          "dateDoors": "2025-02-01T18:00:00",
+          "dateShow": "2025-02-01T18:00:00",
+          "dateDoors": "2025-02-01T16:30:00",
           "dateLots": "",
           "timeZone": "America/Cancun",
           "venue": "Moon Palace",
@@ -434,8 +434,8 @@
     },
     {
       "showID": 3,
-      "dateShow": "2025-02-01T19:30:00",
-      "dateDoors": "2025-02-01T18:00:00",
+      "dateShow": "2025-02-01T18:00:00",
+      "dateDoors": "2025-02-01T16:30:00",
       "dateLots": "",
       "timeZone": "America/Cancun",
       "venue": "Moon Palace",
