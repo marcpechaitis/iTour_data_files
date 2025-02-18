@@ -402,34 +402,6 @@
         },
         {
           "showID": 106,
-          "dateShow": "2025-07-03T19:30:00",
-          "dateDoors": "2025-07-03T18:00:00",
-          "dateLots": "",
-          "timeZone": "America/Denver",
-          "venue": "Folsom Field",
-          "altName": "Boulder",
-          "notes": "Capacity: 50,183",
-          "address": "2400 Colorado Ave",
-          "city": "Boulder",
-          "state": "CO",
-          "postal": "80305",
-          "country": "USA",
-          "phoneNbr": "",
-          "venueURL": "https://cubuffs.com/facilities/folsom-field/1",
-          "setlistURL": "http://phish.net/setlists/?d=2025-07-03",
-          "seatingURL": "https://cu_ftp.sidearmsports.com/custompages/www.cubuffs.com/fls/600/tickets/folsom_information_map.pdf",
-          "lat": "40.009472",
-          "lng": "-105.2668869",
-          "confidence": "1",
-          "placesPhotoReference": "AVzFdbn1sFXMDX2YoYYAPmhzqDHkVuNGYXbMlDRKk6yOyNstfivhUhhGt2iomFcORKJFv8OQ9ndQ3p9d4bondS6Gvnk_uYQgr3zlpRtk0o4NmCTTrqfn0xXRa0Kjhs22RKwkBGe7jjZIQr6ML7AnQFeigoDWfo7f8KTpLA_JqZ0a2fKbbCEWz2xxROXs",
-          "placesID": "ChIJ4bbaBcnta4cR0LKO770ALRQ",
-          "dateString": "3",
-          "monthString": "Jul",
-          "title": "Thu, Jul 3",
-          "YYYYMMDD": "20250703"
-        },
-        {
-          "showID": 107,
           "dateShow": "2025-07-04T19:30:00",
           "dateDoors": "2025-07-04T18:00:00",
           "dateLots": "",
@@ -457,7 +429,7 @@
           "YYYYMMDD": "20250704"
         },
         {
-          "showID": 108,
+          "showID": 107,
           "dateShow": "2025-07-05T19:30:00",
           "dateDoors": "2025-07-05T18:00:00",
           "dateLots": "",
@@ -485,7 +457,7 @@
           "YYYYMMDD": "20250705"
         },
         {
-          "showID": 109,
+          "showID": 108,
           "dateShow": "2025-07-09T19:30:00",
           "dateDoors": "2025-07-09T18:00:00",
           "dateLots": "",
@@ -513,7 +485,7 @@
           "YYYYMMDD": "20250709"
         },
         {
-          "showID": 110,
+          "showID": 109,
           "dateShow": "2025-07-11T19:30:00",
           "dateDoors": "2025-07-11T18:00:00",
           "dateLots": "",
@@ -541,7 +513,7 @@
           "YYYYMMDD": "20250711"
         },
         {
-          "showID": 111,
+          "showID": 110,
           "dateShow": "2025-07-12T19:30:00",
           "dateDoors": "2025-07-12T18:00:00",
           "dateLots": "",
@@ -569,7 +541,7 @@
           "YYYYMMDD": "20250712"
         },
         {
-          "showID": 112,
+          "showID": 111,
           "dateShow": "2025-07-13T19:30:00",
           "dateDoors": "2025-07-13T18:00:00",
           "dateLots": "",
@@ -597,7 +569,7 @@
           "YYYYMMDD": "20250713"
         },
         {
-          "showID": 113,
+          "showID": 112,
           "dateShow": "2025-07-15T19:30:00",
           "dateDoors": "2025-07-15T18:00:00",
           "dateLots": "",
@@ -625,7 +597,7 @@
           "YYYYMMDD": "20250715"
         },
         {
-          "showID": 114,
+          "showID": 113,
           "dateShow": "2025-07-16T19:30:00",
           "dateDoors": "2025-07-16T18:00:00",
           "dateLots": "",
@@ -653,7 +625,7 @@
           "YYYYMMDD": "20250716"
         },
         {
-          "showID": 115,
+          "showID": 114,
           "dateShow": "2025-07-18T19:30:00",
           "dateDoors": "2025-07-18T18:00:00",
           "dateLots": "",
@@ -681,7 +653,7 @@
           "YYYYMMDD": "20250718"
         },
         {
-          "showID": 116,
+          "showID": 115,
           "dateShow": "2025-07-19T19:30:00",
           "dateDoors": "2025-07-19T18:00:00",
           "dateLots": "",
@@ -709,7 +681,7 @@
           "YYYYMMDD": "20250719"
         },
         {
-          "showID": 117,
+          "showID": 116,
           "dateShow": "2025-07-20T19:30:00",
           "dateDoors": "2025-07-20T18:00:00",
           "dateLots": "",
@@ -737,7 +709,7 @@
           "YYYYMMDD": "20250720"
         },
         {
-          "showID": 118,
+          "showID": 117,
           "dateShow": "2025-07-22T18:00:00",
           "dateDoors": "2025-07-22T16:30:00",
           "dateLots": "",
@@ -765,7 +737,7 @@
           "YYYYMMDD": "20250722"
         },
         {
-          "showID": 119,
+          "showID": 118,
           "dateShow": "2025-07-23T18:00:00",
           "dateDoors": "2025-07-23T16:30:00",
           "dateLots": "",
@@ -793,7 +765,7 @@
           "YYYYMMDD": "20250723"
         },
         {
-          "showID": 120,
+          "showID": 119,
           "dateShow": "2025-07-25T19:30:00",
           "dateDoors": "2025-07-25T18:00:00",
           "dateLots": "",
@@ -821,7 +793,7 @@
           "YYYYMMDD": "20250725"
         },
         {
-          "showID": 121,
+          "showID": 120,
           "dateShow": "2025-07-26T19:30:00",
           "dateDoors": "2025-07-26T18:00:00",
           "dateLots": "",
@@ -849,7 +821,7 @@
           "YYYYMMDD": "20250726"
         },
         {
-          "showID": 122,
+          "showID": 121,
           "dateShow": "2025-07-27T19:30:00",
           "dateDoors": "2025-07-27T18:00:00",
           "dateLots": "",
@@ -877,7 +849,7 @@
           "YYYYMMDD": "20250727"
         },
         {
-          "showID": 123,
+          "showID": 122,
           "dateShow": "2025-09-12T19:30:00",
           "dateDoors": "",
           "dateLots": "",
