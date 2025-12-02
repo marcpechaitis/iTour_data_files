@@ -10,7 +10,8 @@ const colors = require('colors');
 const NodeGeocoder = require('node-geocoder');
 const GooglePlaces = require('googleplaces');
 const googlePlaces = new GooglePlaces(
-  process.env.ITOUR_GOOGLE_GEOCODE_API_KEY,
+  // process.env.ITOUR_GOOGLE_GEOCODE_API_KEY,
+  'AIzaSyC9pMxcHyfNzBL6ozAp2BO9IpUwNNyFxMo',
   'json'
 );
 let googlePlacesParameters = {};
@@ -20,7 +21,8 @@ const options = {
   provider: 'google',
   // Optional depending on the providers
   httpAdapter: 'https', // Default
-  apiKey: process.env.ITOUR_GOOGLE_GEOCODE_API_KEY, // for Mapquest, OpenCage, Google Premier
+  // apiKey: process.env.ITOUR_GOOGLE_GEOCODE_API_KEY, // for Mapquest, OpenCage, Google Premier
+  apiKey: 'AIzaSyC9pMxcHyfNzBL6ozAp2BO9IpUwNNyFxMo',
   formatter: null, // 'gpx', 'string', ...
 };
 const geocoder = NodeGeocoder(options);

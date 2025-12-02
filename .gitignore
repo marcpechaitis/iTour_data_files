@@ -7,3 +7,4 @@ npm-debug.log
 yarn-error.log 
 
 scripts/LatLngPlaces.js
+scripts/response.json
