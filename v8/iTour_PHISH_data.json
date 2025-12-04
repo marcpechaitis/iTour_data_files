@@ -435,8 +435,8 @@
         },
         {
           "showID": 207,
-          "dateShow": "2025-05-01T19:30:00",
-          "dateDoors": "2025-05-01T18:00:00",
+          "dateShow": "2026-05-01T19:30:00",
+          "dateDoors": "2026-05-01T18:00:00",
           "dateLots": "",
           "timeZone": "America/Los_Angeles",
           "venue": "Sphere",
@@ -449,7 +449,7 @@
           "country": "USA",
           "phoneNbr": "725-258-0001",
           "venueURL": "https://www.thespherevegas.com/",
-          "setlistURL": "http://phish.net/setlists/?d=2025-05-01",
+          "setlistURL": "http://phish.net/setlists/?d=2026-05-01",
           "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
           "lat": "36.121217",
           "lng": "-115.1620404",
@@ -458,13 +458,13 @@
           "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
           "dateString": "1",
           "monthString": "May",
-          "title": "Thu, May 1",
-          "YYYYMMDD": "20250501"
+          "title": "Fri, May 1",
+          "YYYYMMDD": "20260501"
         },
         {
           "showID": 208,
-          "dateShow": "2025-05-02T19:30:00",
-          "dateDoors": "2025-05-02T18:00:00",
+          "dateShow": "2026-05-02T19:30:00",
+          "dateDoors": "2026-05-02T18:00:00",
           "dateLots": "",
           "timeZone": "America/Los_Angeles",
           "venue": "Sphere",
@@ -477,7 +477,7 @@
           "country": "USA",
           "phoneNbr": "725-258-0001",
           "venueURL": "https://www.thespherevegas.com/",
-          "setlistURL": "http://phish.net/setlists/?d=2025-05-02",
+          "setlistURL": "http://phish.net/setlists/?d=2026-05-02",
           "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
           "lat": "36.121217",
           "lng": "-115.1620404",
@@ -486,8 +486,8 @@
           "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
           "dateString": "2",
           "monthString": "May",
-          "title": "Fri, May 2",
-          "YYYYMMDD": "20250502"
+          "title": "Sat, May 2",
+          "YYYYMMDD": "20260502"
         }
       ]
     }
@@ -915,8 +915,8 @@
     },
     {
       "showID": 207,
-      "dateShow": "2025-05-01T19:30:00",
-      "dateDoors": "2025-05-01T18:00:00",
+      "dateShow": "2026-05-01T19:30:00",
+      "dateDoors": "2026-05-01T18:00:00",
       "dateLots": "",
       "timeZone": "America/Los_Angeles",
       "venue": "Sphere",
@@ -929,7 +929,7 @@
       "country": "USA",
       "phoneNbr": "725-258-0001",
       "venueURL": "https://www.thespherevegas.com/",
-      "setlistURL": "http://phish.net/setlists/?d=2025-05-01",
+      "setlistURL": "http://phish.net/setlists/?d=2026-05-01",
       "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
       "lat": "36.121217",
       "lng": "-115.1620404",
@@ -938,13 +938,13 @@
       "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
       "dateString": "1",
       "monthString": "May",
-      "title": "Thu, May 1",
-      "YYYYMMDD": "20250501"
+      "title": "Fri, May 1",
+      "YYYYMMDD": "20260501"
     },
     {
       "showID": 208,
-      "dateShow": "2025-05-02T19:30:00",
-      "dateDoors": "2025-05-02T18:00:00",
+      "dateShow": "2026-05-02T19:30:00",
+      "dateDoors": "2026-05-02T18:00:00",
       "dateLots": "",
       "timeZone": "America/Los_Angeles",
       "venue": "Sphere",
@@ -957,7 +957,7 @@
       "country": "USA",
       "phoneNbr": "725-258-0001",
       "venueURL": "https://www.thespherevegas.com/",
-      "setlistURL": "http://phish.net/setlists/?d=2025-05-02",
+      "setlistURL": "http://phish.net/setlists/?d=2026-05-02",
       "seatingURL": "https://s3.amazonaws.com/prd218.tm-prod.tt.prod.us-east-1.tmaws-cdn/prod1/V2/0/fe/0fef4ede7547f5e1f7da76a99960b3fddd5ba53a.png",
       "lat": "36.121217",
       "lng": "-115.1620404",
@@ -966,8 +966,8 @@
       "placesID": "ChIJQ4t9gYLFyIAR71bgg5iKwUI",
       "dateString": "2",
       "monthString": "May",
-      "title": "Fri, May 2",
-      "YYYYMMDD": "20250502"
+      "title": "Sat, May 2",
+      "YYYYMMDD": "20260502"
     }
   ]
 }
