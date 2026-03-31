@@ -6,6 +6,15 @@
       "title": "Welcome to iTour.phish v9!",
       "body": "We've completely rebuilt the app from the ground up. Enjoy the new features and let us know what you think!",
       "type": "tour",
+      "priority": "high",
+      "url": null
+    },
+    {
+      "id": "2026-03-28-001",
+      "date": "2026-03-28",
+      "title": "Pro-tip for seeing the setlist!",
+      "body": "Long press on the event in the tour list to go directly to the setlist for the show ",
+      "type": "tour",
       "priority": "low",
       "url": null
     }
