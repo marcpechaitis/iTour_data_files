@@ -841,8 +841,8 @@
   },
   {
     "showID": 200,
-    "dateShow": "2026-01-27T19:30:00",
-    "dateDoors": "2026-01-27T18:00:00",
+    "dateShow": "2027-01-27T19:30:00",
+    "dateDoors": "2027-01-27T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -855,7 +855,7 @@
     "country": "Mexico",
     "phoneNbr": "+52 800 262 9008",
     "venueURL": "https://www.moonpalace.com/en",
-    "setlistURL": "http://phish.net/setlists/?d=2026-01-27",
+    "setlistURL": "http://phish.net/setlists/?d=2027-01-27",
     "seatingURL": "https://www.phishrivieramaya.com/activity-schedule/",
     "lat": "18.5001889",
     "lng": "-88.296146",
@@ -864,13 +864,13 @@
     "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
     "dateString": "27",
     "monthString": "Jan",
-    "title": "Tue, Jan 27",
-    "YYYYMMDD": "20260127"
+    "title": "Wed, Jan 27",
+    "YYYYMMDD": "20270127"
   },
   {
     "showID": 201,
-    "dateShow": "2026-01-28T19:30:00",
-    "dateDoors": "2026-01-28T18:00:00",
+    "dateShow": "2027-01-28T19:30:00",
+    "dateDoors": "2027-01-28T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -883,7 +883,7 @@
     "country": "Mexico",
     "phoneNbr": "+52 800 262 9008",
     "venueURL": "https://www.moonpalace.com/en",
-    "setlistURL": "http://phish.net/setlists/?d=2026-01-28",
+    "setlistURL": "http://phish.net/setlists/?d=2027-01-28",
     "seatingURL": "https://www.phishrivieramaya.com/activity-schedule/",
     "lat": "18.5001889",
     "lng": "-88.296146",
@@ -892,13 +892,13 @@
     "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
     "dateString": "28",
     "monthString": "Jan",
-    "title": "Wed, Jan 28",
-    "YYYYMMDD": "20260128"
+    "title": "Thu, Jan 28",
+    "YYYYMMDD": "20270128"
   },
   {
     "showID": 202,
-    "dateShow": "2026-01-29T19:30:00",
-    "dateDoors": "2026-01-29T18:00:00",
+    "dateShow": "2027-01-29T19:30:00",
+    "dateDoors": "2027-01-29T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -911,7 +911,7 @@
     "country": "Mexico",
     "phoneNbr": "+52 800 262 9008",
     "venueURL": "https://www.moonpalace.com/en",
-    "setlistURL": "http://phish.net/setlists/?d=2026-01-29",
+    "setlistURL": "http://phish.net/setlists/?d=2027-01-29",
     "seatingURL": "https://www.phishrivieramaya.com/activity-schedule/",
     "lat": "18.5001889",
     "lng": "-88.296146",
@@ -920,13 +920,13 @@
     "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
     "dateString": "29",
     "monthString": "Jan",
-    "title": "Thu, Jan 29",
-    "YYYYMMDD": "20260129"
+    "title": "Fri, Jan 29",
+    "YYYYMMDD": "20270129"
   },
   {
     "showID": 203,
-    "dateShow": "2026-01-30T19:30:00",
-    "dateDoors": "2026-01-30T18:00:00",
+    "dateShow": "2027-01-30T19:30:00",
+    "dateDoors": "2027-01-30T18:00:00",
     "dateLots": "",
     "timeZone": "America/Cancun",
     "venue": "Moon Palace",
@@ -939,7 +939,7 @@
     "country": "Mexico",
     "phoneNbr": "+52 800 262 9008",
     "venueURL": "https://www.moonpalace.com/en",
-    "setlistURL": "http://phish.net/setlists/?d=2026-01-30",
+    "setlistURL": "http://phish.net/setlists/?d=2027-01-30",
     "seatingURL": "https://www.phishrivieramaya.com/activity-schedule/",
     "lat": "18.5001889",
     "lng": "-88.296146",
@@ -948,7 +948,7 @@
     "placesID": "ChIJpy4RUlwoTI8RXrJ2FFP42qc",
     "dateString": "30",
     "monthString": "Jan",
-    "title": "Fri, Jan 30",
-    "YYYYMMDD": "20260130"
+    "title": "Sat, Jan 30",
+    "YYYYMMDD": "20270130"
   }
 ]
