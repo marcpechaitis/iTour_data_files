@@ -6,7 +6,7 @@
       "title": "Welcome to iTour.phish v9!",
       "body": "We've completely rebuilt the app from the ground up. Enjoy the new features and let us know what you think!",
       "type": "tour",
-      "priority": "high",
+      "priority": "low",
       "url": null
     }
   ]
