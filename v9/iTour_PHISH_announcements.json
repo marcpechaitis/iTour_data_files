@@ -1,13 +1,13 @@
 {
   "announcements": [
     {
-      "id": "2026-06-14-001",
-      "date": "2026-06-14",
-      "title": "Welcome to iTour.phish v9!",
-      "body": "We've completely rebuilt the app from the ground up. Enjoy the new features and let us know what you think!",
+      "id": "2026-07-08-001",
+      "date": "2026-07-08",
+      "title": "Important Update Available (v9.1.0)",
+      "body": "I just fixed a bug that was causing the event times to be displayed incorrectly. Please update the app to see the correct times on the detail screens. Already updated? You're all set.",
       "type": "tour",
-      "priority": "low",
-      "url": null
+      "priority": "high",
+      "url": "https://apps.apple.com/us/app/itour-phish/id391888525"
     }
   ]
 }
