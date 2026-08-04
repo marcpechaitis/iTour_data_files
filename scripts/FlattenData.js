@@ -7,7 +7,7 @@
 const inputFilename = process.argv[2];
 const outputFilename = process.argv[2];
 
-const jsonSource = require(`../v8/${inputFilename}`);
+const jsonSource = require(`../v9/${inputFilename}`);
 const fs = require('fs');
 const colors = require('colors');
 const { format, parseISO } = require('date-fns');
