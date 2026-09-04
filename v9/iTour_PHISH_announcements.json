@@ -1,13 +1,13 @@
 {
   "announcements": [
     {
-      "id": "2026-07-08-001",
-      "date": "2026-07-08",
-      "title": "Important Update Available (v9.1.0)",
-      "body": "I just fixed a bug that was causing the event times to be displayed incorrectly. Please update the app to see the correct times on the detail screens. Already updated? You're all set.",
+      "id": "2026-09-04-001",
+      "date": "2026-09-4",
+      "title": "We all love Dicks!",
+      "body": "Sale! Get the Unlock Premium purchase for just $.99 (66% off) for a limtied time! (Offer good until I wake up on Sunday morning 🤑)",
       "type": "tour",
       "priority": "high",
-      "url": "https://apps.apple.com/us/app/itour-phish/id391888525"
+      "url": ""
     }
   ]
 }
