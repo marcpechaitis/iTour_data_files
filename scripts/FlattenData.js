@@ -71,10 +71,10 @@ var processItems = function () {
 
   console.log('🗜 flattened data', JSON.stringify(jsonSource));
 
-  console.log('\n\nEnd Flatten Data for v8 Pass\n'.white.bgMagenta);
-  fs.writeFileSync(`../v8/${outputFilename}`, JSON.stringify(jsonSource));
+  console.log('\n\nEnd Flatten Data for v9 Pass\n'.white.bgMagenta);
+  fs.writeFileSync(`../v9/${outputFilename}`, JSON.stringify(jsonSource));
 
-  console.log('\n\nStart Flatten Data for < v8 Pass\n'.white.bgMagenta);
+  console.log('\n\nStart Flatten Data for < v9 Pass\n'.white.bgMagenta);
   fs.writeFileSync(`../${outputFilename}`, JSON.stringify(jsonSource.flatData));
   console.log('fin');
 
