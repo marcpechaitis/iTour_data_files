@@ -117,7 +117,7 @@
           "monthString": "Oct",
           "title": "Tue, Oct 6",
           "YYYYMMDD": "20261006",
-          "drivingMilesFromPrev": 298
+          "drivingMilesFromPrev": 305
         },
         {
           "showID": 104,
@@ -175,7 +175,7 @@
           "monthString": "Oct",
           "title": "Fri, Oct 9",
           "YYYYMMDD": "20261009",
-          "drivingMilesFromPrev": 599
+          "drivingMilesFromPrev": 600
         },
         {
           "showID": 106,
@@ -474,7 +474,7 @@
       "monthString": "Oct",
       "title": "Tue, Oct 6",
       "YYYYMMDD": "20261006",
-      "drivingMilesFromPrev": 298
+      "drivingMilesFromPrev": 305
     },
     {
       "showID": 104,
@@ -532,7 +532,7 @@
       "monthString": "Oct",
       "title": "Fri, Oct 9",
       "YYYYMMDD": "20261009",
-      "drivingMilesFromPrev": 599
+      "drivingMilesFromPrev": 600
     },
     {
       "showID": 106,
