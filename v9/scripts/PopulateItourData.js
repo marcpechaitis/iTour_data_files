@@ -14,6 +14,7 @@ const googlePlaces = new GooglePlaces(
   process.env.ITOUR_GOOGLE_GEOCODE_API_KEY_SCRIPT,
   'json'
 );
+const { isValid, format, parseISO } = require('date-fns');
 let googlePlacesParameters = {};
 
 const options = {
@@ -122,6 +123,7 @@ var processItems = function (i) {
           event.lat = JSON.stringify(response[0].latitude);
           event.lng = JSON.stringify(response[0].longitude);
           event.confidence = JSON.stringify(response[0].extra.confidence);
+
           applyVenueResultToAllEvents(event);
           console.log(
             event.showID +
@@ -355,6 +357,7 @@ var processDrivingDistances = function (sectionIndex, eventIndex) {
   if (sectionIndex >= jsonSource.sections.length) {
     console.log('\n\nEnd Driving Distance Pass\n'.white.bgMagenta);
 
+    processDates();
     syncAllData();
 
     fs.writeFileSync(`../${outputFilename}`, JSON.stringify(jsonSource));
@@ -468,6 +471,28 @@ var processDrivingDistances = function (sectionIndex, eventIndex) {
       }, 500);
     });
 };
+
+// Pass 5: Update Dates (synchronous, no API calls)
+function processDates() {
+  console.log('\n\nStart Date Pass\n'.white.bgMagenta);
+  flatEvents.forEach((event) => {
+    console.log('🔸', event.dateShow);
+    const eventDate = parseISO(event.dateShow);
+    if (!isValid(eventDate)) {
+      console.log(
+        event.showID +
+          ' WARNING '.black.bgYellow +
+          ` Invalid dateShow: ${event.dateShow} `.black.bgYellow
+      );
+      return;
+    }
+    event.dateString = format(eventDate, 'd');
+    event.monthString = format(eventDate, 'MMM');
+    event.title = format(eventDate, 'E, MMM d');
+    event.YYYYMMDD = format(eventDate, 'yyyyMMdd');
+  });
+  console.log('\n\nEnd Date Pass\n'.white.bgMagenta);
+}
 
 console.log('\n\nStart 1st Pass LatLng\n'.white.bgBlue);
 processItems(0);
