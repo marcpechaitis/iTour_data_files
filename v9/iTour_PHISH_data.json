@@ -210,9 +210,9 @@
           "showID": 107,
           "dateShow": "2026-10-12T19:00:00",
           "dateDoors": "2026-10-12T17:30:00",
-          "dateLots": "Rescheduled from 10/11/2026",
+          "dateLots": "",
           "timeZone": "America/Chicago",
-          "venue": "Orion Amphitheater",
+          "venue": " 🚨 Rescheduled from 10/11/2026 🚨",
           "altName": "Huntsville",
           "notes": "Capacity: 8,000",
           "address": "701 Amphitheater Dr NW",
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "title": "🗽 New Years 2026",
+      "title": "🥳 New Years 2026",
       "data": [
         {
           "showID": 200,
